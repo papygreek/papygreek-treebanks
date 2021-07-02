@@ -1,0 +1,27 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" text_id="10135" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2019-10-22" layer="reg"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-10-22" layer="orig"/>
+  <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2018-05-08" layer="orig"/>
+  <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2018-05-08" layer="reg"/>
+  <document_meta name="o.claud.1.1.xml" series_name="o.claud" series_type="documentary" tm_id="29810" hgv_id="29810" date_not_before="101" date_not_after="200" place_name="Mons Claudianus"/>
+  <hand_meta name="m1" id="1">
+    <text_type hypercategory="UNCERTAIN" category="Uncertain" subcategory="Uncertain"/>
+  </hand_meta>
+  <sentence id="1">
+    <word id="1" form_orig="∼ὣς∽" form_reg="ὃς" lemma_orig="ὅς" postag_orig="p-s---mn-" relation_orig="SBJ" head_orig="4" lemma_reg="ὅς" postag_reg="p-s---mn-" relation_reg="SBJ" head_reg="4" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id="619960"/>
+    <word id="2" form_orig="ἄν" form_reg="ἄν" lemma_orig="ἄν1" postag_orig="d--------" relation_orig="AuxY" head_orig="4" lemma_reg="ἄν1" postag_reg="d--------" relation_reg="AuxY" head_reg="4" tp_n="1" line_n="1" lang="grc" hand_id="2" tm_word_id="619961"/>
+    <word id="3" form_orig="τις" form_reg="τις" lemma_orig="τις" postag_orig="p-s---mn-" relation_orig="ATR" head_orig="1" lemma_reg="τις" postag_reg="p-s---mn-" relation_reg="ATR" head_reg="1" tp_n="1" line_n="1" lang="grc" hand_id="3" tm_word_id="619962"/>
+    <word id="4" form_orig="εὕρῃ" form_reg="εὕρῃ" lemma_orig="εὑρίσκω" postag_orig="v3sasa---" relation_orig="SBJ" head_orig="9" lemma_reg="εὑρίσκω" postag_reg="v3sasa---" relation_reg="SBJ" head_reg="9" tp_n="1" line_n="1" lang="grc" hand_id="4" tm_word_id="619963"/>
+    <word id="5" form_orig="∼τουτω∽" form_reg="τοῦτο" lemma_orig="οὗτος" postag_orig="p-s---n_-" relation_orig="ATR" head_orig="7" lemma_reg="οὗτος" postag_reg="p-s---na-" relation_reg="ATR" head_reg="7" tp_n="1" line_n="2" lang="grc" hand_id="5" tm_word_id="619964"/>
+    <word id="6" form_orig="τὸ" form_reg="τὸ" lemma_orig="ὁ" postag_orig="l-s---na-" relation_orig="ATR" head_orig="7" lemma_reg="ὁ" postag_reg="l-s---na-" relation_reg="ATR" head_reg="7" tp_n="1" line_n="2" lang="grc" hand_id="6" tm_word_id="619965"/>
+    <word id="7" form_orig="∼ὄσστρα∤κον∽" form_reg="ὄστρα∤κον" lemma_orig="ὄστρακον" postag_orig="n-s---na-" relation_orig="OBJ" head_orig="4" lemma_reg="ὄστρακον" postag_reg="n-s---na-" relation_reg="OBJ" head_reg="4" tp_n="1" line_n="2-3" lang="grc" hand_id="7" tm_word_id="619966"/>
+    <word id="8" form_orig="," form_reg="," lemma_orig="punc1" postag_orig="u--------" relation_orig="AuxX" head_orig="4" lemma_reg="punc1" postag_reg="u--------" relation_reg="AuxX" head_reg="4" tp_n="1" line_n="3" lang="grc" hand_id="8" tm_word_id="619967"/>
+    <word id="9" form_orig="∼δώσι∽" form_reg="δώσει" lemma_orig="δίδωμι" postag_orig="v3sfia---" relation_orig="PRED" head_orig="0" lemma_reg="δίδωμι" postag_reg="v3sfia---" relation_reg="PRED" head_reg="0" tp_n="1" line_n="3" lang="grc" hand_id="9" tm_word_id="619968"/>
+    <word id="10" form_orig="∼στρατη∤ρα∽" form_reg="στατῆ∤ρα" lemma_orig="στατήρ" postag_orig="n-s---ma-" relation_orig="OBJ" head_orig="9" lemma_reg="στατήρ" postag_reg="n-s---ma-" relation_reg="OBJ" head_reg="9" tp_n="1" line_n="3-4" lang="grc" hand_id="10" tm_word_id="619969"/>
+    <word id="11" form_orig="." form_reg="." lemma_orig="punc1" postag_orig="u--------" relation_orig="AuxK" head_orig="0" lemma_reg="punc1" postag_reg="u--------" relation_reg="AuxK" head_reg="0" tp_n="1" line_n="4" lang="grc" hand_id="11" tm_word_id="619970"/>
+  </sentence>
+  <sentence id="2">
+    <word id="1" form_orig="∼ἔρωσο∽" form_reg="ἔρρωσο" lemma_orig="ῥώννυμι" postag_orig="v2srme---" relation_orig="PRED" head_orig="0" lemma_reg="ῥώννυμι" postag_reg="v2srme---" relation_reg="PRED" head_reg="0" tp_n="1" line_n="5" lang="grc" hand_id="12" tm_word_id="619971"/>
+    <word id="2" form_orig="." form_reg="." lemma_orig="punc1" postag_orig="u--------" relation_orig="AuxK" head_orig="0" lemma_reg="punc1" postag_reg="u--------" relation_reg="AuxK" head_reg="0" tp_n="1" line_n="5" lang="grc" hand_id="13" tm_word_id="619972"/>
+  </sentence>
+</treebank>

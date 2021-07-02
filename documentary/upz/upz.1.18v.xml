@@ -1,0 +1,24 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" text_id="55761" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-04-14" layer="reg"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-04-09" layer="reg"/>
+  <document_meta name="upz.1.18v.xml" series_name="upz" series_type="documentary" tm_id="3409" hgv_id="3409b" date_not_before="-162" date_not_after="-161" place_name="Memphis"/>
+  <hand_meta name="m1" id="1">
+    <text_type hypercategory="ADMINISTRATION" category="Petition" subcategory=""/>
+    <person pg_id="99" tm_id="12813" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Ptolemaios (Πτολεμαῖος), son of Glaukias" gender="1" uncertain=""/>
+    <person pg_id="105" tm_id="35723" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="Non-professional" name="Apollonios (Ἀπολλώνιος), son of Glaukias" gender="1" uncertain=""/>
+  </hand_meta>
+  <sentence id="1">
+    <word id="1" form_orig="παρὰ" form_reg="παρὰ" lemma_orig="παρά" postag_orig="r--------" relation_orig="AuxP" head_orig="11" lemma_reg="παρά" postag_reg="r--------" relation_reg="AuxP" head_reg="11" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id="4673720"/>
+    <word id="2" form_orig="Πτολεμαίου" form_reg="Πτολεμαίου" lemma_orig="Πτολεμαῖος" postag_orig="n-s---mg-" relation_orig="ADV" head_orig="1" lemma_reg="Πτολεμαῖος" postag_reg="n-s---mg-" relation_reg="ADV" head_reg="1" tp_n="1" line_n="1" lang="grc" hand_id="2" tm_word_id="4673721"/>
+    <word id="3" form_orig="Γλαυκίου" form_reg="Γλαυκίου" lemma_orig="Γλαυκίας" postag_orig="n-s---mg-" relation_orig="ATR" head_orig="2" lemma_reg="Γλαυκίας" postag_reg="n-s---mg-" relation_reg="ATR" head_reg="2" tp_n="1" line_n="1" lang="grc" hand_id="3" tm_word_id="4673722"/>
+    <word id="4" form_orig="∼Μακ[ε]δ[ών]∽" form_reg="Μακεδόνος" lemma_orig="Μακεδών" postag_orig="n-_---m_-" relation_orig="ATR" head_orig="2" lemma_reg="Μακεδών" postag_reg="n-s---mg-" relation_reg="ATR" head_reg="2" tp_n="1" line_n="1" lang="grc" hand_id="4" tm_word_id="4673723"/>
+    <word id="5" form_orig="∼ο∽" form_reg="τοῦ" lemma_orig="ὁ" postag_orig="l-s---mn-" relation_orig="ATR" head_orig="12" lemma_reg="ὁ" postag_reg="l-s---mg-" relation_reg="ATR" head_reg="12" tp_n="1" line_n="2" lang="grc" hand_id="5" tm_word_id="4673724"/>
+    <word id="6" form_orig="ἐν" form_reg="ἐν" lemma_orig="ἐν" postag_orig="r--------" relation_orig="AuxP" head_orig="12" lemma_reg="ἐν" postag_reg="r--------" relation_reg="Aux" head_reg="12" tp_n="1" line_n="2" lang="grc" hand_id="6" tm_word_id="4673725"/>
+    <word id="7" form_orig="κατοχῇ" form_reg="κατοχῇ" lemma_orig="κατοχή" postag_orig="n-s---fd-" relation_orig="ADV" head_orig="6" lemma_reg="κατοχή" postag_reg="n-s---fd-" relation_reg="ADV" head_reg="6" tp_n="1" line_n="2" lang="grc" hand_id="7" tm_word_id="4673726"/>
+    <word id="8" form_orig="∼ἠτη∽" form_reg="ἔτος" lemma_orig="ἔτος" postag_orig="n-_---n_-" relation_orig="ADV" head_orig="12" lemma_reg="ἔτος" postag_reg="n-s---na-" relation_reg="ADV" head_reg="12" tp_n="1" line_n="2" lang="grc" hand_id="8" tm_word_id="4673727"/>
+    <word id="9" form_orig="ἤδη" form_reg="ἤδη" lemma_orig="ἤδη" postag_orig="d--------" relation_orig="AuxZ" head_orig="10" lemma_reg="ἤδη" postag_reg="d--------" relation_reg="AuxZ" head_reg="10" tp_n="1" line_n="2" lang="grc" hand_id="9" tm_word_id="4673728"/>
+    <word id="10" form_orig="ἑνδέκατον" form_reg="ἑνδέκατον" lemma_orig="ἑνδέκατος" postag_orig="m-s---na-" relation_orig="ATR" head_orig="8" lemma_reg="ἑνδέκατος" postag_reg="m-s---na-" relation_reg="ATR" head_reg="8" tp_n="1" line_n="2" lang="grc" hand_id="10" tm_word_id="4673729"/>
+    <word id="11" form_orig="[0]" form_reg="[0]" lemma_orig="" postag_orig="" relation_orig="PRED" head_orig="0" lemma_reg="" postag_reg="" relation_reg="PRED" head_reg="0" insertion_id="0010e" artificial="elliptic" tp_n="" line_n="" lang="" hand_id="11" tm_word_id=""/>
+    <word id="12" form_orig="[1]" form_reg="[1]" lemma_orig="" postag_orig="" relation_orig="ATR" head_orig="2" lemma_reg="" postag_reg="" relation_reg="ATR" head_reg="2" insertion_id="0005e" artificial="elliptic" tp_n="" line_n="" lang="" hand_id="12" tm_word_id=""/>
+  </sentence>
+</treebank>
