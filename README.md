@@ -1,4 +1,4 @@
-# PapyGreek Treebanks 1.0
+# PapyGreek Treebanks
 
 These XML files contain documentary papyrus texts written in Postclassical Greek (ca. 300 BCE–700 CE), morphosyntactically annotated according to Dependency Grammar. The source of the digital editions of the papyri is [Papyri.info IDP (Integrating Digital Papyrology) Data](https://github.com/papyri/idp.data) in TEI EpiDoc XML, and the texts have been preprocessed into annotatable form (omitting TEI tags) to include both editorial regularisations (`reg`) and the original (`orig`) forms of the words (cf. [Vierros and Henriksson 2017](https://hal.archives-ouvertes.fr/hal-01279493v2), [Vierros 2018)](https://www.degruyter.com/document/doi/10.1515/9783110547450-006/html); the linguistic annotation of the `reg` and `orig` tokens may differ from one another, revealing linguistic variation. The platform for handling the papyri (preprocessing, annotation, adding metadata, etc.) is the [PapyGreek portal](https://papygreek.hum.helsinki.fi/), developed by Henriksson for the project [Digital Grammar of Greek Documentary Papyri (PapyGreek)](https://www2.helsinki.fi/en/researchgroups/digital-grammar-of-greek-documentary-papyri). PapyGreek portal has replaced the older platform _Sematia_ (no longer used) and some of the annotations included in _Sematia_ have been imported to PapyGreek.
 
@@ -20,3 +20,4 @@ The syntactic trees have been semi-manually annotated using the [Arethusa](https
 
 The treebanks are licensed under a CC BY-SA 4.0 License (see LICENSE file).
 
+Version 1.0 (23 June 2021)
