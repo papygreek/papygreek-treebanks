@@ -1,7 +1,15 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="1077" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2021-06-22" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2021-06-22" layer="orig"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2020-09-29" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2020-09-29" layer="orig"/>
   <document_meta name="bgu.16.2655.xml" series_name="bgu" series_type="documentary" tm_id="23379" hgv_id="23379" date_not_before="-21" date_not_after="-20" place_name="Herakleopolites"/>
-  <hand_meta name="m1" id="1"/>
+  <hand_meta name="m1" id="1">
+    <text_type hypercategory="BUSINESS" category="Letter" subcategory="Business correspondence"/>
+    <person pg_id="261" tm_id="268620" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Aphrodisios (Ἀφροδίσιος)" gender="1" uncertain=""/>
+    <person pg_id="293" tm_id="268705" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Soteles (Σωτέλης)" gender="1" uncertain=""/>
+    <person pg_id="294" tm_id="" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
+  </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="Ἀφροδίσιος" form_reg="Ἀφροδίσιος" lemma_orig="Ἀφροδίσιος" postag_orig="n-s---mn-" relation_orig="SBJ" head_orig="5" lemma_reg="Ἀφροδίσιος" postag_reg="n-s---mn-" relation_reg="SBJ" head_reg="5" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id=""/>
     <word id="2" form_orig="Σωτ[έλῃ]" form_reg="Σωτέλῃ" lemma_orig="Σωτέλης" postag_orig="n-_---m_-" relation_orig="OBJ" head_orig="5" lemma_reg="Σωτέλης" postag_reg="n-s---md-" relation_reg="OBJ" head_reg="5" tp_n="1" line_n="1" lang="grc" hand_id="2" tm_word_id=""/>

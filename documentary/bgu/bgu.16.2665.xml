@@ -1,8 +1,11 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="1087" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-04-25" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-04-25" layer="orig"/>
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2020-10-06" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2020-10-06" layer="orig"/>
   <document_meta name="bgu.16.2665.xml" series_name="bgu" series_type="documentary" tm_id="23389" hgv_id="23389" date_not_before="-28" date_not_after="-27" place_name="Busiris (Herakleopolites)"/>
   <hand_meta name="m1" id="1">
+    <text_type hypercategory="" category="" subcategory=""/>
     <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>
     <person pg_id="299" tm_id="341807" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Tryphaina (Τρύφαινα)" gender="2" uncertain=""/>
     <person pg_id="300" tm_id="" role="writer" handwriting="Bagnall &amp; Cribiore: The writer may be either Tryphon or a scribe in the family employ. The hand is small, proficient, and betrays lots of confidence in writing. Speed is higher than in the average letter hand, but legibility is fairly good. Because of the bad condition of the papyrus it is impossible to determine whether the farewell and the date were written by the same writer." honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="Educated/professional" name="" gender="" uncertain=""/>

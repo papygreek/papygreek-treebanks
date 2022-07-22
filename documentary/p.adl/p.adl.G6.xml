@@ -1,7 +1,10 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="21508" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-06-12" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-06-12" layer="orig"/>
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated" date="2020-06-10" layer="orig"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated" date="2020-06-10" layer="reg"/>
   <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-05-07" layer="reg"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-05-07" layer="orig"/>
   <document_meta name="p.adl.G6.xml" series_name="p.adl" series_type="documentary" tm_id="5" hgv_id="5" date_not_before="-106" date_not_after="-106" place_name="Pathyris"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="LAW" category="Contract" subcategory="Loan"/>
@@ -111,26 +114,28 @@
     <word id="17" form_orig="∼ἐγ∽" form_reg="ἐκ" lemma_orig="ἐκ" postag_orig="r--------" relation_orig="AuxP" head_orig="20" lemma_reg="ἐκ" postag_reg="r--------" relation_reg="AuxP" head_reg="20" tp_n="1" line_n="21" lang="grc" hand_id="88" tm_word_id=""/>
     <word id="18" form_orig="δίκης" form_reg="δίκης" lemma_orig="δίκη" postag_orig="n-s---fg-" relation_orig="ADV" head_orig="17" lemma_reg="δίκη" postag_reg="n-s---fg-" relation_reg="ADV" head_reg="17" tp_n="1" line_n="21" lang="grc" hand_id="89" tm_word_id=""/>
     <word id="19" form_orig="." form_reg="." lemma_orig="punc1" postag_orig="u--------" relation_orig="AuxK" head_orig="0" lemma_reg="." postag_reg="u--------" relation_reg="AuxK" head_reg="0" tp_n="1" line_n="21" lang="grc" hand_id="90" tm_word_id=""/>
-    <word id="20" form_orig="[0]" form_reg="[0]" lemma_orig="" postag_orig="" relation_orig="" head_orig="16" lemma_reg="" postag_reg="" relation_reg="ADV" head_reg="16" insertion_id="0016e" artificial="elliptic" tp_n="" line_n="" lang="" hand_id="91" tm_word_id=""/>
   </sentence>
   <sentence id="6">
-    <word id="1" form_orig="❨Ἑρμί(ας)❩" form_reg="Ἑρμίας" lemma_orig="Ἑρμίας" postag_orig="n-s---m--" relation_orig="PNOM" head_orig="5" lemma_reg="Ἑρμίας" postag_reg="n-s---mn-" relation_reg="SBJ" head_reg="5" tp_n="1" line_n="22" lang="grc" hand_id="92" tm_word_id=""/>
-    <word id="2" form_orig="ὁ" form_reg="ὁ" lemma_orig="ὁ" postag_orig="p-s---mn-" relation_orig="ATR" head_orig="1" lemma_reg="ὁ" postag_reg="p-s---mn-" relation_reg="ATR" head_reg="1" tp_n="1" line_n="22" lang="grc" hand_id="93" tm_word_id=""/>
-    <word id="3" form_orig="παρὰ" form_reg="παρὰ" lemma_orig="παρά" postag_orig="r--------" relation_orig="AuxP" head_orig="2" lemma_reg="παρά" postag_reg="r--------" relation_reg="AuxP" head_reg="2" tp_n="1" line_n="22" lang="grc" hand_id="94" tm_word_id=""/>
-    <word id="4" form_orig="❨Πανί(σκου)❩" form_reg="Πανίσκου" lemma_orig="Πανίσκος" postag_orig="n-_---m_-" relation_orig="ATR" head_orig="3" lemma_reg="Πανίσκος" postag_reg="n-s---mg-" relation_reg="ATR" head_reg="3" tp_n="1" line_n="22" lang="grc" hand_id="95" tm_word_id=""/>
-    <word id="5" form_orig="❨κεχρη(μάτικα)❩" form_reg="κεχρημάτικα" lemma_orig="χρηματίζω" postag_orig="v--r-----" relation_orig="ATR" head_orig="0" lemma_reg="χρηματίζω" postag_reg="v1sria---" relation_reg="PRED" head_reg="0" tp_n="1" line_n="22" lang="grc" hand_id="96" tm_word_id=""/>
-    <word id="6" form_orig="." form_reg="." lemma_orig="." postag_orig="u--------" relation_orig="AuxK" head_orig="0" lemma_reg="." postag_reg="u--------" relation_reg="AuxK" head_reg="0" tp_n="1" line_n="22" lang="grc" hand_id="97" tm_word_id=""/>
+    <word id="1" form_orig="❨Ἑρμί(ας)❩" form_reg="Ἑρμίας" lemma_orig="Ἑρμίας" postag_orig="n-s---m--" relation_orig="PNOM" head_orig="5" lemma_reg="Ἑρμίας" postag_reg="n-s---mn-" relation_reg="SBJ" head_reg="5" tp_n="1" line_n="22" lang="grc" hand_id="91" tm_word_id=""/>
+    <word id="2" form_orig="ὁ" form_reg="ὁ" lemma_orig="ὁ" postag_orig="p-s---mn-" relation_orig="ATR" head_orig="1" lemma_reg="ὁ" postag_reg="p-s---mn-" relation_reg="ATR" head_reg="1" tp_n="1" line_n="22" lang="grc" hand_id="92" tm_word_id=""/>
+    <word id="3" form_orig="παρὰ" form_reg="παρὰ" lemma_orig="παρά" postag_orig="r--------" relation_orig="AuxP" head_orig="2" lemma_reg="παρά" postag_reg="r--------" relation_reg="AuxP" head_reg="2" tp_n="1" line_n="22" lang="grc" hand_id="93" tm_word_id=""/>
+    <word id="4" form_orig="❨Πανί(σκου)❩" form_reg="Πανίσκου" lemma_orig="Πανίσκος" postag_orig="n-_---m_-" relation_orig="ATR" head_orig="3" lemma_reg="Πανίσκος" postag_reg="n-s---mg-" relation_reg="ATR" head_reg="3" tp_n="1" line_n="22" lang="grc" hand_id="94" tm_word_id=""/>
+    <word id="5" form_orig="❨κεχρη(μάτικα)❩" form_reg="κεχρημάτικα" lemma_orig="χρηματίζω" postag_orig="v--r-----" relation_orig="ATR" head_orig="0" lemma_reg="χρηματίζω" postag_reg="v1sria---" relation_reg="PRED" head_reg="0" tp_n="1" line_n="22" lang="grc" hand_id="95" tm_word_id=""/>
+    <word id="6" form_orig="." form_reg="." lemma_orig="." postag_orig="u--------" relation_orig="AuxK" head_orig="0" lemma_reg="." postag_reg="u--------" relation_reg="AuxK" head_reg="0" tp_n="1" line_n="22" lang="grc" hand_id="96" tm_word_id=""/>
   </sentence>
   <sentence id="7">
-    <word id="1" form_orig="❨δ̣ά̣(νειον)❩" form_reg="δάνειον" lemma_orig="δάνειον" postag_orig="n-_---n_-" relation_orig="PNOM" head_orig="10" lemma_reg="δάνειον" postag_reg="n-s---nn-" relation_reg="PNOM" head_reg="10" tp_n="2" line_n="1" lang="grc" hand_id="98" tm_word_id=""/>
-    <word id="2" form_orig="Ὥρωι" form_reg="Ὥρωι" lemma_orig="Ὡρος" postag_orig="n-s---md-" relation_orig="OBJ" head_orig="10" lemma_reg="Ὡρος" postag_reg="n-s---md-" relation_reg="OBJ" head_reg="10" tp_n="2" line_n="1" lang="grc" hand_id="99" tm_word_id=""/>
-    <word id="3" form_orig="Λαμένθιος" form_reg="Λαμένθιος" lemma_orig="Λαμενθις" postag_orig="n-s---mg-" relation_orig="ATR" head_orig="2" lemma_reg="Λαμενθις" postag_reg="n-s---mg-" relation_reg="ATR" head_reg="2" tp_n="2" line_n="1" lang="grc" hand_id="100" tm_word_id=""/>
-    <word id="4" form_orig="❨κ̣ρ̣ό̣τ̣ω(νος)❩" form_reg="κρότωνος" lemma_orig="κροτών" postag_orig="n-_---m_-" relation_orig="ATR" head_orig="5" lemma_reg="κροτών" postag_reg="n-s---mg-" relation_reg="ATR" head_reg="5" tp_n="2" line_n="2" lang="grc" hand_id="101" tm_word_id=""/>
-    <word id="5" form_orig="❨(ἀρτάβης)❩" form_reg="ἀρτάβης" lemma_orig="ἀρτάβη" postag_orig="n-_---f_-" relation_orig="ATR" head_orig="1" lemma_reg="ἀρτάβη" postag_reg="n-s---fg-" relation_reg="ATR" head_reg="1" tp_n="2" line_n="2" lang="grc" hand_id="102" tm_word_id=""/>
-    <word id="6" form_orig="α|num:1|" form_reg="α|num:1|" lemma_orig="α" postag_orig="m-s---__-" relation_orig="ATR_CO" head_orig="9" lemma_reg="α" postag_reg="m-s---__-" relation_reg="ATR_CO" head_reg="9" tp_n="2" line_n="2" lang="grc" hand_id="103" tm_word_id=""/>
-    <word id="7" form_orig="ιβ|num:1/12_tick|" form_reg="ιβ|num:1/12_tick|" lemma_orig="ιβ" postag_orig="m-_---__-" relation_orig="ATR_CO" head_orig="9" lemma_reg="ιβ" postag_reg="m-_---__-" relation_reg="ATR_CO" head_reg="9" tp_n="2" line_n="2" lang="grc" hand_id="104" tm_word_id=""/>
-    <word id="8" form_orig="." form_reg="." lemma_orig="punc1" postag_orig="u--------" relation_orig="AuxK" head_orig="0" lemma_reg="." postag_reg="u--------" relation_reg="AuxK" head_reg="0" tp_n="2" line_n="2" lang="grc" hand_id="105" tm_word_id=""/>
-    <word id="9" form_orig="[0]" form_reg="[0]" lemma_orig="" postag_orig="" relation_orig="COORD" head_orig="5" lemma_reg="" postag_reg="" relation_reg="COORD" head_reg="5" insertion_id="0006e" artificial="elliptic" tp_n="" line_n="None" lang="None" hand_id="106" tm_word_id=""/>
-    <word id="10" form_orig="[1]" form_reg="[1]" lemma_orig="" postag_orig="" relation_orig="ExD" head_orig="0" lemma_reg="" postag_reg="" relation_reg="ExD" head_reg="0" insertion_id="0007e" artificial="elliptic" tp_n="" line_n="None" lang="None" hand_id="107" tm_word_id=""/>
+    <word id="1" form_orig="❨δ̣ά̣(νειον)❩" form_reg="δάνειον" lemma_orig="δάνειον" postag_orig="n-_---n_-" relation_orig="PNOM" head_orig="10" lemma_reg="δάνειον" postag_reg="n-s---nn-" relation_reg="PNOM" head_reg="10" tp_n="2" line_n="1" lang="grc" hand_id="97" tm_word_id=""/>
+    <word id="2" form_orig="Ὥρωι" form_reg="Ὥρωι" lemma_orig="Ὡρος" postag_orig="n-s---md-" relation_orig="OBJ" head_orig="10" lemma_reg="Ὡρος" postag_reg="n-s---md-" relation_reg="OBJ" head_reg="10" tp_n="2" line_n="1" lang="grc" hand_id="98" tm_word_id=""/>
+    <word id="3" form_orig="Λαμένθιος" form_reg="Λαμένθιος" lemma_orig="Λαμενθις" postag_orig="n-s---mg-" relation_orig="ATR" head_orig="2" lemma_reg="Λαμενθις" postag_reg="n-s---mg-" relation_reg="ATR" head_reg="2" tp_n="2" line_n="1" lang="grc" hand_id="99" tm_word_id=""/>
+    <word id="4" form_orig="❨κ̣ρ̣ό̣τ̣ω(νος)❩" form_reg="κρότωνος" lemma_orig="κροτών" postag_orig="n-_---m_-" relation_orig="ATR" head_orig="5" lemma_reg="κροτών" postag_reg="n-s---mg-" relation_reg="ATR" head_reg="5" tp_n="2" line_n="2" lang="grc" hand_id="100" tm_word_id=""/>
+    <word id="5" form_orig="❨(ἀρτάβης)❩" form_reg="ἀρτάβης" lemma_orig="ἀρτάβη" postag_orig="n-_---f_-" relation_orig="ATR" head_orig="1" lemma_reg="ἀρτάβη" postag_reg="n-s---fg-" relation_reg="ATR" head_reg="1" tp_n="2" line_n="2" lang="grc" hand_id="101" tm_word_id=""/>
+    <word id="6" form_orig="α|num:1|" form_reg="α|num:1|" lemma_orig="α" postag_orig="m-s---__-" relation_orig="ATR_CO" head_orig="9" lemma_reg="α" postag_reg="m-s---__-" relation_reg="ATR_CO" head_reg="9" tp_n="2" line_n="2" lang="grc" hand_id="102" tm_word_id=""/>
+    <word id="7" form_orig="ιβ|num:1/12_tick|" form_reg="ιβ|num:1/12_tick|" lemma_orig="ιβ" postag_orig="m-_---__-" relation_orig="ATR_CO" head_orig="9" lemma_reg="ιβ" postag_reg="m-_---__-" relation_reg="ATR_CO" head_reg="9" tp_n="2" line_n="2" lang="grc" hand_id="103" tm_word_id=""/>
+    <word id="8" form_orig="." form_reg="." lemma_orig="punc1" postag_orig="u--------" relation_orig="AuxK" head_orig="0" lemma_reg="." postag_reg="u--------" relation_reg="AuxK" head_reg="0" tp_n="2" line_n="2" lang="grc" hand_id="104" tm_word_id=""/>
+    <word id="9" form_orig="[0]" form_reg="[0]" lemma_orig="" postag_orig="" relation_orig="COORD" head_orig="5" lemma_reg="" postag_reg="" relation_reg="COORD" head_reg="5" insertion_id="0006e" artificial="elliptic" tp_n="" line_n="None" lang="None" hand_id="105" tm_word_id=""/>
+    <word id="10" form_orig="[1]" form_reg="[1]" lemma_orig="" postag_orig="" relation_orig="ExD" head_orig="0" lemma_reg="" postag_reg="" relation_reg="ExD" head_reg="0" insertion_id="0007e" artificial="elliptic" tp_n="" line_n="None" lang="None" hand_id="106" tm_word_id=""/>
+  </sentence>
+  <sentence id="5">
+    <word id="20" form_orig="[0]" form_reg="[0]" lemma_orig="" postag_orig="" relation_orig="" head_orig="16" lemma_reg="" postag_reg="" relation_reg="ADV" head_reg="16" insertion_id="0016e" artificial="elliptic" tp_n="" line_n="" lang="" hand_id="107" tm_word_id=""/>
   </sentence>
 </treebank>

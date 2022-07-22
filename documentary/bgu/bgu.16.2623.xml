@@ -1,6 +1,8 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="1045" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2021-05-08" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2021-05-08" layer="orig"/>
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2021-05-08" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2021-05-08" layer="orig"/>
   <document_meta name="bgu.16.2623.xml" series_name="bgu" series_type="documentary" tm_id="23347" hgv_id="23347" date_not_before="-10" date_not_after="-10" place_name="unbekannt"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="ADMINISTRATION" category="Letter" subcategory="Letter of recommendation (official)"/>

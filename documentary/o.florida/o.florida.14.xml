@@ -1,14 +1,16 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="13036" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-01-28" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-01-28" layer="orig"/>
   <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2021-01-27" layer="orig"/>
-  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-11-15" layer="orig"/>
+  <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2021-01-27" layer="reg"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-11-15" layer="reg"/>
+  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-11-15" layer="orig"/>
   <document_meta name="o.florida.14.xml" series_name="o.florida" series_type="documentary" tm_id="74508" hgv_id="74508" date_not_before="126" date_not_after="200" place_name="Contrapollonopolis (?) oder Theben (?)"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>
     <person pg_id="370" tm_id="123589" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Maximos" gender="1" uncertain=""/>
     <person pg_id="371" tm_id="123589" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Tinarsiegetis" gender="2" uncertain=""/>
-    <person pg_id="" tm_id="" role="writer" handwriting="THE LETTER is WRITTEN in an experienced letter hand and well disposed over the surface of a large ostracon. Letters are largely detached except in the farewell. (Bagnall &amp; Cribiore)" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
+    <person pg_id="370" tm_id="123589" role="writer" handwriting="THE LETTER is WRITTEN in an experienced letter hand and well disposed over the surface of a large ostracon. Letters are largely detached except in the farewell. (Bagnall &amp; Cribiore)" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Maximos" gender="1" uncertain="1"/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="Μάξιμος" form_reg="Μάξιμος" lemma_orig="Μάξιμος" postag_orig="n-s---mn-" relation_orig="SBJ" head_orig="12" lemma_reg="Μάξιμος" postag_reg="n-s---mn-" relation_reg="SBJ" head_reg="12" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id="680964"/>

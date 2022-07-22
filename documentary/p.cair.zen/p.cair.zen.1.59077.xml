@@ -1,13 +1,16 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="24012" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-03-09" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-03-09" layer="orig"/>
   <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-03-09" layer="reg"/>
-  <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2018-09-21" layer="orig"/>
+  <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-03-09" layer="orig"/>
   <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2018-09-21" layer="reg"/>
+  <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2018-09-21" layer="orig"/>
   <document_meta name="p.cair.zen.1.59077.xml" series_name="p.cair.zen" series_type="documentary" tm_id="732" hgv_id="732" date_not_before="-257" date_not_after="-257" place_name="unbekannt"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="PRIVATE" category="Letter" subcategory=""/>
     <person pg_id="425" tm_id="2295" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Krotos" gender="1" uncertain=""/>
     <person pg_id="133" tm_id="1757" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Zenon" gender="1" uncertain=""/>
+    <person pg_id="425" tm_id="2295" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Krotos" gender="1" uncertain="1"/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="Κρότος" form_reg="Κρότος" lemma_orig="Κρότος" postag_orig="n-s---mn-" relation_orig="SBJ" head_orig="5" lemma_reg="Κρότος" postag_reg="n-s---mn-" relation_reg="SBJ" head_reg="5" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id="1218365"/>

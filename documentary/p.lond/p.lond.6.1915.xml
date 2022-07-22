@@ -1,5 +1,6 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="31749" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-12-13" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-12-13" layer="orig"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-10-03" layer="orig"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-10-03" layer="reg"/>
   <document_meta name="p.lond.6.1915.xml" series_name="p.lond" series_type="documentary" tm_id="16853" hgv_id="16853" date_not_before="330" date_not_after="340" place_name="Herakleopolites bzw. Kynopolites"/>

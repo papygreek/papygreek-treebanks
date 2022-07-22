@@ -1,8 +1,18 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="10179" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-04-06" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-04-06" layer="orig"/>
   <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-04-03" layer="reg"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-04-03" layer="orig"/>
+  <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2017-02-08" layer="reg"/>
+  <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2017-02-08" layer="reg"/>
   <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2017-02-08" layer="reg"/>
   <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2016-11-03" layer="orig"/>
+  <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2016-11-03" layer="orig"/>
+  <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2016-11-03" layer="orig"/>
+  <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2016-10-31" layer="reg"/>
+  <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2016-10-31" layer="orig"/>
+  <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2016-10-31" layer="reg"/>
+  <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2016-10-31" layer="orig"/>
   <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2016-10-31" layer="orig"/>
   <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2016-10-31" layer="reg"/>
   <document_meta name="o.claud.1.139.xml" series_name="o.claud" series_type="documentary" tm_id="24151" hgv_id="24151" date_not_before="110" date_not_after="110" place_name="Mons Claudianus"/>

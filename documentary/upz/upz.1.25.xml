@@ -1,17 +1,23 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="55769" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2019-11-07" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2019-11-07" layer="orig"/>
   <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-11-05" layer="reg"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-11-05" layer="orig"/>
   <document_meta name="upz.1.25.xml" series_name="upz" series_type="documentary" tm_id="3416" hgv_id="3416" date_not_before="-162" date_not_after="-162" place_name="Memphis"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="ADMINISTRATION" category="Order" subcategory=""/>
     <person pg_id="114" tm_id="343219" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Mennides (Μεννίδης)" gender="1" uncertain="1"/>
     <person pg_id="117" tm_id="9060" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Theon (Θέων)" gender="1" uncertain=""/>
+    <person pg_id="736" tm_id="" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
   </hand_meta>
-  <hand_meta name="m2" id="2"/>
+  <hand_meta name="m2" id="2">
+    <person pg_id="737" tm_id="" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
+  </hand_meta>
   <hand_meta name="m1" id="3">
     <text_type hypercategory="ADMINISTRATION" category="Order" subcategory=""/>
     <person pg_id="114" tm_id="343219" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Mennides (Μεννίδης)" gender="1" uncertain="1"/>
     <person pg_id="117" tm_id="9060" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Theon (Θέων)" gender="1" uncertain=""/>
+    <person pg_id="736" tm_id="" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="Μεννίδης" form_reg="Μεννίδης" lemma_orig="Μεννίδης" postag_orig="n-s---mn-" relation_orig="SBJ" head_orig="5" lemma_reg="Μεννίδης" postag_reg="n-s---mn-" relation_reg="SBJ" head_reg="5" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id=""/>

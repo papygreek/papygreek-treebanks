@@ -1,9 +1,13 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="23987" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2019-10-22" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2019-10-22" layer="orig"/>
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2019-10-22" layer="reg"/>
   <document_meta name="p.cair.zen.1.59048.xml" series_name="p.cair.zen" series_type="documentary" tm_id="708" hgv_id="708" date_not_before="-257" date_not_after="-257" place_name="Alexandria"/>
   <hand_meta name="m1" id="1">
-    <text_type hypercategory="BUSINESS" category="Letter" subcategory="Business correspondence"/>
+    <text_type hypercategory="ADMINISTRATION" category="Memorandum (official)" subcategory=""/>
+    <person pg_id="684" tm_id="1038" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Aristeus" gender="1" uncertain=""/>
+    <person pg_id="696" tm_id="996" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Aratos" gender="1" uncertain=""/>
+    <person pg_id="697" tm_id="" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="ὑπόμνημα" form_reg="ὑπόμνημα" lemma_orig="ὑπόμνημα" postag_orig="n-s---nn-" relation_orig="PNOM" head_orig="6" lemma_reg="ὑπόμνημα" postag_reg="n-s---nn-" relation_reg="PNOM" head_reg="6" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id="1216213"/>

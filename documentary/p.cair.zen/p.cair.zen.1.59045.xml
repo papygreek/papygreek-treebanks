@@ -1,9 +1,14 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="23984" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
-  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2019-10-18" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-07-18" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-07-18" layer="orig"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2022-07-18" layer="reg"/>
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2019-10-18" layer="orig"/>
   <document_meta name="p.cair.zen.1.59045.xml" series_name="p.cair.zen" series_type="documentary" tm_id="705" hgv_id="705" date_not_before="" date_not_after="-257" place_name="Alexandria"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="PRIVATE" category="Letter" subcategory="Letter of recommendation (private)"/>
+    <person pg_id="380" tm_id="769" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Amyntas" gender="1" uncertain=""/>
+    <person pg_id="133" tm_id="1757" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Zenon" gender="1" uncertain=""/>
+    <person pg_id="694" tm_id="" role="writer" handwriting="&quot;The letters from Amyntas (...) are written in several different hands.&quot; (Edgar, C. 1971, 51-52)" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="Ἀμύντας" form_reg="Ἀμύντας" lemma_orig="Ἀμύντας" postag_orig="n-s---mn-" relation_orig="SBJ" head_orig="5" lemma_reg="Ἀμύντας" postag_reg="n-s---mn-" relation_reg="SBJ" head_reg="5" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id="1216028"/>
@@ -17,7 +22,7 @@
     <word id="2" form_orig="ὁ" form_reg="ὁ" lemma_orig="ὁ" postag_orig="l-s---mn-" relation_orig="ATR" head_orig="6" lemma_reg="ὁ" postag_reg="l-s---mn-" relation_reg="ATR" head_reg="6" tp_n="1" line_n="1" lang="grc" hand_id="7" tm_word_id="1216033"/>
     <word id="3" form_orig="τὴν" form_reg="τὴν" lemma_orig="ὁ" postag_orig="l-s---fa-" relation_orig="ATR" head_orig="4" lemma_reg="ὁ" postag_reg="l-s---fa-" relation_reg="ATR" head_reg="4" tp_n="1" line_n="1" lang="grc" hand_id="8" tm_word_id="1216034"/>
     <word id="4" form_orig="ἐπιστολήν" form_reg="ἐπιστολήν" lemma_orig="ἐπιστολή" postag_orig="n-s---fa-" relation_orig="OBJ" head_orig="6" lemma_reg="ἐπιστολή" postag_reg="n-s---fa-" relation_reg="OBJ" head_reg="6" tp_n="1" line_n="1" lang="grc" hand_id="9" tm_word_id="1216035"/>
-    <word id="5" form_orig="σοι" form_reg="σοι" lemma_orig="σύ" postag_orig="p2s----d-" relation_orig="OBJ" head_orig="6" lemma_reg="σύ" postag_reg="p2s----d-" relation_reg="OBJ" head_reg="6" tp_n="1" line_n="1" lang="grc" hand_id="10" tm_word_id="1216036"/>
+    <word id="5" form_orig="σοι" form_reg="σοι" lemma_orig="σύ" postag_orig="p2s---md-" relation_orig="OBJ" head_orig="6" lemma_reg="σύ" postag_reg="p2s---md-" relation_reg="OBJ" head_reg="6" tp_n="1" line_n="1" lang="grc" hand_id="10" tm_word_id="1216036"/>
     <word id="6" form_orig="ἀπο̣[διδούς]" form_reg="ἀποδιδούς" lemma_orig="" postag_orig="" relation_orig="" head_orig="1" lemma_reg="ἀποδίδωμι" postag_reg="v-sppamn-" relation_reg="ATR" head_reg="1" tp_n="1" line_n="1" lang="grc" hand_id="11" tm_word_id="1216037"/>
     <word id="7" form_orig="ἐστιν" form_reg="ἐστιν" lemma_orig="εἰμί" postag_orig="v3spia---" relation_orig="PRED" head_orig="0" lemma_reg="εἰμί" postag_reg="v3spia---" relation_reg="PRED" head_reg="0" tp_n="1" line_n="2" lang="grc" hand_id="12" tm_word_id="1216038"/>
     <word id="8" form_orig="υἱὸς" form_reg="υἱὸς" lemma_orig="υἱός" postag_orig="n-s---mn-" relation_orig="PNOM" head_orig="7" lemma_reg="υἱός" postag_reg="n-s---mn-" relation_reg="PNOM" head_reg="7" tp_n="1" line_n="2" lang="grc" hand_id="13" tm_word_id="1216039"/>
@@ -51,7 +56,7 @@
     <word id="9" form_orig="λάβηις" form_reg="λάβηις" lemma_orig="λαμβάνω" postag_orig="v2sasa---" relation_orig="ADV" head_orig="6" lemma_reg="λαμβάνω" postag_reg="v2sasa---" relation_reg="ADV" head_reg="6" tp_n="1" line_n="4" lang="grc" hand_id="37" tm_word_id="1216063"/>
     <word id="10" form_orig="⸢Ἀπολλώνιον⸣" form_reg="Ἀπολλώνιον" lemma_orig="Ἀπολλώνιος" postag_orig="n-s---ma-" relation_orig="OBJ" head_orig="9" lemma_reg="Ἀπολλώνιος" postag_reg="n-s---ma-" relation_reg="OBJ" head_reg="9" tp_n="1" line_n="4" lang="grc" hand_id="38" tm_word_id="1216064"/>
     <word id="11" form_orig="⸢,⸣" form_reg="," lemma_orig="punc1" postag_orig="u--------" relation_orig="AuxX" head_orig="4" lemma_reg="punc1" postag_reg="u--------" relation_reg="AuxX" head_reg="4" tp_n="1" line_n="4" lang="grc" hand_id="39" tm_word_id="1216065"/>
-    <word id="12" form_orig="εἰσαγαγὼν" form_reg="εἰσαγαγὼν" lemma_orig="εἰσάγω" postag_orig="v-sapamn-" relation_orig="ADV" head_orig="4" lemma_reg="εἰσάγω" postag_reg="v-sapamn-" relation_reg="ADV" head_reg="4" tp_n="1" line_n="4" lang="grc" hand_id="40" tm_word_id="1216066"/>
+    <word id="12" form_orig="εἰσαγαγὼν" form_reg="εἰσαγαγὼν" lemma_orig="εἰσάγω" postag_orig="v-sapamn-" relation_orig="OBJ" head_orig="4" lemma_reg="εἰσάγω" postag_reg="v-sapamn-" relation_reg="OBJ" head_reg="4" tp_n="1" line_n="4" lang="grc" hand_id="40" tm_word_id="1216066"/>
     <word id="13" form_orig="αὐτόν" form_reg="αὐτόν" lemma_orig="αὐτός" postag_orig="p-s---ma-" relation_orig="OBJ" head_orig="12" lemma_reg="αὐτός" postag_reg="p-s---ma-" relation_reg="OBJ" head_reg="12" tp_n="1" line_n="4" lang="grc" hand_id="41" tm_word_id="1216067"/>
     <word id="14" form_orig="," form_reg="," lemma_orig="punc1" postag_orig="u--------" relation_orig="AuxX" head_orig="12" lemma_reg="punc1" postag_reg="u--------" relation_reg="AuxX" head_reg="12" tp_n="1" line_n="4" lang="grc" hand_id="42" tm_word_id="1216068"/>
     <word id="15" form_orig="ἵνα" form_reg="ἵνα" lemma_orig="ἵνα" postag_orig="c--------" relation_orig="AuxC" head_orig="12" lemma_reg="ἵνα" postag_reg="c--------" relation_reg="AuxC" head_reg="12" tp_n="1" line_n="4" lang="grc" hand_id="43" tm_word_id="1216069"/>

@@ -1,13 +1,16 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="24168" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2021-01-26" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2021-01-26" layer="orig"/>
   <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-01-13" layer="reg"/>
-  <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2018-12-27" layer="orig"/>
+  <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-01-13" layer="orig"/>
   <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2018-12-27" layer="reg"/>
-  <document_meta name="p.cair.zen.2.59244.xml" series_name="p.cair.zen" series_type="documentary" tm_id="889" hgv_id="889" date_not_before="" date_not_after="-252" place_name="unbekannt"/>
+  <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2018-12-27" layer="orig"/>
+  <document_meta name="p.cair.zen.2.59244.xml" series_name="p.cair.zen" series_type="documentary" tm_id="889" hgv_id="889" date_not_before="" date_not_after="" place_name=""/>
   <hand_meta name="m1" id="1">
-    <text_type hypercategory="PRIVATE" category="Letter" subcategory=""/>
+    <text_type hypercategory="BUSINESS" category="Letter" subcategory="Business correspondence"/>
     <person pg_id="413" tm_id="1680" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Hermon" gender="1" uncertain=""/>
     <person pg_id="133" tm_id="1757" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Zenon" gender="1" uncertain=""/>
+    <person pg_id="413" tm_id="1680" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Hermon" gender="1" uncertain="1"/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="Ἕρμων" form_reg="Ἕρμων" lemma_orig="Ἕρμων" postag_orig="n-s---mn-" relation_orig="SBJ" head_orig="4" lemma_reg="Ἕρμων" postag_reg="n-s---mn-" relation_reg="SBJ" head_reg="4" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id=""/>

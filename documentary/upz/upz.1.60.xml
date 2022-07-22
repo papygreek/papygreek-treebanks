@@ -1,6 +1,10 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="55808" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-04-30" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-07-18" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-07-18" layer="orig"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2022-07-18" layer="orig"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2022-07-18" layer="reg"/>
   <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-04-29" layer="reg"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-04-29" layer="orig"/>
   <document_meta name="upz.1.60.xml" series_name="upz" series_type="documentary" tm_id="3451" hgv_id="3451" date_not_before="-168" date_not_after="-168" place_name="Memphis"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>
@@ -192,7 +196,7 @@
     <word id="11" form_orig="περισπᾶι" form_reg="περισπᾶι" lemma_orig="περισπάω" postag_orig="v3spia---" relation_orig="ADV" head_orig="5" lemma_reg="περισπάω" postag_reg="v3spia---" relation_reg="ADV" head_reg="5" tp_n="1" line_n="21" lang="grc" hand_id="173" tm_word_id=""/>
     <word id="12" form_orig="," form_reg="," lemma_orig="punc1" postag_orig="u--------" relation_orig="AuxX" head_orig="5" lemma_reg="punc1" postag_reg="u--------" relation_reg="AuxX" head_reg="5" tp_n="1" line_n="21" lang="grc" hand_id="174" tm_word_id=""/>
     <word id="13" form_orig="συντόμως" form_reg="συντόμως" lemma_orig="σύντομος" postag_orig="d-------p" relation_orig="ADV" head_orig="14" lemma_reg="σύντομος" postag_reg="d-------p" relation_reg="ADV" head_reg="14" tp_n="1" line_n="21" lang="grc" hand_id="175" tm_word_id=""/>
-    <word id="14" form_orig="πειραθεὶς" form_reg="πειραθεὶς" lemma_orig="πειράω" postag_orig="v-sappmn-" relation_orig="ADV" head_orig="3" lemma_reg="πειράω" postag_reg="v-sappmn-" relation_reg="ADV" head_reg="3" tp_n="1" line_n="21" lang="grc" hand_id="176" tm_word_id=""/>
+    <word id="14" form_orig="πειραθεὶς" form_reg="πειραθεὶς" lemma_orig="πειράω" postag_orig="v-sappmn-" relation_orig="OBJ" head_orig="3" lemma_reg="πειράω" postag_reg="v-sappmn-" relation_reg="OBJ" head_reg="3" tp_n="1" line_n="21" lang="grc" hand_id="176" tm_word_id=""/>
     <word id="15" form_orig="παραγενέσθαι" form_reg="παραγενέσθαι" lemma_orig="παραγίγνομαι" postag_orig="v--anm---" relation_orig="OBJ" head_orig="14" lemma_reg="παραγίγνομαι" postag_reg="v--anm---" relation_reg="OBJ" head_reg="14" tp_n="1" line_n="22" lang="grc" hand_id="177" tm_word_id=""/>
     <word id="16" form_orig="," form_reg="," lemma_orig="punc1" postag_orig="u--------" relation_orig="AuxX" head_orig="18" lemma_reg="punc1" postag_reg="u--------" relation_reg="AuxX" head_reg="18" tp_n="1" line_n="22" lang="grc" hand_id="178" tm_word_id=""/>
     <word id="17" form_orig="〚|gap:2|〛" form_reg="|gap:2|" lemma_orig="" postag_orig="" relation_orig="" head_orig="" lemma_reg="" postag_reg="" relation_reg="" head_reg="" tp_n="1" line_n="22" lang="grc" hand_id="179" tm_word_id=""/>

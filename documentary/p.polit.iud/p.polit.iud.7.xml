@@ -1,12 +1,14 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="38295" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-05-19" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-05-18" layer="orig"/>
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated" date="2021-05-18" layer="orig"/>
   <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2020-12-02" layer="reg"/>
+  <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2020-12-02" layer="orig"/>
   <document_meta name="p.polit.iud.7.xml" series_name="p.polit.iud" series_type="documentary" tm_id="44623" hgv_id="44623" date_not_before="" date_not_after="-134" place_name="Herakleopolis"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="ADMINISTRATION" category="Petition" subcategory=""/>
     <person pg_id="346" tm_id="291777" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="member of politeuma" domicile="" age="" education="" name="Dorotheos" gender="1" uncertain=""/>
-    <person pg_id="624" tm_id="" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
+    <person pg_id="624" tm_id="" role="writer" handwriting="In the archive of the politeuma of the Jews, no same hands are recognised between the documents (p.polit.iud. p. 34)." honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
     <person pg_id="623" tm_id="" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Archons of the Politeuma of the Jews" gender="" uncertain=""/>
   </hand_meta>
   <hand_meta name="m2" id="2">

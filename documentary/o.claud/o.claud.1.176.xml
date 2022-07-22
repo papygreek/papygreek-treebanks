@@ -1,7 +1,9 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="10220" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-02-03" layer="orig"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2021-09-07" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2021-09-07" layer="orig"/>
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated" date="2020-02-03" layer="orig"/>
   <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-12-03" layer="reg"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-12-03" layer="orig"/>
   <document_meta name="o.claud.1.176.xml" series_name="o.claud" series_type="documentary" tm_id="29820" hgv_id="29820" date_not_before="101" date_not_after="125" place_name="Mons Claudianus"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="PRIVATE" category="Letter" subcategory=""/>
@@ -15,8 +17,8 @@
     <word id="3" form_orig="∼Λεων∽" form_reg="Λέωντι" lemma_orig="Λέων" postag_orig="n-s---mn-" relation_orig="OBJ" head_orig="12" lemma_reg="Λέων" postag_reg="n-s---md-" relation_reg="OBJ" head_reg="12" tp_n="1" line_n="2" lang="grc" hand_id="3" tm_word_id=""/>
     <word id="4" form_orig="∼Ἀπολῶ∽" form_reg="Ἀπολλῶ" lemma_orig="Ἀπόλλως" postag_orig="n-s---mg-" relation_orig="ATR" head_orig="3" lemma_reg="Ἀπόλλως" postag_reg="n-s---mg-" relation_reg="ATR" head_reg="3" tp_n="1" line_n="2" lang="grc" hand_id="4" tm_word_id=""/>
     <word id="5" form_orig="τῷ" form_reg="τῷ" lemma_orig="ὁ" postag_orig="l-s---md-" relation_orig="ATR" head_orig="6" lemma_reg="ὁ" postag_reg="l-s---md-" relation_reg="ATR" head_reg="6" tp_n="1" line_n="2" lang="grc" hand_id="5" tm_word_id=""/>
-    <word id="6" form_orig="∼φιδα∤τῳ∽" form_reg="φιλτά∤τῳ" lemma_orig="φίλτατος" postag_orig="a-s---mds" relation_orig="ATR" head_orig="3" lemma_reg="φίλτατος" postag_reg="a-s---mds" relation_reg="ATR" head_reg="3" tp_n="1" line_n="2-3" lang="grc" hand_id="6" tm_word_id=""/>
-    <word id="7" form_orig="πλεῖστα" form_reg="πλεῖστα" lemma_orig="πλεῖστος" postag_orig="d-------s" relation_orig="ADV" head_orig="12" lemma_reg="πλεῖστος" postag_reg="d-------s" relation_reg="ADV" head_reg="12" tp_n="1" line_n="3" lang="grc" hand_id="7" tm_word_id=""/>
+    <word id="6" form_orig="∼φιδα∤τῳ∽" form_reg="φιλτά∤τῳ" lemma_orig="φίλος" postag_orig="a-s---mds" relation_orig="ATR" head_orig="3" lemma_reg="φίλος" postag_reg="a-s---mds" relation_reg="ATR" head_reg="3" tp_n="1" line_n="2-3" lang="grc" hand_id="6" tm_word_id=""/>
+    <word id="7" form_orig="πλεῖστα" form_reg="πλεῖστα" lemma_orig="πολύς" postag_orig="d-------s" relation_orig="ADV" head_orig="12" lemma_reg="πολύς" postag_reg="d-------s" relation_reg="ADV" head_reg="12" tp_n="1" line_n="3" lang="grc" hand_id="7" tm_word_id=""/>
     <word id="8" form_orig="πολλὰ" form_reg="πολλὰ" lemma_orig="πολύς" postag_orig="d-------p" relation_orig="ADV" head_orig="12" lemma_reg="πολύς" postag_reg="d-------p" relation_reg="ADV" head_reg="12" tp_n="1" line_n="3" lang="grc" hand_id="8" tm_word_id=""/>
     <word id="9" form_orig="⸢οις⸣" form_reg="οις" lemma_orig="" postag_orig="" relation_orig="" head_orig="" lemma_reg="" postag_reg="" relation_reg="" head_reg="" tp_n="1" line_n="3" lang="grc" hand_id="9" tm_word_id=""/>
     <word id="10" form_orig="χαί∤ρειν" form_reg="χαί∤ρειν" lemma_orig="χαίρω" postag_orig="v--pna---" relation_orig="OBJ" head_orig="12" lemma_reg="χαίρω" postag_reg="v--pna---" relation_reg="OBJ" head_reg="12" tp_n="1" line_n="3-4" lang="grc" hand_id="10" tm_word_id=""/>

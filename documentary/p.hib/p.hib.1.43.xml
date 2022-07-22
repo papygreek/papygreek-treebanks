@@ -1,6 +1,8 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="29021" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-06-22" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-06-22" layer="orig"/>
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2021-06-22" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2021-06-22" layer="orig"/>
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated" date="2021-06-18" layer="orig"/>
   <document_meta name="p.hib.1.43.xml" series_name="p.hib" series_type="documentary" tm_id="8194" hgv_id="8194" date_not_before="-261" date_not_after="-261" place_name="Oxyrhynchites"/>
   <hand_meta name="m1" id="1">

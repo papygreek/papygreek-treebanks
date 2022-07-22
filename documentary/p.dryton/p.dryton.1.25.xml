@@ -1,8 +1,10 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="25594" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-02-02" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-02-02" layer="orig"/>
   <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2021-02-01" layer="orig"/>
-  <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2019-01-16" layer="orig"/>
+  <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2021-02-01" layer="reg"/>
   <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2019-01-16" layer="reg"/>
+  <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2019-01-16" layer="orig"/>
   <document_meta name="p.dryton.1.25.xml" series_name="p.dryton" series_type="documentary" tm_id="215" hgv_id="215" date_not_before="-117" date_not_after="-117" place_name="Pathyris"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="LAW" category="Contract" subcategory="Loan"/>

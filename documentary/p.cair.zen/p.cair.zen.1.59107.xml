@@ -1,13 +1,16 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="24037" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-06-23" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2021-09-07" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2021-09-07" layer="orig"/>
   <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-03-23" layer="orig"/>
-  <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2018-10-05" layer="orig"/>
+  <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-03-23" layer="reg"/>
   <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2018-10-05" layer="reg"/>
+  <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2018-10-05" layer="orig"/>
   <document_meta name="p.cair.zen.1.59107.xml" series_name="p.cair.zen" series_type="documentary" tm_id="757" hgv_id="757" date_not_before="-257" date_not_after="-257" place_name="Alexandria (?)"/>
   <hand_meta name="m1" id="1">
-    <text_type hypercategory="PRIVATE" category="Letter" subcategory=""/>
+    <text_type hypercategory="BUSINESS" category="Letter" subcategory="Business correspondence"/>
     <person pg_id="134" tm_id="937" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Apollonios" gender="1" uncertain=""/>
     <person pg_id="469" tm_id="2927" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Panakestor" gender="1" uncertain=""/>
+    <person pg_id="706" tm_id="" role="writer" handwriting="&quot;The letters (,,,) of Apollonios are written in several different hands.&quot; (Edgar, C. 1971, 51-52.)" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain="1"/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="Ἀπολλώνιος" form_reg="Ἀπολλώνιος" lemma_orig="Ἀπολλώνιος" postag_orig="n-s---mn-" relation_orig="SBJ" head_orig="5" lemma_reg="Ἀπολλώνιος" postag_reg="n-s---mn-" relation_reg="SBJ" head_reg="5" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id="1220258"/>
@@ -85,7 +88,7 @@
     <word id="10" form_orig="τοῖς" form_reg="τοῖς" lemma_orig="ὁ" postag_orig="l-p---md-" relation_orig="ATR" head_orig="11" lemma_reg="ὁ" postag_reg="l-p---md-" relation_reg="ATR" head_reg="11" tp_n="1" line_n="6" lang="grc" hand_id="65" tm_word_id="1220321"/>
     <word id="11" form_orig="∼ναύτοις∽" form_reg="ναύταις" lemma_orig="ναύτης" postag_orig="n-p---md-" relation_orig="OBJ" head_orig="19" lemma_reg="ναύτης" postag_reg="n-p---md-" relation_reg="OBJ" head_reg="19" tp_n="1" line_n="6" lang="grc" hand_id="66" tm_word_id="1220322"/>
     <word id="12" form_orig="τὸν" form_reg="τὸν" lemma_orig="ὁ" postag_orig="l-s---ma-" relation_orig="ATR" head_orig="14" lemma_reg="ὁ" postag_reg="l-s---ma-" relation_reg="ATR" head_reg="14" tp_n="1" line_n="6" lang="grc" hand_id="67" tm_word_id="1220323"/>
-    <word id="13" form_orig="πλεῖστον" form_reg="πλεῖστον" lemma_orig="πλεῖστος" postag_orig="a-s---ma-" relation_orig="ATR" head_orig="14" lemma_reg="πλεῖστος" postag_reg="a-s---ma-" relation_reg="ATR" head_reg="14" tp_n="1" line_n="7" lang="grc" hand_id="68" tm_word_id="1220324"/>
+    <word id="13" form_orig="πλεῖστον" form_reg="πλεῖστον" lemma_orig="πολύς" postag_orig="a-s---ma-" relation_orig="ATR" head_orig="14" lemma_reg="πολύς" postag_reg="a-s---ma-" relation_reg="ATR" head_reg="14" tp_n="1" line_n="7" lang="grc" hand_id="68" tm_word_id="1220324"/>
     <word id="14" form_orig="χρόνον" form_reg="χρόνον" lemma_orig="χρόνος" postag_orig="n-s---ma-" relation_orig="ADV" head_orig="9" lemma_reg="χρόνος" postag_reg="n-s---ma-" relation_reg="ADV" head_reg="9" tp_n="1" line_n="7" lang="grc" hand_id="69" tm_word_id="1220325"/>
     <word id="15" form_orig="τοὺς" form_reg="τοὺς" lemma_orig="ὁ" postag_orig="l-p---ma-" relation_orig="ATR" head_orig="16" lemma_reg="ὁ" postag_reg="l-p---ma-" relation_reg="ATR" head_reg="16" tp_n="1" line_n="7" lang="grc" hand_id="70" tm_word_id="1220326"/>
     <word id="16" form_orig="μισθοὺς" form_reg="μισθοὺς" lemma_orig="μισθός" postag_orig="n-p---ma-" relation_orig="OBJ" head_orig="19" lemma_reg="μισθός" postag_reg="n-p---ma-" relation_reg="OBJ" head_reg="19" tp_n="1" line_n="7" lang="grc" hand_id="71" tm_word_id="1220327"/>

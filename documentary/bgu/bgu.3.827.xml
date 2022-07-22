@@ -1,8 +1,12 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="1723" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-02-14" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-02-14" layer="orig"/>
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated" date="2021-02-14" layer="reg"/>
-  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated (previously)" date="2020-04-08" layer="reg"/>
-  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated (previously)" date="2020-04-08" layer="orig"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated" date="2021-02-14" layer="orig"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-04-08" layer="reg"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-04-08" layer="orig"/>
+  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2019-05-06" layer="orig"/>
+  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2019-05-06" layer="reg"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2019-05-06" layer="orig"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2019-05-06" layer="reg"/>
   <document_meta name="bgu.3.827.xml" series_name="bgu" series_type="documentary" tm_id="24886" hgv_id="24886" date_not_before="101" date_not_after="300" place_name="Pelusion"/>

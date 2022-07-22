@@ -1,6 +1,8 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="3518" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-01-28" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-01-28" layer="orig"/>
   <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2021-01-27" layer="orig"/>
+  <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2021-01-27" layer="reg"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2019-04-16" layer="orig"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2019-04-16" layer="reg"/>
   <document_meta name="chr.wilck.499.xml" series_name="chr.wilck" series_type="documentary" tm_id="28975" hgv_id="28975" date_not_before="101" date_not_after="200" place_name="unbekannt"/>
@@ -8,7 +10,7 @@
     <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>
     <person pg_id="368" tm_id="278487" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Senpamonthes" gender="2" uncertain=""/>
     <person pg_id="369" tm_id="278488" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Pamonthes" gender="1" uncertain=""/>
-    <person pg_id="" tm_id="" role="writer" handwriting="THE HAND is A well-formed semicursive. The greeting at the end is written in the same hand but more rapidly. This was a practiced writer, who wrote the body in a letter hand for the sake of intelligibility for the reader, not because of inability to write yet more cursively. (Bagnall &amp; Cribiore)" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
+    <person pg_id="670" tm_id="" role="writer" handwriting="THE HAND is A well-formed semicursive. The greeting at the end is written in the same hand but more rapidly. This was a practiced writer, who wrote the body in a letter hand for the sake of intelligibility for the reader, not because of inability to write yet more cursively. (Bagnall &amp; Cribiore)" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
   </hand_meta>
   <hand_meta name="m2" id="2">
     <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>

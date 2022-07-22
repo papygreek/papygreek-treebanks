@@ -1,12 +1,14 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="23960" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-02-16" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2021-09-07" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2021-09-07" layer="orig"/>
   <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2021-02-15" layer="orig"/>
-  <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2018-06-25" layer="orig"/>
+  <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2021-02-15" layer="reg"/>
   <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2018-06-25" layer="reg"/>
+  <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2018-06-25" layer="orig"/>
   <document_meta name="p.cair.zen.1.59021.xml" series_name="p.cair.zen" series_type="documentary" tm_id="681" hgv_id="681" date_not_before="-258" date_not_after="-258" place_name="Alexandria"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="BUSINESS" category="Letter" subcategory="Business correspondence"/>
-    <person pg_id="360" tm_id="1353" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Demetrios" gender="1" uncertain=""/>
+    <person pg_id="360" tm_id="1353" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Demetrios" gender="1" uncertain=""/>
     <person pg_id="360" tm_id="1353" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Demetrios" gender="1" uncertain="1"/>
     <person pg_id="361" tm_id="937" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Apollonios" gender="1" uncertain=""/>
   </hand_meta>
@@ -271,7 +273,7 @@
     <word id="9" form_orig="χώρας" form_reg="χώρας" lemma_orig="χώρα" postag_orig="n-s---fg-" relation_orig="OBJ" head_orig="6" lemma_reg="χώρα" postag_reg="n-p---fa-" relation_reg="OBJ" head_reg="6" tp_n="2" line_n="42" lang="grc" hand_id="242" tm_word_id=""/>
     <word id="10" form_orig="χρυσίον" form_reg="χρυσίον" lemma_orig="χρυσίον" postag_orig="n-s---na-" relation_orig="OBJ" head_orig="13" lemma_reg="χρυσίον" postag_reg="n-s---na-" relation_reg="OBJ" head_reg="13" tp_n="2" line_n="42" lang="grc" hand_id="243" tm_word_id=""/>
     <word id="11" form_orig="ὅτ̣ι̣" form_reg="ὅτι" lemma_orig="ὅτι1" postag_orig="d--------" relation_orig="AuxZ" head_orig="12" lemma_reg="ὅτι1" postag_reg="d--------" relation_reg="AuxZ" head_reg="12" tp_n="2" line_n="43" lang="grc" hand_id="244" tm_word_id=""/>
-    <word id="12" form_orig="πλεῖστον" form_reg="πλεῖστον" lemma_orig="πλεῖστος" postag_orig="d-------s" relation_orig="ADV" head_orig="13" lemma_reg="πλεῖστος" postag_reg="d-------s" relation_reg="ADV" head_reg="13" tp_n="2" line_n="43" lang="grc" hand_id="245" tm_word_id=""/>
+    <word id="12" form_orig="πλεῖστον" form_reg="πλεῖστον" lemma_orig="πολύς" postag_orig="d-------s" relation_orig="ADV" head_orig="13" lemma_reg="πολύς" postag_reg="d-------s" relation_reg="ADV" head_reg="13" tp_n="2" line_n="43" lang="grc" hand_id="245" tm_word_id=""/>
     <word id="13" form_orig="εἰσάγηται" form_reg="εἰσάγηται" lemma_orig="εἰσάγω" postag_orig="v3spse---" relation_orig="ADV_CO" head_orig="14" lemma_reg="εἰσάγω" postag_reg="v3spse---" relation_reg="ADV_CO" head_reg="14" tp_n="2" line_n="43" lang="grc" hand_id="246" tm_word_id=""/>
     <word id="14" form_orig="καὶ" form_reg="καὶ" lemma_orig="καί" postag_orig="c--------" relation_orig="COORD" head_orig="4" lemma_reg="καί" postag_reg="c--------" relation_reg="COORD" head_reg="4" tp_n="2" line_n="43" lang="grc" hand_id="247" tm_word_id=""/>
     <word id="15" form_orig="τὸ" form_reg="τὸ" lemma_orig="ὁ" postag_orig="l-s---nn-" relation_orig="ATR" head_orig="16" lemma_reg="ὁ" postag_reg="l-s---nn-" relation_reg="ATR" head_reg="16" tp_n="2" line_n="43" lang="grc" hand_id="248" tm_word_id=""/>

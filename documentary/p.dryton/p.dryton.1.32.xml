@@ -1,11 +1,16 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="25599" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-06-09" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-06-09" layer="orig"/>
   <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-06-02" layer="reg"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-06-02" layer="orig"/>
   <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2019-01-17" layer="orig"/>
   <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2019-01-17" layer="reg"/>
   <document_meta name="p.dryton.1.32.xml" series_name="p.dryton" series_type="documentary" tm_id="287" hgv_id="287" date_not_before="-137" date_not_after="-130" place_name="unbekannt"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="ADMINISTRATION" category="Petition" subcategory="Hypomnema"/>
+    <person pg_id="715" tm_id="7512" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="διάδοχος" domicile="" age="" education="" name="Dryton" gender="1" uncertain=""/>
+    <person pg_id="716" tm_id="6684" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="ἐπιστράτηγος καὶ στρατηγός" domicile="Thebais" age="" education="" name="Boethos" gender="1" uncertain=""/>
+    <person pg_id="715" tm_id="7512" role="writer" handwriting="&quot;The petition is written in the same hand as Text 33 of 136 B.C., most probably the hand of Dryton, who is the petitioner (for his handwriting, see §64-66).&quot; (Vandorpe, K. 2002, p. 231)" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Dryton" gender="1" uncertain="1"/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="Βοήθω[ι]" form_reg="Βοήθωι" lemma_orig="Βόηθος" postag_orig="n-s---md-" relation_orig="OBJ" head_orig="10" lemma_reg="Βόηθος" postag_reg="n-s---md-" relation_reg="OBJ" head_reg="10" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id=""/>

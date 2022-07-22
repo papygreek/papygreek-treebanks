@@ -1,12 +1,15 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="35065" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-03-14" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-03-14" layer="orig"/>
   <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2020-12-29" layer="reg"/>
+  <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2020-12-29" layer="orig"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-08-27" layer="orig"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-08-27" layer="reg"/>
   <document_meta name="p.oxy.14.1680.xml" series_name="p.oxy" series_type="documentary" tm_id="31788" hgv_id="31788" date_not_before="276" date_not_after="325" place_name="Oxyrhynchos"/>
   <hand_meta name="m1" id="1">
-    <text_type hypercategory="PRIVATE" category="Letter" subcategory=""/>
+    <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>
     <person pg_id="397" tm_id="371858" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Apollonios" gender="1" uncertain=""/>
+    <person pg_id="729" tm_id="" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="Son of Apollonios" domicile="" age="" education="" name="" gender="1" uncertain=""/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="|gap:?_lines|" form_reg="|gap:?_lines|" lemma_orig="" postag_orig="" relation_orig="" head_orig="" lemma_reg="" postag_reg="" relation_reg="" head_reg="" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id=""/>

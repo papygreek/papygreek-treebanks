@@ -1,12 +1,15 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="23086" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-03-02" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-11-02" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-11-02" layer="orig"/>
   <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-03-02" layer="reg"/>
-  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-08-06" layer="orig"/>
+  <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-03-02" layer="orig"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-08-06" layer="reg"/>
+  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-08-06" layer="orig"/>
   <document_meta name="p.bour.12.xml" series_name="p.bour" series_type="documentary" tm_id="305" hgv_id="305" date_not_before="-88" date_not_after="-88" place_name="Pathyris"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="ADMINISTRATION" category="Notification" subcategory=""/>
-    <person pg_id="546" tm_id="12487" role="" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Platon" gender="1" uncertain=""/>
+    <person pg_id="546" tm_id="12487" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Platon" gender="1" uncertain=""/>
+    <person pg_id="676" tm_id="" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="Πλάτων" form_reg="Πλάτων" lemma_orig="Πλάτων" postag_orig="n-s---mn-" relation_orig="SBJ" head_orig="13" lemma_reg="Πλάτων" postag_reg="n-s---mn-" relation_reg="SBJ" head_reg="13" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id=""/>
@@ -46,7 +49,7 @@
     <word id="20" form_orig="εἰς" form_reg="εἰς" lemma_orig="εἰς" postag_orig="r--------" relation_orig="AuxP" head_orig="19" lemma_reg="εἰς" postag_reg="r--------" relation_reg="AuxP" head_reg="19" tp_n="1" line_n="12" lang="grc" hand_id="33" tm_word_id=""/>
     <word id="21" form_orig="Μέμφιν" form_reg="Μέμφιν" lemma_orig="Μέμφις" postag_orig="n-s---fa-" relation_orig="OBJ" head_orig="20" lemma_reg="Μέμφις" postag_reg="n-s---fa-" relation_reg="OBJ" head_reg="20" tp_n="1" line_n="12" lang="grc" hand_id="34" tm_word_id=""/>
     <word id="22" form_orig="," form_reg="," lemma_orig="punc1" postag_orig="u--------" relation_orig="AuxX" head_orig="0" lemma_reg="punc1" postag_reg="u--------" relation_reg="AuxX" head_reg="0" tp_n="1" line_n="12" lang="grc" hand_id="35" tm_word_id=""/>
-    <word id="23" form_orig="Ἱέρακα" form_reg="Ἱέρακα" lemma_orig="Ἱέραξ" postag_orig="n-s---ma-" relation_orig="OBJ" head_orig="25" lemma_reg="Ἱέραξ" postag_reg="n-s---ma-" relation_reg="OBJ" head_reg="25" tp_n="1" line_n="12" lang="grc" hand_id="36" tm_word_id=""/>
+    <word id="23" form_orig="Ἱέρακα" form_reg="Ἱέρακα" lemma_orig="Ἱέραξ" postag_orig="n-s---ma-" relation_orig="SBJ" head_orig="25" lemma_reg="Ἱέραξ" postag_reg="n-s---ma-" relation_reg="SBJ" head_reg="25" tp_n="1" line_n="12" lang="grc" hand_id="36" tm_word_id=""/>
     <word id="24" form_orig="δὲ" form_reg="δὲ" lemma_orig="δέ" postag_orig="c--------" relation_orig="COORD" head_orig="12" lemma_reg="δέ" postag_reg="c--------" relation_reg="COORD" head_reg="12" tp_n="1" line_n="12" lang="grc" hand_id="37" tm_word_id=""/>
     <word id="25" form_orig="προκεχειρίσθαι" form_reg="προκεχειρίσθαι" lemma_orig="προχειρίζω" postag_orig="v--rne---" relation_orig="OBJ_CO" head_orig="24" lemma_reg="προχειρίζω" postag_reg="v--rne---" relation_reg="OBJ_CO" head_reg="24" tp_n="1" line_n="13" lang="grc" hand_id="38" tm_word_id=""/>
     <word id="26" form_orig="μετὰ" form_reg="μετὰ" lemma_orig="μετά" postag_orig="r--------" relation_orig="AuxP" head_orig="25" lemma_reg="μετά" postag_reg="r--------" relation_reg="AuxP" head_reg="25" tp_n="1" line_n="14" lang="grc" hand_id="39" tm_word_id=""/>

@@ -1,10 +1,12 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="38284" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-03-14" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-03-14" layer="orig"/>
   <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2021-02-22" layer="reg"/>
+  <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2021-02-22" layer="orig"/>
   <document_meta name="p.polit.iud.15.xml" series_name="p.polit.iud" series_type="documentary" tm_id="44631" hgv_id="44631" date_not_before="-143" date_not_after="-132" place_name="Herakleopolites"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="ADMINISTRATION" category="Petition" subcategory=""/>
-    <person pg_id="521" tm_id="" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
+    <person pg_id="521" tm_id="" role="writer" handwriting="In the archive of the politeuma of the Jews, no same hands are recognised between the documents (p.polit.iud. p. 34)." honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="|gap:?_lines|" form_reg="|gap:?_lines|" lemma_orig="" postag_orig="" relation_orig="" head_orig="" lemma_reg="" postag_reg="" relation_reg="" head_reg="" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id="3208947"/>

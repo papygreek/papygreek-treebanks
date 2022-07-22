@@ -1,6 +1,8 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="55787" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-04-28" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-04-28" layer="orig"/>
   <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-04-27" layer="reg"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-04-27" layer="orig"/>
   <document_meta name="upz.1.41.xml" series_name="upz" series_type="documentary" tm_id="3432" hgv_id="3432" date_not_before="-161" date_not_after="-160" place_name="Memphis"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="ADMINISTRATION" category="Petition" subcategory="Enteuxis (to the king/queen)"/>
@@ -12,9 +14,11 @@
   </hand_meta>
   <hand_meta name="m2" id="2">
     <text_type hypercategory="ADMINISTRATION" category="Petition" subcategory="Enteuxis (to the king/queen)"/>
+    <person pg_id="744" tm_id="" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
   </hand_meta>
   <hand_meta name="m1" id="3">
     <text_type hypercategory="ADMINISTRATION" category="Petition" subcategory="Enteuxis (to the king/queen)"/>
+    <person pg_id="121" tm_id="" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="βασιλεῖ" form_reg="βασιλεῖ" lemma_orig="βασιλεύς" postag_orig="n-s---md-" relation_orig="ATR" head_orig="2" lemma_reg="βασιλεύς" postag_reg="n-s---md-" relation_reg="ATR" head_reg="2" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id=""/>

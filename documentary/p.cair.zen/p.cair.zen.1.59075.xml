@@ -1,9 +1,14 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="24010" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2019-10-11" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2019-10-11" layer="orig"/>
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2019-10-11" layer="orig"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2019-10-11" layer="reg"/>
   <document_meta name="p.cair.zen.1.59075.xml" series_name="p.cair.zen" series_type="documentary" tm_id="730" hgv_id="730" date_not_before="-257" date_not_after="-257" place_name="Ammonites"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="BUSINESS" category="Letter" subcategory="Business correspondence"/>
+    <person pg_id="701" tm_id="3794" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Toubias" gender="1" uncertain=""/>
+    <person pg_id="134" tm_id="937" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Apollonios" gender="1" uncertain=""/>
+    <person pg_id="703" tm_id="" role="writer" handwriting="&quot;The letter is written in a beautiful, large hand, no doubt by a Greek scribe, with frequent interspacings, especially on each side of the numerals.&quot; (Edgar, C. 1971, p. 97)" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="Τουβίας" form_reg="Τουβίας" lemma_orig="Τουβίας" postag_orig="n-s---mn-" relation_orig="SBJ" head_orig="5" lemma_reg="Τουβίας" postag_reg="n-s---mn-" relation_reg="SBJ" head_reg="5" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id=""/>

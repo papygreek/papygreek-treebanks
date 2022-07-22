@@ -1,13 +1,19 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="10183" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-09-16" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-09-16" layer="orig"/>
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated" date="2020-09-16" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated" date="2020-09-16" layer="orig"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-11-03" layer="reg"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-11-03" layer="orig"/>
+  <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2016-11-03" layer="orig"/>
+  <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2016-11-03" layer="reg"/>
   <document_meta name="o.claud.1.142.xml" series_name="o.claud" series_type="documentary" tm_id="24154" hgv_id="24154" date_not_before="109" date_not_after="110" place_name="Raima"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="" category="" subcategory=""/>
     <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>
     <person pg_id="15" tm_id="141476" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Silvanus (Σιλβανός)" gender="1" uncertain=""/>
     <person pg_id="16" tm_id="141477" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Silvanus (Σιλβανός)" gender="1" uncertain=""/>
-    <person pg_id="15" tm_id="141476" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Silvanus (Σιλβανός)" gender="1" uncertain="1"/>
+    <person pg_id="672" tm_id="" role="writer" handwriting="Written in a different hand than 141. (Bülow-Jacobsen, p.141)" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="Σιλβανὸς" form_reg="Σιλβανὸς" lemma_orig="Σιλβανὀς" postag_orig="n-s---mn-" relation_orig="SBJ" head_orig="8" lemma_reg="Σιλβανὀς" postag_reg="n-s---mn-" relation_reg="SBJ" head_reg="8" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id=""/>

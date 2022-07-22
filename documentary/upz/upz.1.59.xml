@@ -1,15 +1,22 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="55806" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-06-23" layer="reg"/>
-  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated (previously)" date="2019-09-20" layer="orig"/>
-  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated (previously)" date="2019-09-20" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-07-18" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-07-18" layer="orig"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2022-07-18" layer="orig"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2022-07-18" layer="reg"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-04-29" layer="reg"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-04-29" layer="orig"/>
   <document_meta name="upz.1.59.xml" series_name="upz" series_type="documentary" tm_id="3450" hgv_id="3450" date_not_before="-179" date_not_after="-179" place_name="Memphis"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>
+    <person pg_id="" tm_id="" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
+    <person pg_id="" tm_id="" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
     <person pg_id="137" tm_id="343270" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Isias (Ἰσιάς)" gender="2" uncertain=""/>
     <person pg_id="138" tm_id="8767" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Hephaistion (Ἡφαιστίων)" gender="1" uncertain=""/>
     <person pg_id="615" tm_id="" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain="1"/>
   </hand_meta>
-  <hand_meta name="m2" id="2"/>
+  <hand_meta name="m2" id="2">
+    <person pg_id="749" tm_id="" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
+  </hand_meta>
   <hand_meta name="m1" id="3"/>
   <sentence id="1">
     <word id="1" form_orig="Ἰσιὰς" form_reg="Ἰσιὰς" lemma_orig="Ἰσιάς" postag_orig="n-s---fn-" relation_orig="SBJ" head_orig="7" lemma_reg="Ἰσιάς" postag_reg="n-s---fn-" relation_reg="SBJ" head_reg="7" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id="4681705"/>
@@ -214,7 +221,7 @@
     <word id="18" form_orig="καὶ" form_reg="καὶ" lemma_orig="καί" postag_orig="c--------" relation_orig="COORD" head_orig="14" lemma_reg="καί" postag_reg="c--------" relation_reg="COORD" head_reg="14" tp_n="1" line_n="29" lang="grc" hand_id="192" tm_word_id="4681891"/>
     <word id="19" form_orig="διʼ" form_reg="διʼ" lemma_orig="διά" postag_orig="r--------" relation_orig="AuxP" head_orig="18" lemma_reg="διά" postag_reg="r--------" relation_reg="AuxP" head_reg="18" tp_n="1" line_n="29" lang="grc" hand_id="193" tm_word_id="4681892"/>
     <word id="20" form_orig="ἡμᾶς" form_reg="ἡμᾶς" lemma_orig="ἐγώ" postag_orig="p1p---_a-" relation_orig="ADV_CO" head_orig="19" lemma_reg="ἐγώ" postag_reg="p1p---_a-" relation_reg="ADV_CO" head_reg="19" tp_n="1" line_n="29" lang="grc" hand_id="194" tm_word_id="4681893"/>
-    <word id="21" form_orig="παραγ[ε]νόμενος" form_reg="παραγενόμενος" lemma_orig="παραγίγνομαι" postag_orig="v-s_pmmn_" relation_orig="ADV" head_orig="14" lemma_reg="παραγίγνομαι" postag_reg="v-sapmmn-" relation_reg="ADV" head_reg="14" tp_n="1" line_n="29" lang="grc" hand_id="195" tm_word_id="4681894"/>
+    <word id="21" form_orig="παραγ[ε]νόμενος" form_reg="παραγενόμενος" lemma_orig="παραγίγνομαι" postag_orig="v-s_pmmn_" relation_orig="OBJ" head_orig="14" lemma_reg="παραγίγνομαι" postag_reg="v-sapmmn-" relation_reg="OBJ" head_reg="14" tp_n="1" line_n="29" lang="grc" hand_id="195" tm_word_id="4681894"/>
     <word id="22" form_orig="εἰς" form_reg="εἰς" lemma_orig="εἰς" postag_orig="r--------" relation_orig="AuxP" head_orig="21" lemma_reg="εἰς" postag_reg="r--------" relation_reg="AuxP" head_reg="21" tp_n="1" line_n="29" lang="grc" hand_id="196" tm_word_id="4681895"/>
     <word id="23" form_orig="τὴν" form_reg="τὴν" lemma_orig="ὁ" postag_orig="l-s---fa-" relation_orig="ATR" head_orig="24" lemma_reg="ὁ" postag_reg="l-s---fa-" relation_reg="ATR" head_reg="24" tp_n="1" line_n="29" lang="grc" hand_id="197" tm_word_id="4681896"/>
     <word id="24" form_orig="πόλιν" form_reg="πόλιν" lemma_orig="πόλις" postag_orig="n-s---fa-" relation_orig="OBJ" head_orig="22" lemma_reg="πόλις" postag_reg="n-s---fa-" relation_reg="OBJ" head_reg="22" tp_n="1" line_n="29" lang="grc" hand_id="198" tm_word_id="4681897"/>

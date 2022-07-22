@@ -1,5 +1,10 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="21429" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-12-29" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-12-29" layer="orig"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-04-28" layer="reg"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-04-28" layer="orig"/>
+  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-10-01" layer="orig"/>
+  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-10-01" layer="reg"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-10-01" layer="orig"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-10-01" layer="reg"/>
   <document_meta name="p.abinn.32.xml" series_name="p.abinn" series_type="documentary" tm_id="10029" hgv_id="10029" date_not_before="346" date_not_after="346" place_name="Hermopolis (Arsinoites)"/>
@@ -7,6 +12,7 @@
     <text_type hypercategory="PRIVATE" category="Letter" subcategory=""/>
     <person pg_id="395" tm_id="34448" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="praepositus" domicile="" age="" education="" name="Flavius Abinnaeus (Ἀβιννέος)" gender="1" uncertain=""/>
     <person pg_id="396" tm_id="36307" role="author" handwriting="" honorific_epithet="πάπας" ethnic_label="" occupation="" domicile="Hermoupolis" age="" education="" name="Kaor" gender="1" uncertain=""/>
+    <person pg_id="396" tm_id="36307" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Kaor" gender="1" uncertain="1"/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="τῷ" form_reg="τῷ" lemma_orig="ὁ" postag_orig="l-s---md-" relation_orig="ATR" head_orig="2" lemma_reg="ὁ" postag_reg="l-s---md-" relation_reg="ATR" head_reg="2" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id="879606"/>

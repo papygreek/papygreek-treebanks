@@ -1,12 +1,16 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="23084" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-03-02" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-03-02" layer="orig"/>
   <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-03-02" layer="orig"/>
-  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-08-08" layer="orig"/>
+  <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-03-02" layer="reg"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-08-08" layer="reg"/>
+  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-08-08" layer="orig"/>
   <document_meta name="p.bour.10.xml" series_name="p.bour" series_type="documentary" tm_id="304" hgv_id="304" date_not_before="-88" date_not_after="-88" place_name="Pathyris"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="PRIVATE" category="Letter" subcategory=""/>
-    <person pg_id="555" tm_id="" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
+    <person pg_id="546" tm_id="12487" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Platon" gender="1" uncertain="1"/>
+    <person pg_id="546" tm_id="12487" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Platon" gender="1" uncertain=""/>
+    <person pg_id="675" tm_id="10672" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Nechthyris" gender="1" uncertain=""/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="Π̣λ[άτω]ν" form_reg="Πλάτων" lemma_orig="Πλάτων" postag_orig="n-s---mn-" relation_orig="SBJ" head_orig="5" lemma_reg="Πλάτων" postag_reg="n-s---mn-" relation_reg="SBJ" head_reg="5" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id=""/>

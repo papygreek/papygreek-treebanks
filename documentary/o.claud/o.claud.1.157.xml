@@ -1,7 +1,9 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="10199" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2019-10-18" layer="orig"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2019-10-18" layer="reg"/>
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated" date="2019-10-18" layer="reg"/>
   <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-10-17" layer="orig"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-10-17" layer="reg"/>
   <document_meta name="o.claud.1.157.xml" series_name="o.claud" series_type="documentary" tm_id="29816" hgv_id="29816" date_not_before="101" date_not_after="200" place_name="Mons Claudianus"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="" category="" subcategory=""/>

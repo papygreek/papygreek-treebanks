@@ -1,14 +1,16 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="36847" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-02-22" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-02-22" layer="orig"/>
   <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-02-21" layer="orig"/>
+  <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-02-21" layer="reg"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2019-04-25" layer="orig"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2019-04-25" layer="reg"/>
   <document_meta name="p.oxy.6.932.xml" series_name="p.oxy" series_type="documentary" tm_id="28343" hgv_id="28343" date_not_before="176" date_not_after="200" place_name="Oxyrhynchos"/>
   <hand_meta name="m1" id="1">
-    <text_type hypercategory="PRIVATE" category="Letter" subcategory=""/>
+    <text_type hypercategory="BUSINESS" category="Letter" subcategory="Business correspondence"/>
     <person pg_id="476" tm_id="369780" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Thais" gender="2" uncertain=""/>
     <person pg_id="477" tm_id="369781" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Tigrios" gender="1" uncertain=""/>
-    <person pg_id="" tm_id="" role="writer" handwriting="This business letter is written in a slanting and semiligatured hand with pretensions to elegance. If not professional in the sense of being the product of someone who earned a living by writing, it is nonetheless of the quality one finds in teachers' models. (Bagnall-Cribiore 2006, 297 )" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
+    <person pg_id="476" tm_id="369780" role="writer" handwriting="This business letter is written in a slanting and semiligatured hand with pretensions to elegance. If not professional in the sense of being the product of someone who earned a living by writing, it is nonetheless of the quality one finds in teachers' models. (Bagnall-Cribiore 2006, 297 )" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Thais" gender="2" uncertain="1"/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="Θα⋰ῒ⋱ς" form_reg="Θαῒς" lemma_orig="Θαίς" postag_orig="n-s---fn-" relation_orig="SBJ" head_orig="7" lemma_reg="Θαίς" postag_reg="n-s---fn-" relation_reg="SBJ" head_reg="7" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id="2999078"/>

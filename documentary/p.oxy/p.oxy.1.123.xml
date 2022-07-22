@@ -1,13 +1,16 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="34634" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-01-28" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-01-28" layer="orig"/>
   <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-01-28" layer="orig"/>
-  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-08-21" layer="orig"/>
+  <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-01-28" layer="reg"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-08-21" layer="reg"/>
+  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-08-21" layer="orig"/>
   <document_meta name="p.oxy.1.123.xml" series_name="p.oxy" series_type="documentary" tm_id="31349" hgv_id="31349" date_not_before="201" date_not_after="400" place_name="Oxyrhynchos"/>
   <hand_meta name="m1" id="1">
-    <text_type hypercategory="PRIVATE" category="Letter" subcategory=""/>
-    <person pg_id="382" tm_id="282782" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Ischyrion" gender="1" uncertain=""/>
+    <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>
+    <person pg_id="382" tm_id="282782" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="Notary (ταβουλάριος)" domicile="" age="" education="" name="Ischyrion" gender="1" uncertain=""/>
     <person pg_id="383" tm_id="282778" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Dionysotheon" gender="1" uncertain=""/>
+    <person pg_id="382" tm_id="282782" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Ischyrion" gender="1" uncertain="1"/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="κυρίῳ" form_reg="κυρίῳ" lemma_orig="κύριος" postag_orig="n-s---md-" relation_orig="ATR" head_orig="4" lemma_reg="κύριος" postag_reg="n-s---md-" relation_reg="ATR" head_reg="4" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id=""/>

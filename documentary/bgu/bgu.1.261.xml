@@ -1,8 +1,11 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="194" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-12-20" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2022-05-10" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2022-05-10" layer="orig"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated" date="2022-05-10" layer="reg"/>
   <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2020-12-18" layer="reg"/>
-  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-10-19" layer="orig"/>
+  <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2020-12-18" layer="orig"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-10-19" layer="reg"/>
+  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-10-19" layer="orig"/>
   <document_meta name="bgu.1.261.xml" series_name="bgu" series_type="documentary" tm_id="41596" hgv_id="41596" date_not_before="105" date_not_after="" place_name="Arsinoites"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="ADMINISTRATION" category="Letter" subcategory="Official correspondence"/>
@@ -35,7 +38,7 @@
     <word id="11" form_orig="," form_reg="," lemma_orig="punc1" postag_orig="u--------" relation_orig="AuxX" head_orig="12" lemma_reg="punc1" postag_reg="u--------" relation_reg="AuxX" head_reg="12" tp_n="1" line_n="5" lang="grc" hand_id="19" tm_word_id=""/>
     <word id="12" form_orig="εὐχόμεθα" form_reg="εὐχόμεθα" lemma_orig="εὔχομαι" postag_orig="v1ppie---" relation_orig="OBJ" head_orig="1" lemma_reg="εὔχομαι" postag_reg="v1ppie---" relation_reg="OBJ" head_reg="1" tp_n="1" line_n="5" lang="grc" hand_id="20" tm_word_id=""/>
     <word id="13" form_orig="ἐλθεῖν" form_reg="ἐλθεῖν" lemma_orig="ἔρχομαι" postag_orig="v--ana---" relation_orig="OBJ" head_orig="12" lemma_reg="ἔρχομαι" postag_reg="v--ana---" relation_reg="OBJ" head_reg="12" tp_n="1" line_n="5" lang="grc" hand_id="21" tm_word_id=""/>
-    <word id="14" form_orig="πρὸς" form_reg="πρὸς" lemma_orig="πρός" postag_orig="r--------" relation_orig="AuxP" head_orig="12" lemma_reg="πρός" postag_reg="r--------" relation_reg="AuxP" head_reg="12" tp_n="1" line_n="5" lang="grc" hand_id="22" tm_word_id=""/>
+    <word id="14" form_orig="πρὸς" form_reg="πρὸς" lemma_orig="πρός" postag_orig="r--------" relation_orig="AuxP" head_orig="13" lemma_reg="πρός" postag_reg="r--------" relation_reg="AuxP" head_reg="13" tp_n="1" line_n="5" lang="grc" hand_id="22" tm_word_id=""/>
     <word id="15" form_orig="σέ" form_reg="σέ" lemma_orig="σύ" postag_orig="p2s----a-" relation_orig="OBJ" head_orig="14" lemma_reg="σύ" postag_reg="p2s----a-" relation_reg="OBJ" head_reg="14" tp_n="1" line_n="6" lang="grc" hand_id="23" tm_word_id=""/>
     <word id="16" form_orig="." form_reg="." lemma_orig="punc1" postag_orig="u--------" relation_orig="AuxK" head_orig="0" lemma_reg="punc1" postag_reg="u--------" relation_reg="AuxK" head_reg="0" tp_n="1" line_n="6" lang="grc" hand_id="24" tm_word_id=""/>
   </sentence>

@@ -1,14 +1,16 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="35155" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-06-11" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-06-11" layer="orig"/>
   <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-06-10" layer="orig"/>
-  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-10-15" layer="orig"/>
+  <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-06-10" layer="reg"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-10-15" layer="reg"/>
+  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-10-15" layer="orig"/>
   <document_meta name="p.oxy.14.1774.xml" series_name="p.oxy" series_type="documentary" tm_id="33676" hgv_id="33676" date_not_before="301" date_not_after="325" place_name="Oxyrhynchos"/>
   <hand_meta name="m1" id="1">
-    <text_type hypercategory="PRIVATE" category="Letter" subcategory=""/>
-    <person pg_id="499" tm_id="375784" role="author" handwriting="" honorific_epithet="" ethnic_label="Christian" occupation="" domicile="" age="" education="" name="Didyme" gender="2" uncertain=""/>
+    <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>
+    <person pg_id="499" tm_id="375784" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Didyme" gender="2" uncertain=""/>
     <person pg_id="500" tm_id="375783" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Atienateie" gender="2" uncertain=""/>
-    <person pg_id="501" tm_id="" role="writer" handwriting="&quot;The hand is slow, with mostly detached letters but a few ligatures. The individual letters are well formed and not without style.&quot; (Bagnall-Cribiore 2006, 194)" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
+    <person pg_id="499" tm_id="375784" role="writer" handwriting="&quot;The hand is slow, with mostly detached letters but a few ligatures. The individual letters are well formed and not without style.&quot; (Bagnall-Cribiore 2006, 194)" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Didyme" gender="2" uncertain="1"/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="∼κυρείᾳ∽" form_reg="κυρίᾳ" lemma_orig="κύριος" postag_orig="a-s---fd-" relation_orig="ATR" head_orig="3" lemma_reg="κύριος" postag_reg="a-s---fd-" relation_reg="ATR" head_reg="3" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id=""/>

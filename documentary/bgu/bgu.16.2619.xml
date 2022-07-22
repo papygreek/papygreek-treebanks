@@ -1,8 +1,16 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="1041" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2021-06-22" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2021-06-22" layer="orig"/>
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2021-06-22" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2021-06-22" layer="orig"/>
   <document_meta name="bgu.16.2619.xml" series_name="bgu" series_type="documentary" tm_id="23343" hgv_id="23343" date_not_before="-21" date_not_after="5" place_name="Herakleopolites"/>
-  <hand_meta name="m1" id="1"/>
+  <hand_meta name="m1" id="1">
+    <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>
+    <person pg_id="188" tm_id="" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="1" uncertain=""/>
+    <person pg_id="187" tm_id="268570" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Erasistratos (Ἐρασίστρατος)" gender="1" uncertain=""/>
+    <person pg_id="187" tm_id="268570" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Erasistratos (Ἐρασίστρατος)" gender="1" uncertain="1"/>
+    <person pg_id="172" tm_id="268668" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="Dioecetes (διοικητής)" domicile="" age="" education="" name="Athenodoros (Ἀθηνόδωρος) alias Athas" gender="1" uncertain=""/>
+  </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="Ἐρασίστρατος" form_reg="Ἐρασίστρατος" lemma_orig="Ἐρασίστρατος" postag_orig="n-s---mn-" relation_orig="SBJ" head_orig="24" lemma_reg="Ἐρασίστρατος" postag_reg="n-s---mn-" relation_reg="SBJ" head_reg="24" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id=""/>
     <word id="2" form_orig="Ἀθηνο̣[δώρωι]" form_reg="Ἀθηνοδώρωι" lemma_orig="Ἀθηνόδωρος" postag_orig="n-_---m_-" relation_orig="OBJ" head_orig="24" lemma_reg="Ἀθηνόδωρος" postag_reg="n-s---md-" relation_reg="OBJ" head_reg="24" tp_n="1" line_n="1" lang="grc" hand_id="2" tm_word_id=""/>

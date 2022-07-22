@@ -1,9 +1,19 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="25817" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-02-17" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-02-17" layer="orig"/>
+  <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2021-02-17" layer="reg"/>
+  <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2021-02-08" layer="orig"/>
+  <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2019-04-02" layer="orig"/>
+  <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2019-04-02" layer="reg"/>
   <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2019-04-02" layer="orig"/>
   <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2019-04-02" layer="reg"/>
   <document_meta name="p.eleph.1intdupl.xml" series_name="p.eleph" series_type="documentary" tm_id="5836" hgv_id="5836" date_not_before="-310" date_not_after="-310" place_name="Elephantine"/>
-  <hand_meta name="m1" id="1"/>
+  <hand_meta name="m1" id="1">
+    <text_type hypercategory="LAW" category="Contract" subcategory="Marriage"/>
+    <person pg_id="428" tm_id="18180" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Herakleides" gender="1" uncertain=""/>
+    <person pg_id="429" tm_id="18181" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="from Kos" age="" education="" name="Demetria" gender="2" uncertain=""/>
+    <person pg_id="717" tm_id="" role="official" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
+  </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="Ἀλεξάνδρου" form_reg="Ἀλεξάνδρου" lemma_orig="Ἀλέξανδρος" postag_orig="n-s---mg-" relation_orig="SBJ" head_orig="4" lemma_reg="Ἀλέξανδρος" postag_reg="n-s---mg-" relation_reg="SBJ" head_reg="4" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id=""/>
     <word id="2" form_orig="τοῦ" form_reg="τοῦ" lemma_orig="ὁ" postag_orig="l-s---mg-" relation_orig="ATR" head_orig="1" lemma_reg="ὁ" postag_reg="l-s---mg-" relation_reg="ATR" head_reg="1" tp_n="1" line_n="1" lang="grc" hand_id="2" tm_word_id=""/>

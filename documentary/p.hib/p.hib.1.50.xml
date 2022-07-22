@@ -1,11 +1,14 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="29026" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-11-15" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-11-15" layer="orig"/>
   <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2020-11-11" layer="reg"/>
+  <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2020-11-11" layer="orig"/>
   <document_meta name="p.hib.1.50.xml" series_name="p.hib" series_type="documentary" tm_id="8201" hgv_id="8201" date_not_before="-257" date_not_after="-257" place_name="Oxyrhynchites"/>
   <hand_meta name="m1" id="1">
-    <text_type hypercategory="ADMINISTRATION" category="Letter" subcategory=""/>
+    <text_type hypercategory="ADMINISTRATION" category="Letter" subcategory="Official correspondence"/>
     <person pg_id="301" tm_id="391872" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Leodamas" gender="1" uncertain=""/>
     <person pg_id="311" tm_id="387951" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Theodoros" gender="1" uncertain=""/>
+    <person pg_id="301" tm_id="391872" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Leodamas" gender="1" uncertain="1"/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="[Λε]ω[δ]άμας" form_reg="Λεωδάμας" lemma_orig="[Λε]ω[δ]άμας" postag_orig="n-s---mn-" relation_orig="SBJ" head_orig="5" lemma_reg="Λεωδάμας" postag_reg="n-s---mn-" relation_reg="SBJ" head_reg="5" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id=""/>

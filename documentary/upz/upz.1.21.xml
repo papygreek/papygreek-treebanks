@@ -1,10 +1,11 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="55765" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-04-08" layer="orig"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-04-08" layer="reg"/>
   <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-03-17" layer="reg"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-03-17" layer="orig"/>
   <document_meta name="upz.1.21.xml" series_name="upz" series_type="documentary" tm_id="3412" hgv_id="3412" date_not_before="-162" date_not_after="-162" place_name="Memphis"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="ADMINISTRATION" category="Report" subcategory="Administrative"/>
-    <text_type hypercategory="ADMINISTRATION" category="Report" subcategory=""/>
     <person pg_id="113" tm_id="7542" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="(Ulrich Wilcken:) antigrapheus (ἀντιγραφεύς)" domicile="" age="" education="" name="Dorion (Δωρίων)" gender="1" uncertain="1"/>
     <person pg_id="111" tm_id="6393" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Asklepiades (Ἀσκληπίαδης)" gender="1" uncertain=""/>
     <person pg_id="109" tm_id="13276" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Sarapion (Σαραπίων)" gender="1" uncertain="1"/>

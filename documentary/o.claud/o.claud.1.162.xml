@@ -1,6 +1,8 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="10205" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2019-11-28" layer="orig"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-07-18" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-07-18" layer="orig"/>
   <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-11-22" layer="orig"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-11-20" layer="reg"/>
   <document_meta name="o.claud.1.162.xml" series_name="o.claud" series_type="documentary" tm_id="24170" hgv_id="24170" date_not_before="100" date_not_after="120" place_name="Mons Claudianus"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="PRIVATE" category="Letter" subcategory=""/>
@@ -44,7 +46,7 @@
     <word id="1" form_orig="οὐ" form_reg="οὐ" lemma_orig="οὐ" postag_orig="d--------" relation_orig="AuxZ" head_orig="2" lemma_reg="οὐ" postag_reg="d--------" relation_reg="AuxZ" head_reg="2" tp_n="1" line_n="8" lang="grc" hand_id="27" tm_word_id="619178"/>
     <word id="2" form_orig="καλῶς" form_reg="καλῶς" lemma_orig="καλός" postag_orig="d-------p" relation_orig="ADV" head_orig="3" lemma_reg="καλός" postag_reg="d-------p" relation_reg="ADV" head_reg="3" tp_n="1" line_n="8" lang="grc" hand_id="28" tm_word_id="619179"/>
     <word id="3" form_orig="∼ἐποίεσες∽" form_reg="ἐποίησας" lemma_orig="ποιέω" postag_orig="v2saia---" relation_orig="PRED" head_orig="0" lemma_reg="ποιέω" postag_reg="v2saia---" relation_reg="PRED" head_reg="0" tp_n="1" line_n="9" lang="grc" hand_id="29" tm_word_id="619180"/>
-    <word id="4" form_orig="γ̣[ράψα]ς̣" form_reg="γράψας" lemma_orig="γ̣[ράψα]ς̣" postag_orig="v_____---" relation_orig="ADV" head_orig="3" lemma_reg="γράφω" postag_reg="v-sapamn-" relation_reg="ADV" head_reg="3" tp_n="1" line_n="9" lang="grc" hand_id="30" tm_word_id="619181"/>
+    <word id="4" form_orig="γ̣[ράψα]ς̣" form_reg="γράψας" lemma_orig="γ̣[ράψα]ς̣" postag_orig="v_____---" relation_orig="OBJ" head_orig="3" lemma_reg="γράφω" postag_reg="v-sapamn-" relation_reg="OBJ" head_reg="3" tp_n="1" line_n="9" lang="grc" hand_id="30" tm_word_id="619181"/>
     <word id="5" form_orig="ὅτι" form_reg="ὅτι" lemma_orig="ὅτι2" postag_orig="c--------" relation_orig="AuxC" head_orig="4" lemma_reg="ὅτι2" postag_reg="c--------" relation_reg="AuxC" head_reg="4" tp_n="1" line_n="10" lang="grc" hand_id="31" tm_word_id="619182"/>
     <word id="6" form_orig="∼ὀφίλω∽" form_reg="ὀφείλω" lemma_orig="ὀφείλω" postag_orig="v1spia---" relation_orig="OBJ" head_orig="5" lemma_reg="ὀφείλω" postag_reg="v1spia---" relation_reg="OBJ" head_reg="5" tp_n="1" line_n="10" lang="grc" hand_id="32" tm_word_id="619183"/>
     <word id="7" form_orig="σ[οι]" form_reg="σοι" lemma_orig="σύ" postag_orig="p2s---m--" relation_orig="OBJ" head_orig="6" lemma_reg="σύ" postag_reg="p2s---md-" relation_reg="OBJ" head_reg="6" tp_n="1" line_n="10" lang="grc" hand_id="33" tm_word_id="619184"/>

@@ -1,7 +1,12 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="55840" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-05-04" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-07-20" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-07-20" layer="orig"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2022-07-20" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2022-07-20" layer="orig"/>
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated" date="2021-05-04" layer="orig"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated" date="2020-04-02" layer="reg"/>
   <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-03-24" layer="reg"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-03-24" layer="orig"/>
   <document_meta name="upz.1.9.xml" series_name="upz" series_type="documentary" tm_id="3400" hgv_id="3400" date_not_before="-161" date_not_after="-160" place_name="Memphis"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="ADMINISTRATION" category="Petition" subcategory="Enteuxis (to the king/queen)"/>
@@ -16,7 +21,7 @@
     <word id="3" form_orig="καὶ" form_reg="καὶ" lemma_orig="καί" postag_orig="c--------" relation_orig="COORD" head_orig="28" lemma_reg="καί" postag_reg="c--------" relation_reg="COORD" head_reg="28" tp_n="1" line_n="1" lang="grc" hand_id="3" tm_word_id=""/>
     <word id="4" form_orig="βασιλίσσηι" form_reg="βασιλίσσηι" lemma_orig="βασίλισσα" postag_orig="n-s---fd-" relation_orig="ATR" head_orig="5" lemma_reg="βασίλισσα" postag_reg="n-s---fd-" relation_reg="ATR" head_reg="5" tp_n="1" line_n="1" lang="grc" hand_id="4" tm_word_id=""/>
     <word id="5" form_orig="Κλεοπάτραι" form_reg="Κλεοπάτραι" lemma_orig="Κλεοπάτρα" postag_orig="n-s---fd-" relation_orig="OBJ_CO" head_orig="3" lemma_reg="Κλεοπάτρα" postag_reg="n-s---fd-" relation_reg="OBJ_CO" head_reg="3" tp_n="1" line_n="1" lang="grc" hand_id="5" tm_word_id=""/>
-    <word id="6" form_orig="τῆι" form_reg="τῆι" lemma_orig="ὁ" postag_orig="l-s---fd-" relation_orig="ATR" head_orig="5" lemma_reg="ὁ" postag_reg="l-s---fd-" relation_reg="ATR" head_reg="5" tp_n="1" line_n="1" lang="grc" hand_id="6" tm_word_id=""/>
+    <word id="6" form_orig="τῆι" form_reg="τῆι" lemma_orig="ὁ" postag_orig="l-s---fd-" relation_orig="ATR" head_orig="7" lemma_reg="ὁ" postag_reg="l-s---fd-" relation_reg="ATR" head_reg="7" tp_n="1" line_n="1" lang="grc" hand_id="6" tm_word_id=""/>
     <word id="7" form_orig="ἀδελφῆι" form_reg="ἀδελφῆι" lemma_orig="ἀδελφή" postag_orig="n-s---fd-" relation_orig="ATR" head_orig="5" lemma_reg="ἀδελφή" postag_reg="n-s---fd-" relation_reg="ATR" head_reg="5" tp_n="1" line_n="1" lang="grc" hand_id="7" tm_word_id=""/>
     <word id="8" form_orig="θεοῖς" form_reg="θεοῖς" lemma_orig="θεός" postag_orig="n-p---md-" relation_orig="ATR" head_orig="3" lemma_reg="θεός" postag_reg="n-p---md-" relation_reg="ATR" head_reg="3" tp_n="1" line_n="2" lang="grc" hand_id="8" tm_word_id=""/>
     <word id="9" form_orig="Φιλομήτορ[σι]" form_reg="Φιλομήτορσι" lemma_orig="Φιλομήτωρ" postag_orig="n-_---m_-" relation_orig="ATR" head_orig="3" lemma_reg="Φιλομήτωρ" postag_reg="n-p---md-" relation_reg="ATR" head_reg="3" tp_n="1" line_n="2" lang="grc" hand_id="9" tm_word_id=""/>

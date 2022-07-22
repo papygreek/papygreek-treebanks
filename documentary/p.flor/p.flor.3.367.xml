@@ -1,6 +1,8 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="27078" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-05-08" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-05-08" layer="orig"/>
   <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-04-28" layer="orig"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-04-28" layer="reg"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-09-27" layer="orig"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-09-27" layer="reg"/>
   <document_meta name="p.flor.3.367.xml" series_name="p.flor" series_type="documentary" tm_id="31149" hgv_id="31149" date_not_before="201" date_not_after="300" place_name="Arsinoites (?)"/>
@@ -8,6 +10,7 @@
     <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>
     <person pg_id="157" tm_id="282494" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Aurelios Theoninos" gender="1" uncertain=""/>
     <person pg_id="158" tm_id="282495" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Didymos" gender="1" uncertain=""/>
+    <person pg_id="157" tm_id="282494" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Aurelios Theoninos" gender="1" uncertain="1"/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="❨Αὐρήλ(ιος)❩" form_reg="Αὐρήλιος" lemma_orig="Αὐρήλιος" postag_orig="n-_---m_-" relation_orig="ATR" head_orig="2" lemma_reg="Αὐρήλιος" postag_reg="n-s---mn-" relation_reg="ATR" head_reg="2" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id="1545756"/>

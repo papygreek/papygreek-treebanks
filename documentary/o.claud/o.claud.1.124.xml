@@ -1,6 +1,8 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="10163" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2019-10-24" layer="orig"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2019-10-24" layer="reg"/>
   <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-10-24" layer="reg"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-10-24" layer="orig"/>
   <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2016-10-10" layer="orig"/>
   <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2016-10-10" layer="reg"/>
   <document_meta name="o.claud.1.124.xml" series_name="o.claud" series_type="documentary" tm_id="24136" hgv_id="24136" date_not_before="107" date_not_after="107" place_name="Raima"/>

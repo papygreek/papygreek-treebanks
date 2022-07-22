@@ -1,6 +1,10 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="10371" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-05-22" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-05-22" layer="orig"/>
   <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-12-18" layer="reg"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-12-18" layer="orig"/>
+  <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2017-01-23" layer="reg"/>
+  <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2017-01-23" layer="orig"/>
   <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2017-01-23" layer="orig"/>
   <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2017-01-23" layer="reg"/>
   <document_meta name="o.claud.2.248.xml" series_name="o.claud" series_type="documentary" tm_id="29668" hgv_id="29668" date_not_before="126" date_not_after="175" place_name="Tiberiane"/>

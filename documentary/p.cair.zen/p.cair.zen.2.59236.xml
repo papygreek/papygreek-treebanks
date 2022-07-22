@@ -1,6 +1,8 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="24160" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-05-07" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-05-07" layer="orig"/>
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated" date="2020-05-07" layer="orig"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated" date="2020-05-07" layer="reg"/>
   <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2019-04-01" layer="orig"/>
   <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2019-04-01" layer="reg"/>
   <document_meta name="p.cair.zen.2.59236.xml" series_name="p.cair.zen" series_type="documentary" tm_id="881" hgv_id="881" date_not_before="-253" date_not_after="-252" place_name="Philadelphia (Arsinoites)"/>
@@ -8,6 +10,7 @@
     <text_type hypercategory="ADMINISTRATION" category="Petition" subcategory="Enteuxis (to the king/queen)"/>
     <person pg_id="152" tm_id="1542" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="Dioiketes" domicile="" age="" education="" name="Diotimos" gender="1" uncertain=""/>
     <person pg_id="153" tm_id="35788" role="author" handwriting="" honorific_epithet="" ethnic_label="Macedonian (Μακεδὼν)" occupation="cleruch (τῶν ἐν Φιλαδελφείαι κληρούχων)" domicile="Philadelpia" age="" education="" name="Neoptolemos" gender="1" uncertain=""/>
+    <person pg_id="709" tm_id="" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="Διοτίμωι" form_reg="Διοτίμωι" lemma_orig="Διότιμος" postag_orig="n-s---md-" relation_orig="OBJ" head_orig="11" lemma_reg="Διότιμος" postag_reg="n-s---md-" relation_reg="OBJ" head_reg="11" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id=""/>

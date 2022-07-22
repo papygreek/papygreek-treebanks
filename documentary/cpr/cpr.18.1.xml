@@ -1,9 +1,11 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="4091" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-02-16" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-02-16" layer="orig"/>
   <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2021-02-15" layer="orig"/>
-  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2019-08-02" layer="orig"/>
+  <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2021-02-15" layer="reg"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2019-08-02" layer="reg"/>
-  <document_meta name="cpr.18.1.xml" series_name="cpr" series_type="documentary" tm_id="7760" hgv_id="7760" date_not_before="-206" date_not_after="-231" place_name="Theogonis (Arsinoites)"/>
+  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2019-08-02" layer="orig"/>
+  <document_meta name="cpr.18.1.xml" series_name="cpr" series_type="documentary" tm_id="7760" hgv_id="7760" date_not_before="-231" date_not_after="-206" place_name="Theogonis (Arsinoites)"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="LAW" category="Contract" subcategory="Work"/>
     <person pg_id="525" tm_id="18004" role="author" handwriting="" honorific_epithet="" ethnic_label="syracusan ἐπιγονή" occupation="" domicile="" age="" education="" name="Sosos" gender="1" uncertain=""/>

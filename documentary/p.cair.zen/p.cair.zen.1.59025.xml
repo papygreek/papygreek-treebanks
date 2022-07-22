@@ -1,9 +1,14 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="23964" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2020-09-09" layer="orig"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2020-09-09" layer="reg"/>
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2020-09-09" layer="orig"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2020-09-09" layer="reg"/>
   <document_meta name="p.cair.zen.1.59025.xml" series_name="p.cair.zen" series_type="documentary" tm_id="685" hgv_id="685" date_not_before="-258" date_not_after="-256" place_name="Alexandria"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>
+    <person pg_id="683" tm_id="1173" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Archelaos" gender="1" uncertain=""/>
+    <person pg_id="682" tm_id="2279" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Kriton" gender="1" uncertain=""/>
+    <person pg_id="683" tm_id="1173" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Archelaos" gender="1" uncertain="1"/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="Ἀρχέλαος" form_reg="Ἀρχέλαος" lemma_orig="Ἀρχέλαος" postag_orig="n-s---mn-" relation_orig="SBJ" head_orig="5" lemma_reg="Ἀρχέλαος" postag_reg="n-s---mn-" relation_reg="SBJ" head_reg="5" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id=""/>

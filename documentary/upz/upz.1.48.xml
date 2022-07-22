@@ -1,9 +1,13 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="55794" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-05-06" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-05-06" layer="orig"/>
   <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-05-05" layer="reg"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-05-05" layer="orig"/>
   <document_meta name="upz.1.48.xml" series_name="upz" series_type="documentary" tm_id="3439" hgv_id="3439" date_not_before="-162" date_not_after="-161" place_name="Memphis"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="ADMINISTRATION" category="Petition" subcategory="Hypomnema"/>
+    <person pg_id="124" tm_id="" role="writer" handwriting="Ulrich Wilcken: &quot;Die Schrift (parallel der Paginabreite) ist bis ἐπεδώκα in Z. 4 eine zierliche Unziale; von dem folgenden μέν an setzt eine zweite, dickere Schrift ein, die allmählich mehr in Kursive übergeht, vielleicht dieselbe, die 47 geschrieben hat.&quot;" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
+    <person pg_id="123" tm_id="" role="writer" handwriting="Ulrich Wilcken: &quot;Die Schrift (parallel der Paginabreite) ist bis ἐπεδώκα in Z. 4 eine zierliche Unziale; von dem folgenden μέν an setzt eine zweite, dickere Schrift ein, die allmählich mehr in Kursive übergeht, vielleicht dieselbe, die 47 geschrieben hat.&quot;" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain="1"/>
     <person pg_id="107" tm_id="343197" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="twin (διδύμη)" domicile="" age="" education="" name="Taues (Ταυης)" gender="2" uncertain=""/>
     <person pg_id="108" tm_id="8776" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="twin (διδύμη)" domicile="" age="" education="" name="Taous (Ταους)" gender="2" uncertain=""/>
     <person pg_id="109" tm_id="13276" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="diadochos (διάδοχος), hypodioiketes (ὑποδιοικητής)" domicile="" age="" education="" name="Sarapion (Σαραπίων)" gender="1" uncertain=""/>

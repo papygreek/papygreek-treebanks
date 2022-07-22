@@ -1,12 +1,16 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="35179" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-03-14" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-03-14" layer="orig"/>
+  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-08-10" layer="orig"/>
+  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-08-10" layer="reg"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-08-10" layer="orig"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-08-10" layer="reg"/>
   <document_meta name="p.oxy.16.1849.xml" series_name="p.oxy" series_type="documentary" tm_id="37855" hgv_id="37855" date_not_before="501" date_not_after="700" place_name="Oxyrhynchos"/>
   <hand_meta name="m1" id="1">
-    <text_type hypercategory="PRIVATE" category="Letter" subcategory=""/>
-    <person pg_id="392" tm_id="146938" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Victor" gender="1" uncertain=""/>
-    <person pg_id="393" tm_id="414577" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Theodoros" gender="1" uncertain=""/>
+    <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>
+    <person pg_id="392" tm_id="146938" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="Land-agent (ἀντιγεοῦχος)" domicile="" age="" education="" name="Victor" gender="1" uncertain=""/>
+    <person pg_id="393" tm_id="414577" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="Steward (μειζότερος)" domicile="" age="" education="" name="Theodoros" gender="1" uncertain=""/>
+    <person pg_id="392" tm_id="146938" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Victor" gender="1" uncertain="1"/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="καταξιώσῃ" form_reg="καταξιώσῃ" lemma_orig="καταξιόω" postag_orig="v3sasa---" relation_orig="PRED" head_orig="0" lemma_reg="καταξιόω" postag_reg="v3sasa---" relation_reg="PRED" head_reg="0" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id=""/>

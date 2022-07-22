@@ -1,8 +1,10 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="24053" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-04-23" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-07-18" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-07-18" layer="orig"/>
   <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-04-18" layer="reg"/>
-  <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2018-10-12" layer="orig"/>
+  <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-04-18" layer="orig"/>
   <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2018-10-12" layer="reg"/>
+  <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2018-10-12" layer="orig"/>
   <document_meta name="p.cair.zen.1.59125.xml" series_name="p.cair.zen" series_type="documentary" tm_id="774" hgv_id="774" date_not_before="-256" date_not_after="-256" place_name="Alexandria"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="PRIVATE" category="Letter" subcategory=""/>
@@ -19,7 +21,7 @@
   <sentence id="2">
     <word id="1" form_orig="ὀρθ̣[ῶς]" form_reg="ὀρθῶς" lemma_orig="" postag_orig="" relation_orig="" head_orig="" lemma_reg="ὀρθός" postag_reg="d-------_" relation_reg="ADV" head_reg="2" tp_n="1" line_n="1" lang="grc" hand_id="6" tm_word_id="1221260"/>
     <word id="2" form_orig="ἐποίησας" form_reg="ἐποίησας" lemma_orig="ποιέω" postag_orig="v2saia---" relation_orig="PRED" head_orig="0" lemma_reg="ποιέω" postag_reg="v2saia---" relation_reg="PRED" head_reg="0" tp_n="1" line_n="1" lang="grc" hand_id="7" tm_word_id="1221261"/>
-    <word id="3" form_orig="συντάξας" form_reg="συντάξας" lemma_orig="συντάσσω" postag_orig="v-sapamn-" relation_orig="ADV" head_orig="2" lemma_reg="συντάσσω" postag_reg="v-sapamn-" relation_reg="ADV" head_reg="2" tp_n="1" line_n="2" lang="grc" hand_id="8" tm_word_id="1221262"/>
+    <word id="3" form_orig="συντάξας" form_reg="συντάξας" lemma_orig="συντάσσω" postag_orig="v-sapamn-" relation_orig="OBJ" head_orig="2" lemma_reg="συντάσσω" postag_reg="v-sapamn-" relation_reg="OBJ" head_reg="2" tp_n="1" line_n="2" lang="grc" hand_id="8" tm_word_id="1221262"/>
     <word id="4" form_orig="εἰς" form_reg="εἰς" lemma_orig="εἰς" postag_orig="r--------" relation_orig="AuxP" head_orig="17" lemma_reg="εἰς" postag_reg="r--------" relation_reg="AuxP" head_reg="17" tp_n="1" line_n="2" lang="grc" hand_id="9" tm_word_id="1221263"/>
     <word id="5" form_orig="τὸν" form_reg="τὸν" lemma_orig="ὁ" postag_orig="l-s---ma-" relation_orig="ATR" head_orig="6" lemma_reg="ὁ" postag_reg="l-s---ma-" relation_reg="ATR" head_reg="6" tp_n="1" line_n="2" lang="grc" hand_id="10" tm_word_id="1221264"/>
     <word id="6" form_orig="παράδεισον" form_reg="παράδεισον" lemma_orig="παράδεισος" postag_orig="n-s---ma-" relation_orig="ADV" head_orig="4" lemma_reg="παράδεισος" postag_reg="n-s---ma-" relation_reg="ADV" head_reg="4" tp_n="1" line_n="2" lang="grc" hand_id="11" tm_word_id="1221265"/>

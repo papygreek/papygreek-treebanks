@@ -1,6 +1,8 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="68993" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-02-05" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-02-05" layer="orig"/>
   <annotator name="Riccardo Bongiovanni" address="bongiovanni.riccardo91@gmail.com" role="annotated" date="2020-02-05" layer="orig"/>
+  <annotator name="Riccardo Bongiovanni" address="bongiovanni.riccardo91@gmail.com" role="annotated" date="2020-02-05" layer="reg"/>
   <document_meta name="64091.xml" series_name="65" series_type="literary" tm_id="64091" hgv_id="" date_not_before="" date_not_after="" place_name=""/>
   <hand_meta name="m1" id="1"/>
   <sentence id="1">

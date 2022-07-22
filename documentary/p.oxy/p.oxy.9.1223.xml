@@ -1,14 +1,17 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="37593" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-02-24" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-02-24" layer="orig"/>
   <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2020-12-18" layer="orig"/>
+  <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2020-12-18" layer="reg"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2020-12-18" layer="orig"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-08-14" layer="orig"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-08-14" layer="reg"/>
   <document_meta name="p.oxy.9.1223.xml" series_name="p.oxy" series_type="documentary" tm_id="21597" hgv_id="21597" date_not_before="370" date_not_after="370" place_name="Oxyrhynchites"/>
   <hand_meta name="m1" id="1">
-    <text_type hypercategory="PRIVATE" category="Letter" subcategory=""/>
+    <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>
     <person pg_id="372" tm_id="363421" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Hermias" gender="1" uncertain=""/>
     <person pg_id="373" tm_id="363420" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Horion" gender="1" uncertain=""/>
+    <person pg_id="372" tm_id="363421" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Hermias" gender="1" uncertain="1"/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="κυρίῳ" form_reg="κυρίῳ" lemma_orig="κύριος" postag_orig="n-s---md-" relation_orig="OBJ" head_orig="7" lemma_reg="κύριος" postag_reg="n-s---md-" relation_reg="ATR" head_reg="4" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id="3087475"/>

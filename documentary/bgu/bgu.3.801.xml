@@ -1,14 +1,17 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="1696" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-01-12" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-01-12" layer="orig"/>
   <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2021-01-12" layer="orig"/>
-  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-10-31" layer="orig"/>
+  <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2021-01-12" layer="reg"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-10-31" layer="reg"/>
+  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-10-31" layer="orig"/>
   <document_meta name="bgu.3.801.xml" series_name="bgu" series_type="documentary" tm_id="28089" hgv_id="28089" date_not_before="101" date_not_after="200" place_name="unbekannt"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>
+    <person pg_id="365" tm_id="276782" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Tasukharion" gender="2" uncertain="1"/>
     <person pg_id="366" tm_id="276774" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Neilos" gender="1" uncertain=""/>
     <person pg_id="365" tm_id="276782" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Tasukharion" gender="2" uncertain=""/>
-    <person pg_id="" tm_id="" role="writer" handwriting="A LARGELY DETACHED HAND, but with ligatures. Some letters are remade, but the individual letters are mostly not badly made. All the letters sent by Ta-soucharion are in different hands. (Bagnall &amp; Cribiore)" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
+    <person pg_id="661" tm_id="" role="writer" handwriting="A LARGELY DETACHED HAND, but with ligatures. Some letters are remade, but the individual letters are mostly not badly made. All the letters sent by Ta-soucharion are in different hands. (Bagnall &amp; Cribiore)" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="∼Νειλος∽" form_reg="Νείλῳ" lemma_orig="Νεῖλος" postag_orig="n-s---mn-" relation_orig="OBJ" head_orig="7" lemma_reg="Νεῖλος" postag_reg="n-s---md-" relation_reg="OBJ" head_reg="7" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id=""/>

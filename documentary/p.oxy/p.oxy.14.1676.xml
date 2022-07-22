@@ -1,8 +1,10 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="35061" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-04-12" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-07-18" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-07-18" layer="orig"/>
   <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2021-02-15" layer="reg"/>
-  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-09-10" layer="orig"/>
+  <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2021-02-15" layer="orig"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-09-10" layer="reg"/>
+  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-09-10" layer="orig"/>
   <document_meta name="p.oxy.14.1676.xml" series_name="p.oxy" series_type="documentary" tm_id="21966" hgv_id="21966" date_not_before="324" date_not_after="" place_name="Oxyrhynchos"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>
@@ -170,7 +172,7 @@
     <word id="1" form_orig="καλῶς" form_reg="καλῶς" lemma_orig="καλός" postag_orig="d-------_" relation_orig="ADV" head_orig="3" lemma_reg="καλός" postag_reg="d-------_" relation_reg="ADV" head_reg="3" tp_n="1" line_n="29" lang="grc" hand_id="135" tm_word_id="2715843"/>
     <word id="2" form_orig="οὖν" form_reg="οὖν" lemma_orig="οὖν" postag_orig="d--------" relation_orig="AuxY" head_orig="3" lemma_reg="οὖν" postag_reg="d--------" relation_reg="AuxY" head_reg="3" tp_n="1" line_n="29" lang="grc" hand_id="136" tm_word_id="2715844"/>
     <word id="3" form_orig="ποιήσεις" form_reg="ποιήσεις" lemma_orig="ποιέω" postag_orig="v2sfia---" relation_orig="PRED" head_orig="0" lemma_reg="ποιέω" postag_reg="v2sfia---" relation_reg="PRED" head_reg="0" tp_n="1" line_n="29" lang="grc" hand_id="137" tm_word_id="2715845"/>
-    <word id="4" form_orig="ἐλ∤[θοῦσ]α" form_reg="ἐλ∤θοῦσα" lemma_orig="" postag_orig="" relation_orig="ADV" head_orig="3" lemma_reg="ἔρχομαι" postag_reg="v-sapafn-" relation_reg="ADV" head_reg="3" tp_n="1" line_n="29-30" lang="grc" hand_id="138" tm_word_id="2715846"/>
+    <word id="4" form_orig="ἐλ∤[θοῦσ]α" form_reg="ἐλ∤θοῦσα" lemma_orig="" postag_orig="" relation_orig="OBJ" head_orig="3" lemma_reg="ἔρχομαι" postag_reg="v-sapafn-" relation_reg="OBJ" head_reg="3" tp_n="1" line_n="29-30" lang="grc" hand_id="138" tm_word_id="2715846"/>
     <word id="5" form_orig="τῷ" form_reg="τῷ" lemma_orig="ὁ" postag_orig="l-s---_d-" relation_orig="ATR" head_orig="6" lemma_reg="ὁ" postag_reg="l-s---_d-" relation_reg="ATR" head_reg="6" tp_n="1" line_n="30" lang="grc" hand_id="139" tm_word_id="2715847"/>
     <word id="6" form_orig="Μεσορὴ" form_reg="Μεσορὴ" lemma_orig="Μεσορη" postag_orig="n-s---__-" relation_orig="ADV" head_orig="4" lemma_reg="Μεσορη" postag_reg="n-s---__-" relation_reg="ADV" head_reg="4" tp_n="1" line_n="30" lang="grc" hand_id="140" tm_word_id="2715848"/>
     <word id="7" form_orig="πρὸς" form_reg="πρὸς" lemma_orig="πρός" postag_orig="r--------" relation_orig="AuxP" head_orig="4" lemma_reg="πρός" postag_reg="r--------" relation_reg="AuxP" head_reg="4" tp_n="1" line_n="30" lang="grc" hand_id="141" tm_word_id="2715849"/>

@@ -1,11 +1,12 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="22268" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-01-10" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-01-10" layer="orig"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-12-21" layer="orig"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-12-21" layer="reg"/>
   <document_meta name="p.athen.60.xml" series_name="p.athen" series_type="documentary" tm_id="77953" hgv_id="77953" date_not_before="-400" date_not_after="-1" place_name="unbekannt"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>
-    <person pg_id="" tm_id="" role="writer" handwriting="The hand resembles a book hand. The letters are entirely separated, they vary in size, and the alignment is irregular. The amateurish impression that this letter conveys is also increased by the fact that the writer used a thick pen." honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
+    <person pg_id="376" tm_id="302056" role="writer" handwriting="The hand resembles a book hand. The letters are entirely separated, they vary in size, and the alignment is irregular. The amateurish impression that this letter conveys is also increased by the fact that the writer used a thick pen. (Bagnall-Cribiore 2006, p. 374)" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Apollonia" gender="2" uncertain="1"/>
     <person pg_id="376" tm_id="302056" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Apollonia" gender="2" uncertain=""/>
     <person pg_id="378" tm_id="302058" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Rasis" gender="1" uncertain=""/>
     <person pg_id="377" tm_id="302057" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Eupous" gender="2" uncertain=""/>

@@ -1,15 +1,20 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="10182" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-04-07" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-04-07" layer="orig"/>
   <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-04-07" layer="reg"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-04-07" layer="orig"/>
+  <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2016-10-31" layer="orig"/>
+  <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2016-10-31" layer="reg"/>
   <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2016-10-31" layer="orig"/>
   <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2016-10-31" layer="reg"/>
   <document_meta name="o.claud.1.141.xml" series_name="o.claud" series_type="documentary" tm_id="24153" hgv_id="24153" date_not_before="109" date_not_after="110" place_name="Mons Claudianus"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="" category="" subcategory=""/>
     <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>
+    <person pg_id="17" tm_id="" role="writer" handwriting="Adam Bülow-Jacobsen: &quot;The writer is known from his prolific correspondence with Φίλων about delivery of bread [...]. His handwriting is well known and through his habit of dating his letters his period of activity on Claudianus can be dated in the year 13-14 of the reign of Trajan.&quot;" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
     <person pg_id="15" tm_id="141476" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Silvanus (Σιλβανός)" gender="1" uncertain=""/>
     <person pg_id="16" tm_id="141477" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Silvanus (Σιλβανός)" gender="1" uncertain=""/>
-    <person pg_id="17" tm_id="" role="writer" handwriting="Adam Bülow-Jacobsen: &quot;The writer is known from his prolific correspondence with Φίλων about delivery of bread [...]. His handwriting is well known and through his habit of dating his letters his period of activity on Claudianus can be dated in the year 13-14 of the reign of Trajan.&quot;" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
+    <person pg_id="15" tm_id="141476" role="writer" handwriting="Adam Bülow-Jacobsen: &quot;The writer is known from his prolific correspondence with Φίλων about delivery of bread [...]. His handwriting is well known and through his habit of dating his letters his period of activity on Claudianus can be dated in the year 13-14 of the reign of Trajan.&quot;" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Silvanus (Σιλβανός)" gender="1" uncertain=""/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="Σιλβανὸς" form_reg="Σιλβανὸς" lemma_orig="Σιλβανὀς" postag_orig="n-s---mn-" relation_orig="SBJ" head_orig="7" lemma_reg="Σιλβανὀς" postag_reg="n-s---mn-" relation_reg="SBJ" head_reg="7" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id="618208"/>

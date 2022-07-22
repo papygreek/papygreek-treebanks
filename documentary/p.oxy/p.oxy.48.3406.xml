@@ -1,6 +1,8 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="36410" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-06-23" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-06-23" layer="orig"/>
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated" date="2021-06-23" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated" date="2021-06-23" layer="orig"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-10-16" layer="orig"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-10-16" layer="reg"/>
   <document_meta name="p.oxy.48.3406.xml" series_name="p.oxy" series_type="documentary" tm_id="33716" hgv_id="33716" date_not_before="301" date_not_after="400" place_name="Oxyrhynchos"/>

@@ -1,13 +1,16 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="23097" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-03-02" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-03-02" layer="orig"/>
   <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-03-02" layer="reg"/>
-  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-08-13" layer="orig"/>
+  <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-03-02" layer="orig"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-08-13" layer="reg"/>
+  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-08-13" layer="orig"/>
   <document_meta name="p.bour.25.xml" series_name="p.bour" series_type="documentary" tm_id="32904" hgv_id="32904" date_not_before="301" date_not_after="500" place_name="Apamea (Syrien oder Kleinasien) ?"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>
     <person pg_id="547" tm_id="373835" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Tares" gender="2" uncertain=""/>
-    <person pg_id="548" tm_id="" role="writer" handwriting="&quot;The hand uses letters all separated and inclined to the right. Letter size varies and occasionally becomes very small. The writer in any case seems quite competent.&quot; (Bagnall-Cribiore 2006, 260.)" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
+    <person pg_id="547" tm_id="373835" role="writer" handwriting="&quot;The hand uses letters all separated and inclined to the right. Letter size varies and occasionally becomes very small. The writer in any case seems quite competent.&quot; (Bagnall-Cribiore 2006, 260.)" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Tares" gender="2" uncertain="1"/>
+    <person pg_id="677" tm_id="373837" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Horeina" gender="2" uncertain=""/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="κυρίᾳ" form_reg="κυρίᾳ" lemma_orig="κυρία" postag_orig="n-s---fd-" relation_orig="OBJ_CO" head_orig="3" lemma_reg="κυρία" postag_reg="n-s---fd-" relation_reg="OBJ_CO" head_reg="3" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id="1059260"/>

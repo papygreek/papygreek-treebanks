@@ -1,7 +1,9 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="10210" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2019-10-22" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2019-10-22" layer="orig"/>
   <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-10-09" layer="reg"/>
-  <document_meta name="o.claud.1.167.xml" series_name="o.claud" series_type="documentary" tm_id="24174 24175" hgv_id="24174 24175" date_not_before="107" date_not_after="107" place_name="Mons Claudianus"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-10-09" layer="orig"/>
+  <document_meta name="o.claud.1.167.xml" series_name="o.claud" series_type="documentary" tm_id="24174 24175" hgv_id="24174 24175" date_not_before="100" date_not_after="120" place_name="Mons Claudianus"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>
     <person pg_id="60" tm_id="" role="writer" handwriting="Adam Bülow-Jacobsen: same hand in O.Claud.1.168. Fragment 4163a (combined with inv. 3166, 3167, and 4163b as O.Claud.1.167, but is not necessarily from the same letter) &quot;is written by the same hand but with a thicker pen&quot;." honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>

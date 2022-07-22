@@ -1,12 +1,16 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="38291" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-12-13" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-12-13" layer="orig"/>
   <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2020-12-07" layer="reg"/>
+  <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2020-12-07" layer="orig"/>
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated" date="2020-12-02" layer="orig"/>
   <document_meta name="p.polit.iud.3.xml" series_name="p.polit.iud" series_type="documentary" tm_id="44619" hgv_id="44619" date_not_before="-140" date_not_after="-140" place_name="Herakleopolis"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="ADMINISTRATION" category="Petition" subcategory=""/>
-    <person pg_id="340" tm_id="291772" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Protomakhos son of Demetrios" gender="1" uncertain=""/>
     <person pg_id="340" tm_id="291772" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Protomakhos son of Demetrios" gender="1" uncertain="1"/>
+    <person pg_id="340" tm_id="291772" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Protomakhos son of Demetrios" gender="1" uncertain=""/>
+    <person pg_id="649" tm_id="" role="writer" handwriting="In the archive of the politeuma of the Jews, no same hands are recognised between the documents (p.polit.iud. p. 34)." honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
+    <person pg_id="623" tm_id="" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Archons of the Politeuma of the Jews" gender="" uncertain=""/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="το[ῖ]ς" form_reg="τοῖς" lemma_orig="ὁ" postag_orig="l-p---md-" relation_orig="ATR" head_orig="5" lemma_reg="ὁ" postag_reg="l-p---md-" relation_reg="ATR" head_reg="5" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id=""/>

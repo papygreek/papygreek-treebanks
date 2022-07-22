@@ -1,11 +1,14 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="2041" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-04-27" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-04-27" layer="orig"/>
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2021-04-26" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2021-04-26" layer="orig"/>
   <document_meta name="bgu.4.1203.xml" series_name="bgu" series_type="documentary" tm_id="18653" hgv_id="18653" date_not_before="-29" date_not_after="-29" place_name="Busiris (Herakleopolites)"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="BUSINESS" category="Letter" subcategory="Business correspondence"/>
     <person pg_id="253" tm_id="243081" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Asklepiades (Ἀσκληπίαδης) (alias Asklas)" gender="1" uncertain=""/>
     <person pg_id="571" tm_id="341482" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Tryphon (Τρύφων)" gender="1" uncertain=""/>
+    <person pg_id="253" tm_id="243081" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Asklepiades (Ἀσκληπίαδης) (alias Asklas)" gender="1" uncertain="1"/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="[Ἀσκληπιάδης]" form_reg="Ἀσκληπιάδης" lemma_orig="Ἀσκληπιάδης" postag_orig="n-_---m_-" relation_orig="" head_orig="" lemma_reg="Ἀσκληπιάδης" postag_reg="n-s---mn-" relation_reg="SBJ" head_reg="9" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id="242111"/>

@@ -1,5 +1,6 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="24020" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-01-19" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-01-19" layer="orig"/>
   <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2018-10-01" layer="orig"/>
   <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2018-10-01" layer="reg"/>
   <document_meta name="p.cair.zen.1.59085.xml" series_name="p.cair.zen" series_type="documentary" tm_id="740" hgv_id="740" date_not_before="-257" date_not_after="-257" place_name="unbekannt"/>
@@ -7,6 +8,7 @@
     <text_type hypercategory="BUSINESS" category="Order" subcategory=""/>
     <person pg_id="417" tm_id="3905" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Philon" gender="1" uncertain=""/>
     <person pg_id="418" tm_id="3632" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Sosibios" gender="1" uncertain=""/>
+    <person pg_id="417" tm_id="3905" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Philon" gender="1" uncertain="1"/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="ιζ|num:17|" form_reg="ιζ|num:17|" lemma_orig="ιζ" postag_orig="m-_---__-" relation_orig="ADV" head_orig="6" lemma_reg="ιζ" postag_reg="m-_---__-" relation_reg="ADV" head_reg="6" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id="1219056"/>

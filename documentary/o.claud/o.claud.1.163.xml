@@ -1,6 +1,8 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="10206" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-04-12" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2021-09-07" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2021-09-07" layer="orig"/>
   <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-09-30" layer="reg"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated (previously)" date="2016-12-26" layer="orig"/>
   <document_meta name="o.claud.1.163.xml" series_name="o.claud" series_type="documentary" tm_id="24171" hgv_id="24171" date_not_before="100" date_not_after="120" place_name="Mons Claudianus"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="PRIVATE" category="Letter" subcategory=""/>
@@ -9,7 +11,7 @@
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="Πετρωνιανὸς" form_reg="Πετρωνιανὸς" lemma_orig="Πετρωνιανός" postag_orig="n-s---mn-" relation_orig="SBJ" head_orig="5" lemma_reg="Πετρωνιανός" postag_reg="n-s---mn-" relation_reg="SBJ" head_reg="5" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id="619202"/>
-    <word id="2" form_orig="∼πλῖστα∽" form_reg="πλεῖστα" lemma_orig="πλεῖστος" postag_orig="d--------" relation_orig="ADV" head_orig="5" lemma_reg="πλεῖστος" postag_reg="d--------" relation_reg="ADV" head_reg="5" tp_n="1" line_n="2" lang="grc" hand_id="2" tm_word_id="619203"/>
+    <word id="2" form_orig="∼πλῖστα∽" form_reg="πλεῖστα" lemma_orig="πολύς" postag_orig="d-------s" relation_orig="ADV" head_orig="5" lemma_reg="πολύς" postag_reg="d-------s" relation_reg="ADV" head_reg="5" tp_n="1" line_n="2" lang="grc" hand_id="2" tm_word_id="619203"/>
     <word id="3" form_orig="∼❨χέ(ρειν)❩∽" form_reg="χαίρειν" lemma_orig="χαίρω" postag_orig="v_____---" relation_orig="OBJ" head_orig="5" lemma_reg="χαίρω" postag_reg="v--pna---" relation_reg="OBJ" head_reg="5" tp_n="1" line_n="2" lang="grc" hand_id="3" tm_word_id="619204"/>
     <word id="4" form_orig="·" form_reg="·" lemma_orig="punc1" postag_orig="u--------" relation_orig="AuxK" head_orig="0" lemma_reg="punc1" postag_reg="u--------" relation_reg="AuxK" head_reg="0" tp_n="1" line_n="2" lang="grc" hand_id="4" tm_word_id="619205"/>
     <word id="5" form_orig="[0]" form_reg="[0]" lemma_orig="" postag_orig="" relation_orig="PRED" head_orig="0" lemma_reg="" postag_reg="" relation_reg="PRED" head_reg="0" insertion_id="0003e" artificial="elliptic" tp_n="" line_n="" lang="" hand_id="5" tm_word_id=""/>

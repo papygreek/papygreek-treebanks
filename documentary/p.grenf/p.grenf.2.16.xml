@@ -1,8 +1,10 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="27970" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-02-26" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-02-26" layer="orig"/>
   <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2021-02-24" layer="reg"/>
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated (previously)" date="2016-05-11" layer="orig"/>
+  <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2021-02-24" layer="orig"/>
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated (previously)" date="2016-05-11" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated (previously)" date="2016-05-11" layer="orig"/>
   <document_meta name="p.grenf.2.16.xml" series_name="p.grenf" series_type="documentary" tm_id="59" hgv_id="59" date_not_before="-136" date_not_after="-136" place_name="Pathyris"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="LAW" category="Contract" subcategory="Sale"/>

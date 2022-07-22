@@ -1,7 +1,10 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="55811" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-01-21" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-01-21" layer="orig"/>
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated" date="2021-01-21" layer="orig"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated" date="2021-01-21" layer="reg"/>
   <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-05-04" layer="orig"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2020-05-04" layer="reg"/>
   <document_meta name="upz.1.63.xml" series_name="upz" series_type="documentary" tm_id="3454" hgv_id="3454" date_not_before="-158" date_not_after="-158" place_name="Memphis"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="PRIVATE" category="Memorandum (private)" subcategory=""/>

@@ -1,8 +1,10 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="10368" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-04-26" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-07-18" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-07-18" layer="orig"/>
   <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-12-16" layer="reg"/>
-  <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2016-12-20" layer="orig"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-12-16" layer="orig"/>
   <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2016-12-20" layer="reg"/>
+  <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2016-12-20" layer="orig"/>
   <document_meta name="o.claud.2.245.xml" series_name="o.claud" series_type="documentary" tm_id="29665" hgv_id="29665" date_not_before="126" date_not_after="175" place_name="Tiberiane"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="BUSINESS" category="Letter" subcategory="Business correspondence"/>
@@ -33,7 +35,7 @@
     <word id="10" form_orig="τῇ" form_reg="τῇ" lemma_orig="ὁ" postag_orig="l-s---fd-" relation_orig="ATR" head_orig="11" lemma_reg="ὁ" postag_reg="l-s---fd-" relation_reg="ATR" head_reg="11" tp_n="1" line_n="4" lang="grc" hand_id="18" tm_word_id=""/>
     <word id="11" form_orig="νυκτὶ" form_reg="νυκτὶ" lemma_orig="νύξ" postag_orig="n-s---fd-" relation_orig="" head_orig="" lemma_reg="νύξ" postag_reg="n-s---fd-" relation_reg="ADV" head_reg="7" tp_n="1" line_n="4" lang="grc" hand_id="19" tm_word_id=""/>
     <word id="12" form_orig="ταύτῃ" form_reg="ταύτῃ" lemma_orig="οὗτος" postag_orig="p-s---fd-" relation_orig="ATR" head_orig="11" lemma_reg="οὗτος" postag_reg="p-s---fd-" relation_reg="ATR" head_reg="11" tp_n="1" line_n="4" lang="grc" hand_id="20" tm_word_id=""/>
-    <word id="13" form_orig="⸢πέμψας⸣" form_reg="πέμψας" lemma_orig="πέμπω" postag_orig="v-sapamn-" relation_orig="ADV" head_orig="2" lemma_reg="πέμπω" postag_reg="v-sapamn-" relation_reg="ADV" head_reg="2" tp_n="1" line_n="4" lang="grc" hand_id="21" tm_word_id=""/>
+    <word id="13" form_orig="⸢πέμψας⸣" form_reg="πέμψας" lemma_orig="πέμπω" postag_orig="v-sapamn-" relation_orig="OBJ" head_orig="2" lemma_reg="πέμπω" postag_reg="v-sapamn-" relation_reg="OBJ" head_reg="2" tp_n="1" line_n="4" lang="grc" hand_id="21" tm_word_id=""/>
     <word id="14" form_orig="⸢μοι⸣" form_reg="μοι" lemma_orig="ἐγώ" postag_orig="p1s---md-" relation_orig="OBJ" head_orig="13" lemma_reg="ἐγώ" postag_reg="p1s---md-" relation_reg="OBJ" head_reg="13" tp_n="1" line_n="4" lang="grc" hand_id="22" tm_word_id=""/>
     <word id="15" form_orig="τρία|num:3|" form_reg="τρία|num:3|" lemma_orig="τρεῖς" postag_orig="m-p---na-" relation_orig="ATR" head_orig="16" lemma_reg="τρεῖς" postag_reg="m-p---na-" relation_reg="ATR" head_reg="16" tp_n="1" line_n="5" lang="grc" hand_id="23" tm_word_id=""/>
     <word id="16" form_orig="ζεύγη" form_reg="ζεύγη" lemma_orig="ζεῦγος" postag_orig="n-p---na-" relation_orig="OBJ" head_orig="13" lemma_reg="ζεῦγος" postag_reg="n-p---na-" relation_reg="OBJ" head_reg="13" tp_n="1" line_n="5" lang="grc" hand_id="24" tm_word_id=""/>

@@ -1,13 +1,16 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="10168" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2019-10-24" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2019-10-24" layer="orig"/>
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated" date="2019-10-24" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated" date="2019-10-24" layer="orig"/>
   <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-10-16" layer="reg"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-10-16" layer="orig"/>
   <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2016-10-17" layer="orig"/>
   <annotator name="Lauri Marjamäki" address="marjamakilauri@gmail.com" role="annotated (previously)" date="2016-10-17" layer="reg"/>
   <document_meta name="o.claud.1.129.xml" series_name="o.claud" series_type="documentary" tm_id="24141" hgv_id="24141" date_not_before="107" date_not_after="107" place_name="Mons Claudianus"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="" category="" subcategory=""/>
-    <text_type hypercategory="ADMINISTRATION" category="Letter" subcategory=""/>
+    <text_type hypercategory="PRIVATE" category="Letter" subcategory=""/>
     <person pg_id="5" tm_id="141444" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Leontas (Λεοντᾶς)" gender="1" uncertain=""/>
     <person pg_id="2" tm_id="141427" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Successus (Σουκκεσσος)" gender="1" uncertain=""/>
     <person pg_id="5" tm_id="141444" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Leontas (Λεοντᾶς)" gender="1" uncertain="1"/>

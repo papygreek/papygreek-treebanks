@@ -1,7 +1,9 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="41301" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-06-18" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-07-18" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-07-18" layer="orig"/>
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2021-06-18" layer="reg"/>
-  <document_meta name="p.tebt.1.23.xml" series_name="p.tebt" series_type="documentary" tm_id="3659" hgv_id="3659" date_not_before="-114" date_not_after="-114" place_name="Arsinoites"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2021-06-18" layer="orig"/>
+  <document_meta name="p.tebt.1.23.xml" series_name="p.tebt" series_type="documentary" tm_id="3659" hgv_id="3659" date_not_before="-119" date_not_after="-114" place_name="Arsinoites"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="ADMINISTRATION" category="Letter" subcategory="Official correspondence"/>
     <person pg_id="603" tm_id="343800" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Marres (Μαρρῆς)" gender="1" uncertain=""/>
@@ -77,7 +79,7 @@
     <word id="6" form_orig="καλῶς" form_reg="καλῶς" lemma_orig="καλός" postag_orig="d-------_" relation_orig="ADV" head_orig="7" lemma_reg="καλός" postag_reg="d-------_" relation_reg="ADV" head_reg="7" tp_n="1" line_n="10" lang="grc" hand_id="62" tm_word_id="3553481"/>
     <word id="7" form_orig="ποιήσεις" form_reg="ποιήσεις" lemma_orig="ποιέω" postag_orig="v2sfia---" relation_orig="PRED" head_orig="0" lemma_reg="ποιέω" postag_reg="v2sfia---" relation_reg="PRED" head_reg="0" tp_n="1" line_n="10" lang="grc" hand_id="63" tm_word_id="3553482"/>
     <word id="8" form_orig="φιλοτιμό∤τερον" form_reg="φιλοτιμό∤τερον" lemma_orig="φιλότιμος" postag_orig="d-------c" relation_orig="ADV" head_orig="9" lemma_reg="φιλότιμος" postag_reg="d-------c" relation_reg="ADV" head_reg="9" tp_n="1" line_n="10-11" lang="grc" hand_id="64" tm_word_id="3553483"/>
-    <word id="9" form_orig="προθυμηθεὶς" form_reg="προθυμηθεὶς" lemma_orig="προθυμέομαι" postag_orig="v-sappmn-" relation_orig="ADV" head_orig="7" lemma_reg="προθυμέομαι" postag_reg="v-sappmn-" relation_reg="ADV" head_reg="7" tp_n="1" line_n="11" lang="grc" hand_id="65" tm_word_id="3553484"/>
+    <word id="9" form_orig="προθυμηθεὶς" form_reg="προθυμηθεὶς" lemma_orig="προθυμέομαι" postag_orig="v-sappmn-" relation_orig="OBJ" head_orig="7" lemma_reg="προθυμέομαι" postag_reg="v-sappmn-" relation_reg="OBJ" head_reg="7" tp_n="1" line_n="11" lang="grc" hand_id="65" tm_word_id="3553484"/>
     <word id="10" form_orig="ἵνα" form_reg="ἵνα" lemma_orig="ἵνα" postag_orig="c--------" relation_orig="AuxC" head_orig="9" lemma_reg="ἵνα" postag_reg="c--------" relation_reg="AuxC" head_reg="9" tp_n="1" line_n="11" lang="grc" hand_id="66" tm_word_id="3553485"/>
     <word id="11" form_orig="τὰ" form_reg="τὰ" lemma_orig="ὁ" postag_orig="p-p---na-" relation_orig="OBJ" head_orig="15" lemma_reg="ὁ" postag_reg="p-p---na-" relation_reg="OBJ" head_reg="15" tp_n="1" line_n="11" lang="grc" hand_id="67" tm_word_id="3553486"/>
     <word id="12" form_orig="πρὸς" form_reg="πρὸς" lemma_orig="πρός" postag_orig="r--------" relation_orig="AuxP" head_orig="11" lemma_reg="πρός" postag_reg="r--------" relation_reg="AuxP" head_reg="11" tp_n="1" line_n="11" lang="grc" hand_id="68" tm_word_id="3553487"/>

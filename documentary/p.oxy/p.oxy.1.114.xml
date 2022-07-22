@@ -1,11 +1,15 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="34625" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-02-18" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-02-18" layer="orig"/>
   <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-02-16" layer="reg"/>
-  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2019-04-30" layer="orig"/>
+  <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-02-16" layer="orig"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2019-04-30" layer="reg"/>
+  <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2019-04-30" layer="orig"/>
   <document_meta name="p.oxy.1.114.xml" series_name="p.oxy" series_type="documentary" tm_id="28406" hgv_id="28406" date_not_before="101" date_not_after="300" place_name="Oxyrhynchos"/>
   <hand_meta name="m1" id="1">
-    <text_type hypercategory="PRIVATE" category="Letter" subcategory=""/>
+    <text_type hypercategory="BUSINESS" category="Letter" subcategory="Business correspondence"/>
+    <person pg_id="728" tm_id="428534" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Eunoia" gender="2" uncertain=""/>
+    <person pg_id="728" tm_id="428534" role="writer" handwriting="This letter, of which the beginning is lost, is written in well-formed letters slanting to the right, which give the impression of fluency. Most of the letters are detached except for some superficial ligatures: a typical letter hand. The close and added final greetings are in the same hand as the body of the letter, &#10;but slightly faster and less neat. (Bagnall-Cribiore 2006, p. 296)" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Eunoia" gender="2" uncertain="1"/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="|gap:?_lines|" form_reg="|gap:?_lines|" lemma_orig="" postag_orig="" relation_orig="" head_orig="" lemma_reg="" postag_reg="" relation_reg="" head_reg="" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id=""/>

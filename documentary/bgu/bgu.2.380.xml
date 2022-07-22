@@ -1,11 +1,13 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="1278" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-12-20" layer="reg"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-12-20" layer="orig"/>
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2020-09-18" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2020-09-18" layer="orig"/>
   <document_meta name="bgu.2.380.xml" series_name="bgu" series_type="documentary" tm_id="31263" hgv_id="31263" date_not_before="201" date_not_after="300" place_name="Arsinoites"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>
     <person pg_id="281" tm_id="282633" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Hegelochos (Ἡγέλοχος)" gender="1" uncertain=""/>
-    <person pg_id="" tm_id="" role="" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
+    <person pg_id="659" tm_id="" role="writer" handwriting="&quot;THE WRITER, WHO HAD obvious difficulties with penmanship, tried hard to produce an acceptable letter. The individual letter shapes are a bit elaborate and formed with an attempt at elegance, but the lack of regular writing practice shows in the somewhat wobbly lines and in the retracing of strokes. At the end the writer shows that he or she had reached the limit of what he or she could produce.&quot; (Bagnall-Cribiore 2006 , 258)" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="ἡ" form_reg="ἡ" lemma_orig="ὁ" postag_orig="l-s---fn-" relation_orig="ATR" head_orig="2" lemma_reg="ὁ" postag_reg="l-s---fn-" relation_reg="ATR" head_reg="2" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id=""/>

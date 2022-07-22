@@ -1,6 +1,8 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="1478" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-12-15" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2021-09-07" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2021-09-07" layer="orig"/>
   <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2020-12-15" layer="reg"/>
+  <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2020-12-15" layer="orig"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-11-02" layer="orig"/>
   <annotator name="Arttu Alaranta" address="arttu.elmeri.alaranta@gmail.com" role="annotated (previously)" date="2018-11-02" layer="reg"/>
   <document_meta name="bgu.2.602.xml" series_name="bgu" series_type="documentary" tm_id="28190" hgv_id="28190" date_not_before="101" date_not_after="200" place_name="Arsinoites"/>
@@ -8,14 +10,14 @@
     <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>
     <person pg_id="403" tm_id="276794" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Tasukharion" gender="2" uncertain=""/>
     <person pg_id="404" tm_id="276795" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="brother of Tasukharion" domicile="" age="" education="" name="Neilos" gender="1" uncertain=""/>
-    <person pg_id="" tm_id="" role="writer" handwriting="THE HAND is NOT entirely proficient and is quite slow. The individual letters are well formed but are completely separated from each other and often lack in rhythm. Given the different hands, it is not surprising that even Tasoucharion's name is written differently from the way it is in BGU 2.601. (Bagnall &amp; Cribiore)" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
+    <person pg_id="660" tm_id="" role="writer" handwriting="THE HAND is NOT entirely proficient and is quite slow. The individual letters are well formed but are completely separated from each other and often lack in rhythm. Given the different hands, it is not surprising that even Tasoucharion's name is written differently from the way it is in BGU 2.601. (Bagnall &amp; Cribiore)" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="" gender="" uncertain=""/>
   </hand_meta>
   <sentence id="1">
     <word id="1" form_orig="Τασουχάριν" form_reg="Τασουχάριν" lemma_orig="Τασουχάριον" postag_orig="n-s---fn-" relation_orig="SBJ" head_orig="8" lemma_reg="Τασουχάριον" postag_reg="n-s---fn-" relation_reg="SBJ" head_reg="8" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id=""/>
     <word id="2" form_orig="Νίλῳ" form_reg="Νίλῳ" lemma_orig="Νεῖλος" postag_orig="n-s---md-" relation_orig="OBJ" head_orig="8" lemma_reg="Νεῖλος" postag_reg="n-s---md-" relation_reg="OBJ" head_reg="8" tp_n="1" line_n="1" lang="grc" hand_id="2" tm_word_id=""/>
     <word id="3" form_orig="τῷ" form_reg="τῷ" lemma_orig="ὁ" postag_orig="l-s---md-" relation_orig="ATR" head_orig="4" lemma_reg="ὁ" postag_reg="l-s---md-" relation_reg="ATR" head_reg="4" tp_n="1" line_n="1" lang="grc" hand_id="3" tm_word_id=""/>
     <word id="4" form_orig="ἀδελφῷ" form_reg="ἀδελφῷ" lemma_orig="ἀδελφός" postag_orig="n-s---md-" relation_orig="ATR" head_orig="2" lemma_reg="ἀδελφός" postag_reg="n-s---md-" relation_reg="ATR" head_reg="2" tp_n="1" line_n="1" lang="grc" hand_id="4" tm_word_id=""/>
-    <word id="5" form_orig="∼πλεῖτα∽" form_reg="πλεῖστα" lemma_orig="πλεῖστος" postag_orig="a-p---na_" relation_orig="ADV" head_orig="8" lemma_reg="πλεῖστος" postag_reg="a-p---na-" relation_reg="ADV" head_reg="8" tp_n="1" line_n="2" lang="grc" hand_id="5" tm_word_id=""/>
+    <word id="5" form_orig="∼πλεῖτα∽" form_reg="πλεῖστα" lemma_orig="πολύς" postag_orig="d-------s" relation_orig="ADV" head_orig="8" lemma_reg="πολύς" postag_reg="d-------s" relation_reg="ADV" head_reg="8" tp_n="1" line_n="2" lang="grc" hand_id="5" tm_word_id=""/>
     <word id="6" form_orig="∼χαίριν∽" form_reg="χαίρειν" lemma_orig="χαίρω" postag_orig="v--pna---" relation_orig="OBJ" head_orig="8" lemma_reg="χαίρω" postag_reg="v--pna---" relation_reg="OBJ" head_reg="8" tp_n="1" line_n="2" lang="grc" hand_id="6" tm_word_id=""/>
     <word id="7" form_orig="." form_reg="." lemma_orig="punc1" postag_orig="u--------" relation_orig="AuxK" head_orig="0" lemma_reg="punc1" postag_reg="u--------" relation_reg="AuxK" head_reg="0" tp_n="1" line_n="2" lang="grc" hand_id="7" tm_word_id=""/>
     <word id="8" form_orig="[0]" form_reg="[0]" lemma_orig="-" postag_orig="v3s___---" relation_orig="PRED" head_orig="0" lemma_reg="-" postag_reg="v3s___---" relation_reg="PRED" head_reg="0" insertion_id="0006e" artificial="elliptic" tp_n="" line_n="" lang="" hand_id="8" tm_word_id=""/>

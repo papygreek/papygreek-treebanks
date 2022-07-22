@@ -1,11 +1,13 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="35053" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2020-11-20" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2020-11-20" layer="orig"/>
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2019-10-08" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2019-10-08" layer="orig"/>
   <document_meta name="p.oxy.14.1668.xml" series_name="p.oxy" series_type="documentary" tm_id="31779" hgv_id="31779" date_not_before="201" date_not_after="300" place_name="Oxyrhynchos"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="PRIVATE" category="Letter" subcategory="Private correspondence"/>
     <person pg_id="641" tm_id="371784" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Charmos (Χάρμος)" gender="1" uncertain=""/>
-    <person pg_id="642" tm_id="371788" role="" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Sopatros (Σώπατρος)" gender="1" uncertain=""/>
+    <person pg_id="642" tm_id="371788" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Sopatros (Σώπατρος)" gender="1" uncertain=""/>
     <person pg_id="641" tm_id="371784" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Charmos (Χάρμος)" gender="1" uncertain="1"/>
   </hand_meta>
   <sentence id="1">
