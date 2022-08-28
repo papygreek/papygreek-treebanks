@@ -10,13 +10,13 @@
     <person pg_id="56" tm_id="141537" role="writer" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Petronianus (Πετρωνιανός)" gender="1" uncertain="1"/>
   </hand_meta>
   <sentence id="1">
-    <word id="1" form_orig="Πετρωνιανὸς" form_reg="Πετρωνιανὸς" lemma_orig="Πετρωνιανός" postag_orig="n-s---mn-" relation_orig="SBJ" head_orig="5" lemma_reg="Πετρωνιανός" postag_reg="n-s---mn-" relation_reg="SBJ" head_reg="5" tp_n="1" line_n="1" lang="grc" hand_id="1" tm_word_id="619202"/>
-    <word id="2" form_orig="∼πλῖστα∽" form_reg="πλεῖστα" lemma_orig="πολύς" postag_orig="d-------s" relation_orig="ADV" head_orig="5" lemma_reg="πολύς" postag_reg="d-------s" relation_reg="ADV" head_reg="5" tp_n="1" line_n="2" lang="grc" hand_id="2" tm_word_id="619203"/>
-    <word id="3" form_orig="∼❨χέ(ρειν)❩∽" form_reg="χαίρειν" lemma_orig="χαίρω" postag_orig="v_____---" relation_orig="OBJ" head_orig="5" lemma_reg="χαίρω" postag_reg="v--pna---" relation_reg="OBJ" head_reg="5" tp_n="1" line_n="2" lang="grc" hand_id="3" tm_word_id="619204"/>
-    <word id="4" form_orig="·" form_reg="·" lemma_orig="punc1" postag_orig="u--------" relation_orig="AuxK" head_orig="0" lemma_reg="punc1" postag_reg="u--------" relation_reg="AuxK" head_reg="0" tp_n="1" line_n="2" lang="grc" hand_id="4" tm_word_id="619205"/>
-    <word id="5" form_orig="[0]" form_reg="[0]" lemma_orig="" postag_orig="" relation_orig="PRED" head_orig="0" lemma_reg="" postag_reg="" relation_reg="PRED" head_reg="0" insertion_id="0003e" artificial="elliptic" tp_n="" line_n="" lang="" hand_id="5" tm_word_id=""/>
+    <word id="1" form_orig="Πετρωνιανὸς" form_reg="Πετρωνιανὸς" lemma_orig="Πετρωνιανός" postag_orig="n-s---mn-" relation_orig="SBJ" head_orig="5" lemma_reg="Πετρωνιανός" postag_reg="n-s---mn-" relation_reg="SBJ" head_reg="5" tp_n="1" line_n="1" lang="grc" hand="m1" tm_word_id="619202"/>
+    <word id="2" form_orig="∼πλῖστα∽" form_reg="πλεῖστα" lemma_orig="πολύς" postag_orig="d-------s" relation_orig="ADV" head_orig="5" lemma_reg="πολύς" postag_reg="d-------s" relation_reg="ADV" head_reg="5" tp_n="1" line_n="2" lang="grc" hand="m1" tm_word_id="619203"/>
+    <word id="3" form_orig="∼❨χέ(ρειν)❩∽" form_reg="χαίρειν" lemma_orig="χαίρω" postag_orig="v_____---" relation_orig="OBJ" head_orig="5" lemma_reg="χαίρω" postag_reg="v--pna---" relation_reg="OBJ" head_reg="5" tp_n="1" line_n="2" lang="grc" hand="m1" tm_word_id="619204"/>
+    <word id="4" form_orig="·" form_reg="·" lemma_orig="punc1" postag_orig="u--------" relation_orig="AuxK" head_orig="0" lemma_reg="punc1" postag_reg="u--------" relation_reg="AuxK" head_reg="0" tp_n="1" line_n="2" lang="grc" hand="m1" tm_word_id="619205"/>
+    <word id="5" form_orig="[0]" form_reg="[0]" lemma_orig="" postag_orig="" relation_orig="PRED" head_orig="0" lemma_reg="" postag_reg="" relation_reg="PRED" head_reg="0" insertion_id="0003e" artificial="elliptic" tp_n="" line_n="" lang="" hand="" tm_word_id=""/>
   </sentence>
   <sentence id="2">
-    <word id="1" form_orig="|vac:?|" form_reg="|vac:?|" lemma_orig="" postag_orig="" relation_orig="" head_orig="" lemma_reg="" postag_reg="" relation_reg="" head_reg="0" tp_n="1" line_n="3" lang="grc" hand_id="6" tm_word_id="619206"/>
+    <word id="1" form_orig="|vac:?|" form_reg="|vac:?|" lemma_orig="" postag_orig="" relation_orig="" head_orig="" lemma_reg="" postag_reg="" relation_reg="" head_reg="0" tp_n="1" line_n="3" lang="grc" hand="m1" tm_word_id="619206"/>
   </sentence>
 </treebank>
