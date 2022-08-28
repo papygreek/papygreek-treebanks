@@ -22,4 +22,4 @@ The syntactic trees have been semi-manually annotated by different people (indic
 
 The treebanks are licensed under a CC BY-SA 4.0 License (see LICENSE file).
 
-Version 2.01 (22 July 2022)
+Version 2.02 (28 August 2022)
