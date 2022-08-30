@@ -104,5 +104,6 @@
   </sentence>
   <sentence id="6">
     <word id="1" form_orig="Θέωνι" form_reg="Θέωνι" lemma_orig="Θέων" postag_orig="n-s---md-" relation_orig="OBJ" head_orig="2" lemma_reg="Θέων" postag_reg="n-s---md-" relation_reg="OBJ" head_reg="2" tp_n="2" line_n="14" lang="grc" hand="m1" tm_word_id=""/>
+    <word id="2" form_orig="[0]" form_reg="[0]" lemma_orig="" postag_orig="" relation_orig="ExD" head_orig="0" lemma_reg="" postag_reg="" relation_reg="ExD" head_reg="0" insertion_id="0000e" artificial="elliptic" tp_n="2" line_n="14" lang="grc" hand="m1" tm_word_id=""/>
   </sentence>
 </treebank>

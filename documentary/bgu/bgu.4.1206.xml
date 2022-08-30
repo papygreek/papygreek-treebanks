@@ -118,6 +118,7 @@
   </sentence>
   <sentence id="10">
     <word id="1" form_orig="πρωι|gap:2|" form_reg="πρωι|gap:2|" lemma_orig="πρωΐ" postag_orig="d-------_" relation_orig="ADV" head_orig="2" lemma_reg="πρωΐ" postag_reg="d-------_" relation_reg="ADV" head_reg="2" tp_n="1" line_n="20" lang="grc" hand="m1" tm_word_id=""/>
+    <word id="2" form_orig="[0]" form_reg="[0]" lemma_orig="" postag_orig="" relation_orig="ExD" head_orig="0" lemma_reg="" postag_reg="" relation_reg="ExD" head_reg="0" insertion_id="0000e" artificial="elliptic" tp_n="1" line_n="20" lang="grc" hand="m1" tm_word_id=""/>
   </sentence>
   <sentence id="11">
     <word id="1" form_orig="Ἀσκλᾶτι" form_reg="Ἀσκλᾶτι" lemma_orig="Ἀσκλᾶς" postag_orig="n-s---md-" relation_orig="ATR" head_orig="4" lemma_reg="Ἀσκλᾶς" postag_reg="n-s---md-" relation_reg="ATR" head_reg="4" tp_n="2" line_n="21" lang="grc" hand="m1" tm_word_id=""/>
