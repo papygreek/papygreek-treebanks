@@ -1,10 +1,10 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="23969" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-03-09" layer="reg"/>
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-03-09" layer="orig"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-09-16" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-09-16" layer="orig"/>
   <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-02-21" layer="reg"/>
   <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-02-21" layer="orig"/>
-  <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2018-05-31" layer="orig"/>
   <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2018-05-31" layer="reg"/>
+  <annotator name="Petri Lahtinen" address="petri.m.lahtinen@gmail.com" role="annotated (previously)" date="2018-05-31" layer="orig"/>
   <document_meta name="p.cair.zen.1.59030.xml" series_name="p.cair.zen" series_type="documentary" tm_id="690" hgv_id="690" date_not_before="-258" date_not_after="-258" place_name="Alexandria"/>
   <hand_meta name="m1" id="1">
     <text_type hypercategory="PRIVATE" category="Letter" subcategory=""/>
@@ -70,7 +70,7 @@
   </sentence>
   <sentence id="7">
     <word id="1" form_orig="|gap:?|" form_reg="|gap:?|" lemma_orig="" postag_orig="" relation_orig="" head_orig="" lemma_reg="" postag_reg="" relation_reg="" head_reg="" tp_n="1" line_n="6" lang="grc" hand="m1" tm_word_id=""/>
-    <word id="2" form_orig="πλῆθός" form_reg="πλῆθός" lemma_orig="πλῆθός" postag_orig="n-s---n_-" relation_orig="CO" head_orig="" lemma_reg="πλῆθός" postag_reg="n-s---n_-" relation_reg="CO" head_reg="" tp_n="1" line_n="6" lang="grc" hand="m1" tm_word_id=""/>
+    <word id="2" form_orig="πλῆθός" form_reg="πλῆθός" lemma_orig="πλῆθος" postag_orig="n-s---n_-" relation_orig="CO" head_orig="" lemma_reg="πλῆθος" postag_reg="n-s---n_-" relation_reg="CO" head_reg="" tp_n="1" line_n="6" lang="grc" hand="m1" tm_word_id=""/>
     <word id="3" form_orig="σο̣ι" form_reg="σοι" lemma_orig="σύ" postag_orig="p2s----d-" relation_orig="" head_orig="" lemma_reg="σύ" postag_reg="p2s----d-" relation_reg="" head_reg="" tp_n="1" line_n="6" lang="grc" hand="m1" tm_word_id=""/>
     <word id="4" form_orig="τῶν" form_reg="τῶν" lemma_orig="ὁ" postag_orig="l-p---ng-" relation_orig="ATR" head_orig="5" lemma_reg="ὁ" postag_reg="l-p---ng-" relation_reg="ATR" head_reg="5" tp_n="1" line_n="6" lang="grc" hand="m1" tm_word_id=""/>
     <word id="5" form_orig="ἱππαρίων" form_reg="ἱππαρίων" lemma_orig="ἱππάριον" postag_orig="n-p---ng-" relation_orig="ATR" head_orig="2" lemma_reg="ἱππάριον" postag_reg="n-p---ng-" relation_reg="ATR" head_reg="2" tp_n="1" line_n="6" lang="grc" hand="m1" tm_word_id=""/>

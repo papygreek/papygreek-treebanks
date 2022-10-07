@@ -1,6 +1,6 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="55781" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-02-21" layer="orig"/>
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2020-02-21" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-09-16" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-09-16" layer="orig"/>
   <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-11-19" layer="reg"/>
   <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated" date="2019-11-19" layer="orig"/>
   <document_meta name="upz.1.36.xml" series_name="upz" series_type="documentary" tm_id="3427" hgv_id="3427" date_not_before="" date_not_after="-161" place_name="Memphis"/>
@@ -290,7 +290,7 @@
     <word id="20" form_orig="∼ὑποκιμένης∽" form_reg="ὑποκειμένης" lemma_orig="ὑπόκειμαι" postag_orig="v-sppefgp" relation_orig="ATR" head_orig="17" lemma_reg="ὑπόκειμαι" postag_reg="v-sppefg-" relation_reg="ATR" head_reg="17" tp_n="2" line_n="35" lang="grc" hand="m4" tm_word_id=""/>
     <word id="21" form_orig="ἐλαίου" form_reg="ἐλαίου" lemma_orig="ἔλαιον" postag_orig="n-s---ng-" relation_orig="ATR" head_orig="23" lemma_reg="ἔλαιον" postag_reg="n-s---ng-" relation_reg="ATR" head_reg="23" tp_n="2" line_n="35" lang="grc" hand="m4" tm_word_id=""/>
     <word id="22" form_orig="σησαμίνου" form_reg="σησαμίνου" lemma_orig="σησάμινος" postag_orig="a-s---ng-" relation_orig="ATR" head_orig="21" lemma_reg="σησάμινος" postag_reg="a-s---ng-" relation_reg="ATR" head_reg="21" tp_n="2" line_n="36" lang="grc" hand="m4" tm_word_id=""/>
-    <word id="23" form_orig="❨χ(οῦς)❩" form_reg="χοῦς" lemma_orig="χοῦς" postag_orig="n-_---m_-" relation_orig="SBJ_CO" head_orig="27" lemma_reg="χοῦς1" postag_reg="n-s---mn-" relation_reg="SBJ_CO" head_reg="27" tp_n="2" line_n="36" lang="grc" hand="m4" tm_word_id=""/>
+    <word id="23" form_orig="❨χ(οῦς)❩" form_reg="χοῦς" lemma_orig="χοῦς" postag_orig="n-_---m_-" relation_orig="SBJ_CO" head_orig="27" lemma_reg="χοῦς" postag_reg="n-s---mn-" relation_reg="SBJ_CO" head_reg="27" tp_n="2" line_n="36" lang="grc" hand="m4" tm_word_id=""/>
     <word id="24" form_orig="α|num:1|" form_reg="α|num:1|" lemma_orig="α" postag_orig="m-s---__-" relation_orig="ATR" head_orig="23" lemma_reg="α" postag_reg="m-s---__-" relation_reg="ATR" head_reg="23" tp_n="2" line_n="36" lang="grc" hand="m4" tm_word_id=""/>
     <word id="25" form_orig="," form_reg="," lemma_orig="punc1" postag_orig="u--------" relation_orig="AuxX" head_orig="27" lemma_reg="punc1" postag_reg="u--------" relation_reg="AuxX" head_reg="27" tp_n="2" line_n="36" lang="grc" hand="m4" tm_word_id=""/>
     <word id="26" form_orig="τοῦ" form_reg="τοῦ" lemma_orig="ὁ" postag_orig="l-s---mg-" relation_orig="ATR" head_orig="28" lemma_reg="ὁ" postag_reg="l-s---mg-" relation_reg="ATR" head_reg="28" tp_n="2" line_n="36" lang="grc" hand="m4" tm_word_id=""/>

@@ -1,6 +1,6 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="41243" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-06-18" layer="reg"/>
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-06-18" layer="orig"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-09-16" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-09-16" layer="orig"/>
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2021-06-18" layer="reg"/>
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2021-06-18" layer="orig"/>
   <document_meta name="p.tebt.1.14.xml" series_name="p.tebt" series_type="documentary" tm_id="3650" hgv_id="3650" date_not_before="-114" date_not_after="-114" place_name="Kerkeosiris (Arsinoites)"/>
@@ -88,7 +88,7 @@
     <word id="8" form_orig="ιδ|num:14|" form_reg="ιδ|num:14|" lemma_orig="ιδ" postag_orig="m--------" relation_orig="ADV" head_orig="5" lemma_reg="ιδ" postag_reg="m--------" relation_reg="ADV" head_reg="5" tp_n="1" line_n="13" lang="grc" hand="m1" tm_word_id="3551154"/>
     <word id="9" form_orig="τοῦ" form_reg="τοῦ" lemma_orig="ὁ" postag_orig="l-s---mg-" relation_orig="ATR" head_orig="11" lemma_reg="ὁ" postag_reg="l-s---mg-" relation_reg="ATR" head_reg="11" tp_n="1" line_n="14" lang="grc" hand="m1" tm_word_id="3551155"/>
     <word id="10" form_orig="ὑποκειμένου" form_reg="ὑποκειμένου" lemma_orig="ὑπόκειμαι" postag_orig="v-sppemg-" relation_orig="ATR" head_orig="11" lemma_reg="ὑπόκειμαι" postag_reg="v-sppemg-" relation_reg="ATR" head_reg="11" tp_n="1" line_n="14" lang="grc" hand="m1" tm_word_id="3551156"/>
-    <word id="11" form_orig="μηνὸς" form_reg="μηνὸς" lemma_orig="μήν" postag_orig="n-s---mg-" relation_orig="ATR" head_orig="8" lemma_reg="μήν" postag_reg="n-s---mg-" relation_reg="ATR" head_reg="8" tp_n="1" line_n="14" lang="grc" hand="m1" tm_word_id="3551157"/>
+    <word id="11" form_orig="μηνὸς" form_reg="μηνὸς" lemma_orig="μείς" postag_orig="n-s---mg-" relation_orig="ATR" head_orig="8" lemma_reg="μείς" postag_reg="n-s---mg-" relation_reg="ATR" head_reg="8" tp_n="1" line_n="14" lang="grc" hand="m1" tm_word_id="3551157"/>
     <word id="12" form_orig="ἐν" form_reg="ἐν" lemma_orig="ἐν" postag_orig="r--------" relation_orig="AuxP" head_orig="5" lemma_reg="ἐν" postag_reg="r--------" relation_reg="AuxP" head_reg="5" tp_n="1" line_n="14" lang="grc" hand="m1" tm_word_id="3551158"/>
     <word id="13" form_orig="Πτολεμαί∤[δι]" form_reg="Πτολεμαί∤δι" lemma_orig="Πτολεμαίς" postag_orig="n-s---f_-" relation_orig="ADV" head_orig="12" lemma_reg="Πτολεμαίς" postag_reg="n-s---fd-" relation_reg="ADV" head_reg="12" tp_n="1" line_n="14-15" lang="grc" hand="m1" tm_word_id="3551159"/>
     <word id="14" form_orig="Εὐεργέτιδι" form_reg="Εὐεργέτιδι" lemma_orig="Εὐεργέτις" postag_orig="n-s---fd-" relation_orig="ADV" head_orig="13" lemma_reg="Εὐεργέτις" postag_reg="n-s---fd-" relation_reg="ADV" head_reg="13" tp_n="1" line_n="15" lang="grc" hand="m1" tm_word_id="3551160"/>

@@ -1,6 +1,6 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="32775" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-11-30" layer="reg"/>
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-11-30" layer="orig"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-09-16" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-09-16" layer="orig"/>
   <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-11-28" layer="orig"/>
   <annotator name="Sari Kock" address="kock.sari@gmail.com" role="annotated" date="2021-11-28" layer="reg"/>
   <document_meta name="p.mich.3.194.xml" series_name="p.mich" series_type="documentary" tm_id="21339" hgv_id="21339" date_not_before="61" date_not_after="61" place_name="Oxyrhynchos"/>
@@ -118,7 +118,7 @@
     <word id="84" form_orig="μνημονείου" form_reg="μνημονείου" lemma_orig="μνημόνειος" postag_orig="n-s---ng-" relation_orig="ADV" head_orig="79" lemma_reg="μνημόνειος" postag_reg="n-s---ng-" relation_reg="ADV" head_reg="79" tp_n="1" line_n="16" lang="grc" hand="m1" tm_word_id="2308265"/>
     <word id="85" form_orig="τῷ" form_reg="τῷ" lemma_orig="ὁ" postag_orig="l-s---nd-" relation_orig="ATR" head_orig="87" lemma_reg="ὁ" postag_reg="l-s---nd-" relation_reg="ATR" head_reg="87" tp_n="1" line_n="17" lang="grc" hand="m1" tm_word_id="2308266"/>
     <word id="86" form_orig="Φαρμοῦθι" form_reg="Φαρμοῦθι" lemma_orig="Φαρμουθι" postag_orig="n-s---__-" relation_orig="ATR" head_orig="87" lemma_reg="Φαρμουθι" postag_reg="n-s---__-" relation_reg="ATR" head_reg="87" tp_n="1" line_n="17" lang="grc" hand="m1" tm_word_id="2308267"/>
-    <word id="87" form_orig="μηνὶ" form_reg="μηνὶ" lemma_orig="μήν" postag_orig="n-s---md-" relation_orig="ADV" head_orig="76" lemma_reg="μήν" postag_reg="n-s---md-" relation_reg="ADV" head_reg="76" tp_n="1" line_n="17" lang="grc" hand="m1" tm_word_id="2308268"/>
+    <word id="87" form_orig="μηνὶ" form_reg="μηνὶ" lemma_orig="μείς" postag_orig="n-s---md-" relation_orig="ADV" head_orig="76" lemma_reg="μείς" postag_reg="n-s---md-" relation_reg="ADV" head_reg="76" tp_n="1" line_n="17" lang="grc" hand="m1" tm_word_id="2308268"/>
     <word id="88" form_orig="τοῦ" form_reg="τοῦ" lemma_orig="ὁ" postag_orig="l-s---ng-" relation_orig="ATR" head_orig="90" lemma_reg="ὁ" postag_reg="l-s---ng-" relation_reg="ATR" head_reg="90" tp_n="1" line_n="17" lang="grc" hand="m1" tm_word_id="2308269"/>
     <word id="89" form_orig="ἕκτου" form_reg="ἕκτου" lemma_orig="ἕκτος" postag_orig="a-s---ng-" relation_orig="ATR" head_orig="90" lemma_reg="ἕκτος" postag_reg="a-s---ng-" relation_reg="ATR" head_reg="90" tp_n="1" line_n="17" lang="grc" hand="m1" tm_word_id="2308270"/>
     <word id="90" form_orig="ἔτους" form_reg="ἔτους" lemma_orig="ἔτος" postag_orig="n-s---ng-" relation_orig="ATR" head_orig="87" lemma_reg="ἔτος" postag_reg="n-s---ng-" relation_reg="ATR" head_reg="87" tp_n="1" line_n="17" lang="grc" hand="m1" tm_word_id="2308271"/>

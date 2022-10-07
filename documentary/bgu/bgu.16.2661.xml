@@ -1,6 +1,6 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="1083" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-04-27" layer="reg"/>
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-04-27" layer="orig"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-09-16" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-09-16" layer="orig"/>
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2021-04-26" layer="orig"/>
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2021-04-26" layer="reg"/>
   <document_meta name="bgu.16.2661.xml" series_name="bgu" series_type="documentary" tm_id="23385" hgv_id="23385" date_not_before="-12" date_not_after="-12" place_name="Herakleopolites"/>
@@ -131,7 +131,7 @@
     <word id="2" form_orig="εἰς" form_reg="εἰς" lemma_orig="εἰς" postag_orig="r--------" relation_orig="AuxP" head_orig="1" lemma_reg="εἰς" postag_reg="r--------" relation_reg="AuxP" head_reg="1" tp_n="1" line_n="22" lang="grc" hand="m1" tm_word_id=""/>
     <word id="3" form_orig="τὴν" form_reg="τὴν" lemma_orig="ὁ" postag_orig="l-s---fa-" relation_orig="ATR" head_orig="4" lemma_reg="ὁ" postag_reg="l-s---fa-" relation_reg="ATR" head_reg="4" tp_n="1" line_n="22" lang="grc" hand="m1" tm_word_id=""/>
     <word id="4" form_orig="❨σκηνὴ(ν)❩" form_reg="σκηνὴν" lemma_orig="σκηνή" postag_orig="n-_---f_-" relation_orig="ADV" head_orig="2" lemma_reg="σκηνή" postag_reg="n-s---fa-" relation_reg="ADV" head_reg="2" tp_n="1" line_n="22" lang="grc" hand="m1" tm_word_id=""/>
-    <word id="5" form_orig="❨τ(οῦ)❩" form_reg="τοῦ" lemma_orig="ὁ" postag_orig="l-_---n_-" relation_orig="ATR" head_orig="6" lemma_reg="ὁ" postag_reg="l-s---mg-" relation_reg="ATR" head_reg="6" tp_n="1" line_n="22" lang="grc" hand="m1" tm_word_id=""/>
+    <word id="5" form_orig="❨τ(οῦ)❩" form_reg="τοῦ" lemma_orig="ὁ" postag_orig="l-_---n_-" relation_orig="ATR" head_orig="6" lemma_reg="ὁ" postag_reg="l-s---ng-" relation_reg="ATR" head_reg="6" tp_n="1" line_n="22" lang="grc" hand="m1" tm_word_id=""/>
     <word id="6" form_orig="❨πλ(οίου)❩" form_reg="πλοίου" lemma_orig="πλοῖον" postag_orig="n-_---n_-" relation_orig="ATR" head_orig="4" lemma_reg="πλοῖον" postag_reg="n-s---ng-" relation_reg="ATR" head_reg="4" tp_n="1" line_n="22" lang="grc" hand="m1" tm_word_id=""/>
     <word id="7" form_orig="ἰτέινα" form_reg="ἰτέινα" lemma_orig="ἰτέινος" postag_orig="a-p---nn-" relation_orig="ATR" head_orig="8" lemma_reg="ἰτέινος" postag_reg="a-p---nn-" relation_reg="ATR" head_reg="8" tp_n="1" line_n="23" lang="grc" hand="m1" tm_word_id=""/>
     <word id="8" form_orig="❨ξύλ(α)❩" form_reg="ξύλα" lemma_orig="ξύλον" postag_orig="n-_---n_-" relation_orig="SBJ" head_orig="1" lemma_reg="ξύλον" postag_reg="n-p---nn-" relation_reg="SBJ" head_reg="1" tp_n="1" line_n="23" lang="grc" hand="m1" tm_word_id=""/>

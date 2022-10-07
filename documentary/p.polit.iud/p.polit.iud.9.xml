@@ -1,6 +1,6 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="38297" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-06-21" layer="reg"/>
-  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2021-06-21" layer="orig"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-09-16" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-09-16" layer="orig"/>
   <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="annotated" date="2021-06-21" layer="orig"/>
   <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2020-12-10" layer="reg"/>
   <annotator name="Iida Emilia Huitula" address="iidaemilia.huitula@gmail.com" role="annotated" date="2020-12-10" layer="orig"/>
@@ -19,7 +19,7 @@
     <word id="4" form_orig="❨(ἔτος)❩" form_reg="ἔτος" lemma_orig="ἔτος" postag_orig="n-----n--" relation_orig="ATR" head_orig="5" lemma_reg="ἔτος" postag_reg="n-s---na-" relation_reg="ATR" head_reg="5" tp_n="1" line_n="1" lang="grc" hand="m1" tm_word_id=""/>
     <word id="5" form_orig="ἄρχουσι" form_reg="ἄρχουσι" lemma_orig="ἄρχων" postag_orig="n-p---md-" relation_orig="OBJ" head_orig="16" lemma_reg="ἄρχων" postag_reg="n-p---md-" relation_reg="OBJ" head_reg="16" tp_n="1" line_n="1" lang="grc" hand="m1" tm_word_id=""/>
     <word id="6" form_orig="παρὰ" form_reg="παρὰ" lemma_orig="παρά" postag_orig="r--------" relation_orig="AuxP" head_orig="16" lemma_reg="παρά" postag_reg="r--------" relation_reg="AuxP" head_reg="16" tp_n="1" line_n="2" lang="grc" hand="m1" tm_word_id=""/>
-    <word id="7" form_orig="Βερενίκης" form_reg="Βερενίκης" lemma_orig="βερενίκη" postag_orig="n-s---fg-" relation_orig="ATR" head_orig="6" lemma_reg="βερενίκη" postag_reg="n-s---fg-" relation_reg="ATR" head_reg="6" tp_n="1" line_n="2" lang="grc" hand="m1" tm_word_id=""/>
+    <word id="7" form_orig="Βερενίκης" form_reg="Βερενίκης" lemma_orig="Βερενίκη" postag_orig="n-s---fg-" relation_orig="ATR" head_orig="6" lemma_reg="Βερενίκη" postag_reg="n-s---fg-" relation_reg="ATR" head_reg="6" tp_n="1" line_n="2" lang="grc" hand="m1" tm_word_id=""/>
     <word id="8" form_orig="τῆς" form_reg="τῆς" lemma_orig="ὁ" postag_orig="l-s---fg-" relation_orig="ATR" head_orig="7" lemma_reg="ὁ" postag_reg="l-s---fg-" relation_reg="ATR" head_reg="7" tp_n="1" line_n="2" lang="grc" hand="m1" tm_word_id=""/>
     <word id="9" form_orig="Ἀρχαγ̣ά̣θου" form_reg="Ἀρχαγάθου" lemma_orig="Ἀρχάγαθος" postag_orig="n-s---mg-" relation_orig="ATR" head_orig="7" lemma_reg="Ἀρχάγαθος" postag_reg="n-s---mg-" relation_reg="ATR" head_reg="7" tp_n="1" line_n="2" lang="grc" hand="m1" tm_word_id=""/>
     <word id="10" form_orig="Ἰουδαίας" form_reg="Ἰουδαίας" lemma_orig="Ἰουδαῖος" postag_orig="a-s---fg-" relation_orig="ATR" head_orig="7" lemma_reg="Ἰουδαῖος" postag_reg="a-s---fg-" relation_reg="ATR" head_reg="7" tp_n="1" line_n="4" lang="grc" hand="m1" tm_word_id=""/>

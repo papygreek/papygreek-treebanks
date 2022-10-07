@@ -1,6 +1,6 @@
 <treebank xmlns:saxon="http://saxon.sf.net/" text_id="23964" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
-  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2020-09-09" layer="orig"/>
-  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2020-09-09" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-09-16" layer="reg"/>
+  <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="approved" date="2022-09-16" layer="orig"/>
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2020-09-09" layer="orig"/>
   <annotator name="Polina Yordanova" address="polina.v.yordanova@gmail.com" role="annotated" date="2020-09-09" layer="reg"/>
   <document_meta name="p.cair.zen.1.59025.xml" series_name="p.cair.zen" series_type="documentary" tm_id="685" hgv_id="685" date_not_before="-258" date_not_after="-256" place_name="Alexandria"/>
@@ -113,7 +113,7 @@
     <word id="9" form_orig="παρὰ" form_reg="παρὰ" lemma_orig="παρά" postag_orig="r--------" relation_orig="AuxP" head_orig="8" lemma_reg="παρά" postag_reg="r--------" relation_reg="AuxP" head_reg="8" tp_n="1" line_n="26" lang="grc" hand="m1" tm_word_id=""/>
     <word id="10" form_orig="Χαρμίδου" form_reg="Χαρμίδου" lemma_orig="Χαρμίδης" postag_orig="n-s---mg-" relation_orig="ADV" head_orig="9" lemma_reg="Χαρμίδης" postag_reg="n-s---mg-" relation_reg="ADV" head_reg="9" tp_n="1" line_n="26" lang="grc" hand="m1" tm_word_id=""/>
     <word id="11" form_orig="ἐλαίου" form_reg="ἐλαίου" lemma_orig="ἔλαιον" postag_orig="n-s---ng-" relation_orig="ATR" head_orig="12" lemma_reg="ἔλαιον" postag_reg="n-s---ng-" relation_reg="ATR" head_reg="12" tp_n="1" line_n="26" lang="grc" hand="m1" tm_word_id=""/>
-    <word id="12" form_orig="χόας" form_reg="χόας" lemma_orig="χοῦς1" postag_orig="n-p---ma-" relation_orig="OBJ" head_orig="8" lemma_reg="χοῦς1" postag_reg="n-p---ma-" relation_reg="OBJ" head_reg="8" tp_n="1" line_n="27" lang="grc" hand="m1" tm_word_id=""/>
+    <word id="12" form_orig="χόας" form_reg="χόας" lemma_orig="χοῦς" postag_orig="n-p---ma-" relation_orig="OBJ" head_orig="8" lemma_reg="χοῦς" postag_reg="n-p---ma-" relation_reg="OBJ" head_reg="8" tp_n="1" line_n="27" lang="grc" hand="m1" tm_word_id=""/>
     <word id="13" form_orig="ἓξ|num:6|" form_reg="ἓξ|num:6|" lemma_orig="ἕξ" postag_orig="m--------" relation_orig="ATR" head_orig="12" lemma_reg="ἕξ" postag_reg="m--------" relation_reg="ATR" head_reg="12" tp_n="1" line_n="27" lang="grc" hand="m1" tm_word_id=""/>
     <word id="14" form_orig="καὶ" form_reg="καὶ" lemma_orig="καί" postag_orig="c--------" relation_orig="COORD" head_orig="2" lemma_reg="καί" postag_reg="c--------" relation_reg="COORD" head_reg="2" tp_n="1" line_n="27" lang="grc" hand="m1" tm_word_id=""/>
     <word id="15" form_orig="δὸς" form_reg="δὸς" lemma_orig="δίδωμι" postag_orig="v2sama---" relation_orig="PRED_CO" head_orig="14" lemma_reg="δίδωμι" postag_reg="v2sama---" relation_reg="PRED_CO" head_reg="14" tp_n="1" line_n="27" lang="grc" hand="m1" tm_word_id=""/>
