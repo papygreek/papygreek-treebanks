@@ -1,0 +1,48 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" text_id="10195" format="aldt" version="1.5" direction="ltr" xml:lang="grc">
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2019-10-15" layer="orig"/>
+  <annotator name="Marja Vierros" address="vierrosm@gmail.com" role="approved" date="2019-10-15" layer="reg"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated (previously)" date="2016-10-24" layer="orig"/>
+  <annotator name="Jamie Vesterinen" address="jamie.vesterinen@gmail.com" role="annotated (previously)" date="2016-10-24" layer="reg"/>
+  <document_meta name="o.claud.1.153.xml" series_name="o.claud" series_type="documentary" tm_id="24164" hgv_id="24164" date_not_before="100" date_not_after="120" place_name="Egypt: Eastern Desert"/>
+  <hand_meta name="m1" id="1">
+    <text_type hypercategory="" category="" subcategory=""/>
+    <text_type hypercategory="PRIVATE" category="Letter" subcategory=""/>
+    <person pg_id="35" tm_id="141517" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Bithos (Βίθος)" gender="1" uncertain=""/>
+    <person pg_id="36" tm_id="141518" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Chrysanthos (Χρύσανθος)" gender="1" uncertain=""/>
+    <person pg_id="35" tm_id="141517" role="writer" handwriting="Adam Bülow-Jacobsen: &quot;A curious letter written in a coarse, inexperienced hand.&quot;" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="inexperienced hand" name="Bithos (Βίθος)" gender="1" uncertain="1"/>
+    <person pg_id="35" tm_id="141517" role="author" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Bithos (Βίθος)" gender="1" uncertain=""/>
+    <person pg_id="36" tm_id="141518" role="addressee" handwriting="" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Chrysanthos (Χρύσανθος)" gender="1" uncertain=""/>
+    <person pg_id="35" tm_id="141517" role="writer" handwriting="A coarse, inexperienced hand. (Bülow-Jacobsen 1992, p. 140)" honorific_epithet="" ethnic_label="" occupation="" domicile="" age="" education="" name="Bithos (Βίθος)" gender="1" uncertain="1"/>
+  </hand_meta>
+  <sentence id="1">
+    <word id="1" orig_form="Βίθος" lemma_orig="Βιθος" postag_orig="n-s---mn-" relation_orig="SBJ" head_orig="7" form_reg="Βίθος" lemma_reg="Βιθος" postag_reg="n-s---mn-" relation_reg="SBJ" head_reg="7" textpart="" line_n="1" lang="grc" hand="m1"/>
+    <word id="2" orig_form="Χρυσάν|θῳ" lemma_orig="Χρύσανθος" postag_orig="n-s---md-" relation_orig="OBJ" head_orig="7" form_reg="Χρυσάν|θῳ" lemma_reg="Χρύσανθος" postag_reg="n-s---md-" relation_reg="OBJ" head_reg="7" textpart="" line_n="2" lang="grc" hand="m1"/>
+    <word id="3" orig_form="τῷ" lemma_orig="ὁ" postag_orig="l-s---md-" relation_orig="ATR" head_orig="4" form_reg="τῷ" lemma_reg="ὁ" postag_reg="l-s---md-" relation_reg="ATR" head_reg="4" textpart="" line_n="2" lang="grc" hand="m1"/>
+    <word id="4" orig_form="ἀαδελφ" lemma_orig="ἀδελφός" postag_orig="n-s---m_-" relation_orig="ATR" head_orig="2" form_reg="ἀδελφ&lt;ῷ&gt;" lemma_reg="ἀδελφός" postag_reg="n-s---md-" relation_reg="ATR" head_reg="2" textpart="" line_n="2" lang="grc" hand="m1"/>
+    <word id="5" orig_form="(χα(ίρειν))" lemma_orig="χαίρω" postag_orig="v_____---" relation_orig="OBJ" head_orig="7" form_reg="(χα(ίρειν))" lemma_reg="χαίρω" postag_reg="v--pna---" relation_reg="OBJ" head_reg="7" textpart="" line_n="2" lang="grc" hand="m1"/>
+    <word id="6" orig_form="." lemma_orig="punc1" postag_orig="u--------" relation_orig="AuxK" head_orig="0" form_reg="." lemma_reg="punc1" postag_reg="u--------" relation_reg="AuxK" head_reg="0" textpart="" line_n="2" lang="grc" hand="m1"/>
+    <word id="7" orig_form="[0]" lemma_orig="" postag_orig="" relation_orig="PRED" head_orig="0" form_reg="[0]" lemma_reg="" postag_reg="" relation_reg="PRED" head_reg="0" insertion_id="0005e" artificial="elliptic" textpart="" line_n="" lang="" hand=""/>
+  </sentence>
+  <sentence id="2">
+    <word id="1" orig_form="κ̣α̣λ̣ῶς" lemma_orig="καλός" postag_orig="d-------p" relation_orig="ADV" head_orig="2" form_reg="κ̣α̣λ̣ῶς" lemma_reg="καλός" postag_reg="d-------p" relation_reg="ADV" head_reg="2" textpart="" line_n="3" lang="grc" hand="m1"/>
+    <word id="2" orig_form="ποήσις" lemma_orig="ποιέω" postag_orig="v2sfia---" relation_orig="PRED" head_orig="0" form_reg="ποιήσεις" lemma_reg="ποιέω" postag_reg="v2sfia---" relation_reg="PRED" head_reg="0" textpart="" line_n="3" lang="grc" hand="m1"/>
+    <word id="3" orig_form="δω|ις" lemma_orig="δίδωμι" postag_orig="v_____---" relation_orig="ADV" head_orig="2" form_reg="δο|(?)ὺς" lemma_reg="δίδωμι" postag_reg="v-sapamn-" relation_reg="ADV" head_reg="2" textpart="" line_n="4" lang="grc" hand="m1"/>
+    <word id="4" orig_form="ἑπτὰ" lemma_orig="ἑπτά" postag_orig="m-p---__-" relation_orig="ATR" head_orig="5" form_reg="ἑπτὰ" lemma_reg="ἑπτά" postag_reg="m-p---__-" relation_reg="ATR" head_reg="5" textpart="" line_n="4" lang="grc" hand="m1"/>
+    <word id="5" orig_form="στατῆράς" lemma_orig="στατήρ" postag_orig="n-p---ma-" relation_orig="OBJ" head_orig="3" form_reg="στατῆράς" lemma_reg="στατήρ" postag_reg="n-p---ma-" relation_reg="OBJ" head_reg="3" textpart="" line_n="4" lang="grc" hand="m1"/>
+    <word id="6" orig_form="τ̣ι̣ν̣ι̣" lemma_orig="τις" postag_orig="p-s----d-" relation_orig="OBJ" head_orig="8" form_reg="τ̣ι̣ν̣ι̣" lemma_reg="τις" postag_reg="p-s----d-" relation_reg="OBJ" head_reg="8" textpart="" line_n="5" lang="grc" hand="m1"/>
+    <word id="7" orig_form="ἂν" lemma_orig="ἄν1" postag_orig="d--------" relation_orig="AuxY" head_orig="8" form_reg="ἂν" lemma_reg="ἄν1" postag_reg="d--------" relation_reg="AuxY" head_reg="8" textpart="" line_n="5" lang="grc" hand="m1"/>
+    <word id="8" orig_form="θέλῃς" lemma_orig="ἐθέλω" postag_orig="v2spsa---" relation_orig="OBJ" head_orig="3" form_reg="θέλῃς" lemma_reg="ἐθέλω" postag_reg="v2spsa---" relation_reg="OBJ" head_reg="3" textpart="" line_n="5" lang="grc" hand="m1"/>
+    <word id="9" orig_form="." lemma_orig="punc1" postag_orig="u--------" relation_orig="AuxK" head_orig="0" form_reg="." lemma_reg="punc1" postag_reg="u--------" relation_reg="AuxK" head_reg="0" textpart="" line_n="5" lang="grc" hand="m1"/>
+  </sentence>
+  <sentence id="3">
+    <word id="1" orig_form="περὶ" lemma_orig="περί" postag_orig="r--------" relation_orig="AuxP" head_orig="5" form_reg="περὶ" lemma_reg="περί" postag_reg="r--------" relation_reg="AuxP" head_reg="5" textpart="" line_n="5" lang="grc" hand="m1"/>
+    <word id="2" orig_form="τοῦ" lemma_orig="ὁ" postag_orig="l-s---ng-" relation_orig="ATR" head_orig="3" form_reg="τοῦ" lemma_reg="ὁ" postag_reg="l-s---ng-" relation_reg="ATR" head_reg="3" textpart="" line_n="5" lang="grc" hand="m1"/>
+    <word id="3" orig_form="χ̣οι̣ρι̣δί̣ο̣υ̣" lemma_orig="χοιρίδιον" postag_orig="n-s---ng-" relation_orig="ADV" head_orig="1" form_reg="χ̣οι̣ρι̣δί̣ο̣υ̣" lemma_reg="χοιρίδιον" postag_reg="n-s---ng-" relation_reg="ADV" head_reg="1" textpart="" line_n="6" lang="grc" hand="m1"/>
+    <word id="4" orig_form="," lemma_orig="punc1" postag_orig="u--------" relation_orig="AuxX" head_orig="1" form_reg="," lemma_reg="punc1" postag_reg="u--------" relation_reg="AuxX" head_reg="1" textpart="" line_n="6" lang="grc" hand="m1"/>
+    <word id="5" orig_form="ἔλαβα" lemma_orig="λαμβάνω" postag_orig="v1saia---" relation_orig="PRED" head_orig="0" form_reg="ἔλαβα" lemma_reg="λαμβάνω" postag_reg="v1saia---" relation_reg="PRED" head_reg="0" textpart="" line_n="6" lang="grc" hand="m1"/>
+    <word id="6" orig_form="χάριν̣" lemma_orig="χάρις" postag_orig="n-s---fa-" relation_orig="ADV" head_orig="5" form_reg="χάριν̣" lemma_reg="χάρις" postag_reg="n-s---fa-" relation_reg="ADV" head_reg="5" textpart="" line_n="6" lang="grc" hand="m1"/>
+    <word id="7" orig_form="σ̣τ̣α̣τ̣ῆ̣ρ̣α[ς]" lemma_orig="στατήρ" postag_orig="n-_---m_-" relation_orig="OBJ" head_orig="5" form_reg="σ̣τ̣α̣τ̣ῆ̣ρ̣α[ς]" lemma_reg="στατήρ" postag_reg="n-p---ma-" relation_reg="OBJ" head_reg="5" textpart="" line_n="7" lang="grc" hand="m1"/>
+    <word id="8" orig_form="[_.?]_.4" lemma_orig="" postag_orig="" relation_orig="" head_orig="" form_reg="[_.?]_.4" lemma_reg="" postag_reg="" relation_reg="" head_reg="0" textpart="" line_n="7" lang="grc" hand="m1"/>
+    <word id="9" orig_form="[_.?lin]" lemma_orig="" postag_orig="" relation_orig="" head_orig="" form_reg="[_.?lin]" lemma_reg="" postag_reg="" relation_reg="" head_reg="0" textpart="" line_n="8" lang="grc" hand="m1"/>
+  </sentence>
+</treebank>

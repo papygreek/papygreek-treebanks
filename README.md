@@ -4,9 +4,9 @@
 
 These XML files contain documentary papyrus texts written in Postclassical Greek (ca. 300 BCE–700 CE), morphosyntactically annotated according to Dependency Grammar. The source of the digital editions of the papyri is [Papyri.info IDP (Integrating Digital Papyrology) Data](https://github.com/papyri/idp.data) in TEI EpiDoc XML, and the texts have been preprocessed into annotatable form (omitting TEI tags) to include both editorial regularisations (`reg`) and the original (`orig`) forms of the words (cf. [Vierros and Henriksson 2017](https://hal.archives-ouvertes.fr/hal-01279493v2), [Vierros 2018)](https://www.degruyter.com/document/doi/10.1515/9783110547450-006/html); the linguistic annotation of the `reg` and `orig` tokens may differ from one another, revealing linguistic variation. The platform for handling the papyri (preprocessing, annotation, adding metadata, etc.) is the [PapyGreek portal](https://papygreek.hum.helsinki.fi/), developed by Henriksson for the project [Digital Grammar of Greek Documentary Papyri (PapyGreek)](https://www2.helsinki.fi/en/researchgroups/digital-grammar-of-greek-documentary-papyri). PapyGreek portal has replaced the older platform _Sematia_ (no longer used), and we have imported some of the annotations included in _Sematia_ into PapyGreek.
 
-- Text count 496
-- Sentence count 4012
-- Token count 55134
+- Text count 558
+- Sentence count 4557
+- Token count 65702
 
 The syntactic trees have been semi-manually annotated by different people (indicated in the metadata tag `<annotator>`) using the [Arethusa](https://www.perseids.org/tools/arethusa/app/#/) editor, and each text has gone through a review process (review board: Marja Vierros and Polina Yordanova). We have followed the Ancient Greek Dependency Treebank Guidelines 2.0 ([Celano 2014](https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md)) for the morphological and syntactic layer (the advanced syntactic/semantic layer is not included). Additional PapyGreek Guidelines are [here](https://docs.google.com/document/d/1bqZaRU2E_Ixg6Z3s9qcY4EWN6DB1k5C3I4Vgs7vSsh4/edit#heading=h.yi9iujik2bb2). All morphological information is in the nine-place string of the `<postag>` ([key](https://docs.google.com/document/d/1hzrAkSwhTcHVBnJSOJ28j6PP1vPP9MiQo5Zj989dttc/edit?usp=sharing)). The morphological data from which the annotator could select the correct form was first provided by Morpheus in Arethusa; later we were provided the automatically parsed morphological data by Alek Keersmaekers, for which occasional corrections have been done.
 
@@ -22,4 +22,4 @@ The syntactic trees have been semi-manually annotated by different people (indic
 
 The treebanks are licensed under a CC BY-SA 4.0 License (see LICENSE file).
 
-Version 2.04 (7 October 2022)
+Version 3.0 (10 October 2023)
